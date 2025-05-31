@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sessiz Sinema - Öneri 🎬✨</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="dark-theme">
+  <div class="container">
+    <h1 id="pageTitle">Öneri 🎬✨</h1>
+
+    <div id="buttonArea" class="button-group"></div>
+
+    <div id="icerikAlani"></div>
+
+    <div class="footer">
+      <button id="anaEkranaDonFooter" class="geri-btn">🏠 Ana Ekrana Dön</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    document.getElementById('anaEkranaDonFooter').addEventListener('click', () => {
+      window.location.href = 'index.html';
+    });
+  </script>
+</body>
+</html>

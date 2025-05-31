@@ -1,0 +1,2002 @@
+[
+  {
+    "AD": "Game of Thrones",
+    "YIL": "2011–2019",
+    "AÇIKLAMA": "Krallıklar arasındaki taht mücadelesi ve ihanet dolu entrikalarla dolu epik bir fantastik drama."
+  },
+  {
+    "AD": "Breaking Bad",
+    "YIL": "2008–2013",
+    "AÇIKLAMA": "Kanser teşhisi sonrası yasa dışı uyuşturucu işine giren bir kimya öğretmeninin karanlık dönüşümü."
+  },
+  {
+    "AD": "The Walking Dead",
+    "YIL": "2010–2022",
+    "AÇIKLAMA": "Zombi kıyametinden sonra hayatta kalanların umuda ve hayata tutunma mücadelesi."
+  },
+  {
+    "AD": "The Big Bang Theory",
+    "YIL": "2007–2019",
+    "AÇIKLAMA": "Sosyal becerileri zayıf dört dahi arkadaşın komik ve samimi hayat hikayesi."
+  },
+  {
+    "AD": "Sherlock",
+    "YIL": "2010–2017",
+    "AÇIKLAMA": "Modern Londra’da sıra dışı zekâya sahip dedektif Sherlock Holmes’un gizemli suçları çözme macerası."
+  },
+  {
+    "AD": "Dexter",
+    "YIL": "2006–2013",
+    "AÇIKLAMA": "Gece seri katil, gündüz kan analisti olan karmaşık bir karakterin ikili hayatı."
+  },
+  {
+    "AD": "Friends",
+    "YIL": "1994–2004",
+    "AÇIKLAMA": "New York’ta yaşayan altı yakın arkadaşın aşk, dostluk ve hayat mücadelesi."
+  },
+  {
+    "AD": "How I Met Your Mother",
+    "YIL": "2005–2014",
+    "AÇIKLAMA": "Baba olma yolunda geçmişi anlatan, arkadaşlık ve aşk dolu eğlenceli bir seri."
+  },
+  {
+    "AD": "Lost",
+    "YIL": "2004–2010",
+    "AÇIKLAMA": "Uçak kazasından sonra gizemli bir adada hayatta kalma ve sırların ortaya çıkması."
+  },
+  {
+    "AD": "Prison Break",
+    "YIL": "2005–2017",
+    "AÇIKLAMA": "Haksız yere mahkum edilen kardeşini kaçırmak için plan yapan adamın nefes kesen macerası."
+  },
+  {
+    "AD": "True Detective",
+    "YIL": "2014–",
+    "AÇIKLAMA": "Her sezon farklı bir gizemli cinayetin derinlemesine ve karanlık soruşturması."
+  },
+  {
+    "AD": "House of Cards",
+    "YIL": "2013–2018",
+    "AÇIKLAMA": "Washington DC’de acımasız bir politikacının iktidar hırsı ve entrikaları."
+  },
+  {
+    "AD": "House",
+    "YIL": "2004–2012",
+    "AÇIKLAMA": "Alaycı ve dahi doktor Gregory House’un karmaşık hastalıkları çözme serüveni."
+  },
+  {
+    "AD": "Arrow",
+    "YIL": "2012–2020",
+    "AÇIKLAMA": "Zengin iş adamından suçla savaşan maskeli kahramana dönüşen Oliver Queen’in hikayesi."
+  },
+  {
+    "AD": "Supernatural",
+    "YIL": "2005–2020",
+    "AÇIKLAMA": "Kardeşlerin doğaüstü yaratıklarla dolu tehlikeli yolculuğu ve aile bağları."
+  },
+  {
+    "AD": "The Simpsons",
+    "YIL": "1989–",
+    "AÇIKLAMA": "Amerikan banliyösünde yaşayan sarı tenli ailenin komik ve hiciv dolu maceraları."
+  },
+  {
+    "AD": "Modern Family",
+    "YIL": "2009–2020",
+    "AÇIKLAMA": "Üç farklı aile üzerinden günümüz modern yaşamının sıcak ve komik portresi."
+  },
+  {
+    "AD": "Suits",
+    "YIL": "2011–2019",
+    "AÇIKLAMA": "Hukuk dünyasında zeki ama diplomasız bir adamın avukat olma mücadelesi."
+  },
+  {
+    "AD": "Family Guy",
+    "YIL": "1999–",
+    "AÇIKLAMA": "Absürt mizahı ve çılgın karakterleriyle Griffin ailesinin günlük hayatı."
+  },
+  {
+    "AD": "South Park",
+    "YIL": "1997–",
+    "AÇIKLAMA": "Küçük bir kasabada yaşayan dört çocuğun politik hiciv dolu maceraları."
+  },
+  {
+    "AD": "Homeland",
+    "YIL": "2011–2020",
+    "AÇIKLAMA": "CIA ajanı Carrie Mathison’ın terörle mücadeledeki karmaşık ve tehlikeli hayatı."
+  },
+  {
+    "AD": "The Vampire Diaries",
+    "YIL": "2009–2017",
+    "AÇIKLAMA": "Gizemli vampirler ve insanlar arasında geçen aşk, ihanet ve mücadele hikayesi."
+  },
+  {
+    "AD": "Daredevil",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "Görme engelli avukatın geceleri suçla savaşan kahramana dönüşümü."
+  },
+  {
+    "AD": "Arrested Development",
+    "YIL": "2003–2019",
+    "AÇIKLAMA": "Aile servetini kaybeden tuhaf Bluth ailesinin absürt hikayesi."
+  },
+  {
+    "AD": "True Blood",
+    "YIL": "2008–2014",
+    "AÇIKLAMA": "Vampirlerin ve insanların birlikte yaşadığı karanlık ve tutkulu bir kasaba."
+  },
+  {
+    "AD": "Heroes",
+    "YIL": "2006–2010",
+    "AÇIKLAMA": "Normal insanların süper güçler kazanması ve dünyayı kurtarma mücadelesi."
+  },
+  {
+    "AD": "The Office",
+    "YIL": "2005–2013",
+    "AÇIKLAMA": "Bir ofisin günlük iş hayatındaki komik, samimi ve tuhaf anları."
+  },
+  {
+    "AD": "Two and a Half Men",
+    "YIL": "2003–2015",
+    "AÇIKLAMA": "İki kardeş ve onların büyüyen çocuklarının komik ilişkileri."
+  },
+  {
+    "AD": "Scrubs",
+    "YIL": "2001–2010",
+    "AÇIKLAMA": "Genç doktorların hastane ortamındaki dostluk, aşk ve komik anıları."
+  },
+  {
+    "AD": "American Horror Story",
+    "YIL": "2011–",
+    "AÇIKLAMA": "Her sezon farklı korku temasıyla karanlık ve gizemli hikayeler."
+  },
+  {
+    "AD": "Vikings",
+    "YIL": "2013–2020",
+    "AÇIKLAMA": "İskandinav savaşçıların macera, savaş ve güç için verdiği mücadele."
+  },
+  {
+    "AD": "The Sopranos",
+    "YIL": "1999–2007",
+    "AÇIKLAMA": "Mafya babasının aile ve suç dünyası arasındaki karmaşık hayatı."
+  },
+  {
+    "AD": "The Wire",
+    "YIL": "2002–2008",
+    "AÇIKLAMA": "Baltimore’un suç, polis ve toplum hayatını gerçekçi bir şekilde anlatan drama."
+  },
+  {
+    "AD": "Orange Is the New Black",
+    "YIL": "2013–2019",
+    "AÇIKLAMA": "Kadın cezaevindeki farklı karakterlerin güçlü hikayeleri."
+  },
+  {
+    "AD": "Firefly",
+    "YIL": "2002–2003",
+    "AÇIKLAMA": "Uzayda kaçakçılık yapan renkli bir ekibin maceraları."
+  },
+  {
+    "AD": "The Flash",
+    "YIL": "2014–2023",
+    "AÇIKLAMA": "Süper hız gücüne sahip kahramanın şehri koruma mücadelesi."
+  },
+  {
+    "AD": "Sons of Anarchy",
+    "YIL": "2008–2014",
+    "AÇIKLAMA": "Motosiklet kulübü ve üyelerinin aile, suç ve sadakatle dolu hayatı."
+  },
+  {
+    "AD": "Fringe",
+    "YIL": "2008–2013",
+    "AÇIKLAMA": "Bilim ve gizem dolu paralel evrenleri keşfeden özel bir ekip."
+  },
+  {
+    "AD": "Spartacus",
+    "YIL": "2010–2013",
+    "AÇIKLAMA": "İsyan eden gladyatörlerin epik ve kanlı hikayesi."
+  },
+  {
+    "AD": "Seinfeld",
+    "YIL": "1989–1998",
+    "AÇIKLAMA": "New York’ta sıradan ama komik günlük hayat kesitleri."
+  },
+  {
+    "AD": "Fargo",
+    "YIL": "2014–2020",
+    "AÇIKLAMA": "Soğuk Kuzey Amerika’da geçen suç ve kara mizah dolu hikayeler."
+  },
+  {
+    "AD": "Once Upon a Time",
+    "YIL": "2011–2018",
+    "AÇIKLAMA": "Masal kahramanları gerçek dünyada yeni maceralara atılır."
+  },
+  {
+    "AD": "Grey's Anatomy",
+    "YIL": "2005–2024",
+    "AÇIKLAMA": "Acil serviste aşk, dram ve hayat mücadeleleri."
+  },
+  {
+    "AD": "Hannibal",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Zeki ve karanlık bir psikiyatristin gizemli suçları."
+  },
+  {
+    "AD": "Mr. Robot",
+    "YIL": "2015–2019",
+    "AÇIKLAMA": "Siber güvenlik ve toplumsal isyanın çarpıcı hikayesi."
+  },
+  {
+    "AD": "Futurama",
+    "YIL": "1999–2013",
+    "AÇIKLAMA": "Gelecekte geçen komik ve absürt bir uzay macerası."
+  },
+  {
+    "AD": "Better Call Saul",
+    "YIL": "2015–2022",
+    "AÇIKLAMA": "Kurnaz bir avukatın suç dünyasına inişi."
+  },
+  {
+    "AD": "Doctor Who",
+    "YIL": "2005–present",
+    "AÇIKLAMA": "Zaman yolculuğu yapan eksantrik bir uzaylı kahraman."
+  },
+  {
+    "AD": "The X-Files",
+    "YIL": "1993–2018",
+    "AÇIKLAMA": "Paranormal olayları araştıran FBI ajanları."
+  },
+  {
+    "AD": "24",
+    "YIL": "2001–2010",
+    "AÇIKLAMA": "Bir gün içinde terörle mücadele eden ajan Jack Bauer."
+  },
+  {
+    "AD": "Californication",
+    "YIL": "2007–2014",
+    "AÇIKLAMA": "Karmaşık aşk hayatı ve yazarlık mücadelesi."
+  },
+  {
+    "AD": "Community",
+    "YIL": "2009–2015",
+    "AÇIKLAMA": "Farklı karakterlerin bir arada olduğu komik üniversite ortamı."
+  },
+  {
+    "AD": "Mad Men",
+    "YIL": "2007–2015",
+    "AÇIKLAMA": "1960'larda reklam dünyasında güç ve entrikalar."
+  },
+  {
+    "AD": "Agents of S.H.I.E.L.D.",
+    "YIL": "2013–2020",
+    "AÇIKLAMA": "Süper kahraman dünyasında gizli ajanların macerası."
+  },
+  {
+    "AD": "New Girl",
+    "YIL": "2011–2018",
+    "AÇIKLAMA": "Bir evde yaşayan dört arkadaşın eğlenceli hayatı."
+  },
+  {
+    "AD": "Boardwalk Empire",
+    "YIL": "2010–2014",
+    "AÇIKLAMA": "1920’lerin Amerika’sında mafya ve siyasetin iç yüzü."
+  },
+  {
+    "AD": "Entourage",
+    "YIL": "2004–2011",
+    "AÇIKLAMA": "Hollywood’da yükselen bir aktör ve arkadaşlarının hayatı."
+  },
+  {
+    "AD": "It's Always Sunny in Philadelphia",
+    "YIL": "2005–present",
+    "AÇIKLAMA": "Absürt ve karanlık mizah dolu beş arkadaşın maceraları."
+  },
+  {
+    "AD": "Gotham",
+    "YIL": "2014–2019",
+    "AÇIKLAMA": "Batman’in şehri Gotham’ın karanlık suç hikayeleri."
+  },
+  {
+    "AD": "The Mentalist",
+    "YIL": "2008–2015",
+    "AÇIKLAMA": "Suçları çözmek için olağanüstü sezgilerini kullanan adam."
+  },
+  {
+    "AD": "Avatar The Last Airbender",
+    "YIL": "2005–2008",
+    "AÇIKLAMA": "Elementleri kontrol eden genç bir kahramanın yolculuğu."
+  },
+  {
+    "AD": "Person of Interest",
+    "YIL": "2011–2016",
+    "AÇIKLAMA": "Gizemli bir yapay zeka ve suç önleme hikayesi."
+  },
+  {
+    "AD": "Parks and Recreation",
+    "YIL": "2009–2020",
+    "AÇIKLAMA": "Küçük kasabada çalışan kamu görevlilerinin komik hayatı."
+  },
+  {
+    "AD": "Battlestar Galactica",
+    "YIL": "2004–2009",
+    "AÇIKLAMA": "İnsanlığın uzaydaki hayatta kalma mücadelesi ve yapay zekayla savaş."
+  },
+  {
+    "AD": "Castle",
+    "YIL": "2009–2016",
+    "AÇIKLAMA": "Gizemli cinayetleri çözen yazar ve dedektifin uyumlu takımı."
+  },
+  {
+    "AD": "Glee",
+    "YIL": "2009–2015",
+    "AÇIKLAMA": "Lise korosunda gençlerin hayalleri ve dostlukları."
+  },
+  {
+    "AD": "Gossip Girl",
+    "YIL": "2007–2012",
+    "AÇIKLAMA": "Zengin New York gençlerinin sırlarla dolu hayatları."
+  },
+  {
+    "AD": "Pretty Little Liars",
+    "YIL": "2010–2017",
+    "AÇIKLAMA": "Karanlık sırların ve tehditlerin gölgesinde gençlerin hayatı."
+  },
+  {
+    "AD": "That '70s Show",
+    "YIL": "1998–2006",
+    "AÇIKLAMA": "1970’lerde gençlik, arkadaşlık ve aile komedisi."
+  },
+  {
+    "AD": "Rome",
+    "YIL": "2005–2007",
+    "AÇIKLAMA": "Antik Roma’nın entrika ve savaşlarla dolu günleri."
+  },
+  {
+    "AD": "Downton Abbey",
+    "YIL": "2010–2015",
+    "AÇIKLAMA": "İngiliz aristokrasisinin yaşamı ve sosyal değişimleri."
+  },
+  {
+    "AD": "Bones",
+    "YIL": "2005–2017",
+    "AÇIKLAMA": "Adli antropolog ve FBI’ın suç çözme ortaklığı."
+  },
+  {
+    "AD": "Narcos",
+    "YIL": "2015–2017",
+    "AÇIKLAMA": "Uyuşturucu kartellerinin yükselişi ve çöküşü."
+  },
+  {
+    "AD": "Death Note",
+    "YIL": "2006–2007",
+    "AÇIKLAMA": "Ölüm defteriyle güç kazanan genç ve peşindekiler."
+  },
+  {
+    "AD": "Criminal Minds",
+    "YIL": "2005–2020",
+    "AÇIKLAMA": "FBI profil ekibinin suçluları psikolojik analizle yakalaması."
+  },
+  {
+    "AD": "Twin Peaks",
+    "YIL": "1990–1991, 2017",
+    "AÇIKLAMA": "Küçük kasabada gizemli cinayet ve tuhaf olaylar."
+  },
+  {
+    "AD": "Chuck",
+    "YIL": "2007–2012",
+    "AÇIKLAMA": "Sıradan adamın istemeden süper casus olması."
+  },
+  {
+    "AD": "The Blacklist",
+    "YIL": "2013–present",
+    "AÇIKLAMA": "Eski suçlu ve FBI işbirliğiyle suçluların yakalanması."
+  },
+  {
+    "AD": "The 100",
+    "YIL": "2014–2020",
+    "AÇIKLAMA": "Nükleer sonrası dünyada hayatta kalan gençlerin mücadelesi."
+  },
+  {
+    "AD": "Buffy the Vampire Slayer",
+    "YIL": "1997–2003",
+    "AÇIKLAMA": "Genç bir kızın vampirler ve kötülükle savaşı."
+  },
+  {
+    "AD": "Revenge",
+    "YIL": "2011–2015",
+    "AÇIKLAMA": "İntikam peşindeki genç kadının planları ve entrikalar."
+  },
+  {
+    "AD": "Shameless",
+    "YIL": "2011–2021",
+    "AÇIKLAMA": "Kaotik ve zorluklarla dolu bir aile hayatı."
+  },
+  {
+    "AD": "Smallville",
+    "YIL": "2001–2011",
+    "AÇIKLAMA": "Clark Kent’in kahramanlığa giden gençlik yılları."
+  },
+  {
+    "AD": "Malcolm in the Middle",
+    "YIL": "2000–2006",
+    "AÇIKLAMA": "Zeki çocuk ve çılgın ailesinin komik hayatı."
+  },
+  {
+    "AD": "White Collar",
+    "YIL": "2009–2014",
+    "AÇIKLAMA": "Suçlu ve FBI ortaklığıyla ilginç suç vakaları."
+  },
+  {
+    "AD": "Desperate Housewives",
+    "YIL": "2004–2012",
+    "AÇIKLAMA": "Banliyö hayatının sırları ve dramları."
+  },
+  {
+    "AD": "30 Rock",
+    "YIL": "2006–2013",
+    "AÇIKLAMA": "Televizyon yapımcılarının absürt ofis yaşamı."
+  },
+  {
+    "AD": "Jessica Jones",
+    "YIL": "2015–2019",
+    "AÇIKLAMA": "Eski süper kahraman ve özel dedektifin karanlık geçmişi."
+  },
+  {
+    "AD": "The IT Crowd",
+    "YIL": "2006–2013",
+    "AÇIKLAMA": "Teknoloji departmanında absürt ofis komedisi."
+  },
+  {
+    "AD": "Freaks and Geeks",
+    "YIL": "1999–2000",
+    "AÇIKLAMA": "Lise hayatının iniş çıkışları ve gençlik dramı."
+  },
+  {
+    "AD": "Six Feet Under",
+    "YIL": "2001–2005",
+    "AÇIKLAMA": "Ölüm işleriyle uğraşan ailenin iç içe hikayesi."
+  },
+  {
+    "AD": "The Fresh Prince of Bel-Air",
+    "YIL": "1990–1996",
+    "AÇIKLAMA": "Sokaktan zengin aileye taşınan genç adamın eğlenceli hayatı."
+  },
+  {
+    "AD": "Teen Wolf",
+    "YIL": "2011–2017",
+    "AÇIKLAMA": "Genç bir çocuğun kurt adam olma serüveni."
+  },
+  {
+    "AD": "Archer",
+    "YIL": "2009–present",
+    "AÇIKLAMA": "Abartılı ajanların komik ve absürt maceraları."
+  },
+  {
+    "AD": "Lie to Me",
+    "YIL": "2009–2011",
+    "AÇIKLAMA": "Yalanları yüzdeki ifadelerle ortaya çıkaran uzman."
+  },
+  {
+    "AD": "Weeds",
+    "YIL": "2005–2012",
+    "AÇIKLAMA": "Banliyö ev kadınının yasadışı işlerle dolu hayatı."
+  },
+  {
+    "AD": "NCIS",
+    "YIL": "2003–present",
+    "AÇIKLAMA": "Deniz kuvvetleri suçlarını çözen özel ekip."
+  },
+  {
+    "AD": "American Dad!",
+    "YIL": "2005–present",
+    "AÇIKLAMA": "Politik mizah ve absürt aile komedisi."
+  },
+  {
+    "AD": "Under the Dome",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Kasaba devasa bir kubbenin altında sıkışır."
+  },
+  {
+    "AD": "Grimm",
+    "YIL": "2011–2017",
+    "AÇIKLAMA": "Peri masalları karakterlerinin karanlık dünyası."
+  },
+  {
+    "AD": "My Name Is Earl",
+    "YIL": "2005–2009",
+    "AÇIKLAMA": "Şansını değiştirmek için iyi işler yapmaya çalışan adam."
+  },
+  {
+    "AD": "The Newsroom",
+    "YIL": "2012–2014",
+    "AÇIKLAMA": "Haber stüdyosunda idealist gazetecilerin hikayesi."
+  },
+  {
+    "AD": "Sex and the City",
+    "YIL": "1998–2004",
+    "AÇIKLAMA": "New York’ta dört kadının aşk, arkadaşlık ve hayat maceraları."
+  },
+  {
+    "AD": "Top Gear",
+    "YIL": "2002–",
+    "AÇIKLAMA": "Otomobil tutkunları için eğlenceli ve heyecan dolu test sürüşleri."
+  },
+  {
+    "AD": "Married... with Children",
+    "YIL": "1987–1997",
+    "AÇIKLAMA": "Absürt ve komik bir ailenin günlük hayatı."
+  },
+  {
+    "AD": "Dragon Ball Z",
+    "YIL": "1989–1996",
+    "AÇIKLAMA": "Dünyayı kurtarmak için savaşan güçlü savaşçıların hikayesi."
+  },
+  {
+    "AD": "Penny Dreadful",
+    "YIL": "2014–2016",
+    "AÇIKLAMA": "Korku klasiklerinden esinlenen gotik korku ve gizem."
+  },
+  {
+    "AD": "The Originals",
+    "YIL": "2013–2018",
+    "AÇIKLAMA": "Vampirlerin ve doğaüstü güçlerin New Orleans’daki savaşı."
+  },
+  {
+    "AD": "Misfits",
+    "YIL": "2009–2013",
+    "AÇIKLAMA": "Genç suçluların süper güçler kazanması ve başlarından geçenler."
+  },
+  {
+    "AD": "Falling Skies",
+    "YIL": "2011–2015",
+    "AÇIKLAMA": "Dünya’nın uzaylı istilasından sonra direnişin mücadelesi."
+  },
+  {
+    "AD": "The Following",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Seri katil ve peşindekilerin zorlu kovalamacası."
+  },
+  {
+    "AD": "Elementary",
+    "YIL": "2012–2019",
+    "AÇIKLAMA": "Modern Sherlock Holmes ve Watson’un suç çözme hikayesi."
+  },
+  {
+    "AD": "Revolution",
+    "YIL": "2012–2014",
+    "AÇIKLAMA": "Elektrik kesintisi sonrası dünyada hayatta kalma savaşı."
+  },
+  {
+    "AD": "Rick and Morty",
+    "YIL": "2013–",
+    "AÇIKLAMA": "Çılgın bilim adamı ve torununun çılgın maceraları."
+  },
+  {
+    "AD": "2 Broke Girls",
+    "YIL": "2011–2017",
+    "AÇIKLAMA": "İki garson kızın girişimcilik ve dostluk hikayesi."
+  },
+  {
+    "AD": "Stranger Things",
+    "YIL": "2016–",
+    "AÇIKLAMA": "Küçük kasabada doğaüstü olaylar ve gençlerin mücadelesi."
+  },
+  {
+    "AD": "Luther",
+    "YIL": "2010–2019",
+    "AÇIKLAMA": "Zeki dedektifin karanlık suçları çözme maceraları."
+  },
+  {
+    "AD": "Terra Nova",
+    "YIL": "2011",
+    "AÇIKLAMA": "Gelecekten gelen insanlarla dinozorların bir arada olduğu macera."
+  },
+  {
+    "AD": "Leyla and Mecnun",
+    "YIL": "2011–2014",
+    "AÇIKLAMA": "Absürt ve komik bir Türk dizisi, dostluk ve aşk temalı."
+  },
+  {
+    "AD": "Orphan Black",
+    "YIL": "2013–2017",
+    "AÇIKLAMA": "Genetik kopyalar arasında yaşanan gizem ve entrikalar."
+  },
+  {
+    "AD": "The Office",
+    "YIL": "2001–2003",
+    "AÇIKLAMA": "Ofiste geçen absürt ve komik günlük yaşam."
+  },
+  {
+    "AD": "The Killing",
+    "YIL": "2011–2014",
+    "AÇIKLAMA": "Cinayet soruşturması ve karmaşık polis hikayesi."
+  },
+  {
+    "AD": "Psych",
+    "YIL": "2006–2014",
+    "AÇIKLAMA": "Yanlışlıkla dedektif olarak çalışan esprili kahramanın maceraları."
+  },
+  {
+    "AD": "CSI Crime Scene Investigation",
+    "YIL": "2000–2015",
+    "AÇIKLAMA": "Suç mahallinde delillerle suç çözme."
+  },
+  {
+    "AD": "Oz",
+    "YIL": "1997–2003",
+    "AÇIKLAMA": "Hapishanede geçen sert ve dramatik hayat hikayeleri."
+  },
+  {
+    "AD": "Curb Your Enthusiasm",
+    "YIL": "2000–",
+    "AÇIKLAMA": "Ünlü komedyenin günlük hayattaki absürt durumları."
+  },
+  {
+    "AD": "The O.C.",
+    "YIL": "2003–2007",
+    "AÇIKLAMA": "Zengin banliyöde gençlerin aşk ve aile dramları."
+  },
+  {
+    "AD": "The Legend of Korra",
+    "YIL": "2012–2014",
+    "AÇIKLAMA": "Yeni Avatar’ın dünyayı dengeleme maceraları."
+  },
+  {
+    "AD": "Deadwood",
+    "YIL": "2004–2007",
+    "AÇIKLAMA": "Vahşi Batı’da kasabanın acımasız ve kaotik hayatı."
+  },
+  {
+    "AD": "Brooklyn Nine-Nine",
+    "YIL": "2013–2021",
+    "AÇIKLAMA": "Komik bir New York polis departmanı ekibinin hikayesi."
+  },
+  {
+    "AD": "Sense8",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "Dünya genelindeki sekiz kişinin telepatik bağları ve maceraları."
+  },
+  {
+    "AD": "Star Trek The Next Generation",
+    "YIL": "1987–1994",
+    "AÇIKLAMA": "Uzayda insanlık ve barış arayışı."
+  },
+  {
+    "AD": "Attack on Titan",
+    "YIL": "2013–2023",
+    "AÇIKLAMA": "İnsanların dev canavarlarla hayatta kalma savaşı."
+  },
+  {
+    "AD": "Justified",
+    "YIL": "2010–2015",
+    "AÇIKLAMA": "Özel kanun uygulayıcısının sert adalet arayışı."
+  },
+  {
+    "AD": "Stargate SG-1",
+    "YIL": "1997–2007",
+    "AÇIKLAMA": "Uzayda kapı sistemiyle yeni dünyalar keşfi ve savaş."
+  },
+  {
+    "AD": "Gilmore Girls",
+    "YIL": "2000–2007",
+    "AÇIKLAMA": "Anne-kız ilişkisinin sıcak ve esprili yaşamı."
+  },
+  {
+    "AD": "Mr. Bean",
+    "YIL": "1990–1995",
+    "AÇIKLAMA": "Kelimesiz, fiziksel mizah ustası komedi karakteri."
+  },
+  {
+    "AD": "Fear the Walking Dead",
+    "YIL": "2015–",
+    "AÇIKLAMA": "Zombi kıyametinin başlangıcında hayatta kalma mücadelesi."
+  },
+  {
+    "AD": "Da Vinci's Demons",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Genç Leonardo da Vinci’nin sırlarla dolu hayatı ve icatları."
+  },
+  {
+    "AD": "Silicon Valley",
+    "YIL": "2014–2019",
+    "AÇIKLAMA": "Teknoloji dünyasında girişimci gençlerin komik ve zorlu serüveni."
+  },
+  {
+    "AD": "The King of Queens",
+    "YIL": "1998–2007",
+    "AÇIKLAMA": "Evli çiftin komik ve gerçekçi günlük hayatı."
+  },
+  {
+    "AD": "How to Get Away with Murder",
+    "YIL": "2014–2020",
+    "AÇIKLAMA": "Hukuk profesörü ve öğrencilerinin karmaşık cinayet entrikaları."
+  },
+  {
+    "AD": "Skins",
+    "YIL": "2007–2013",
+    "AÇIKLAMA": "İngiliz gençlerinin aşk, arkadaşlık ve sorunlarla dolu hayatı."
+  },
+  {
+    "AD": "Burn Notice",
+    "YIL": "2007–2013",
+    "AÇIKLAMA": "Eski casusun Miami’de hayatta kalma ve gizem çözme hikayesi."
+  },
+  {
+    "AD": "Bates Motel",
+    "YIL": "2013–2017",
+    "AÇIKLAMA": "Norman Bates’in çocukluğundan başlayarak karanlık dönüşümü."
+  },
+  {
+    "AD": "SpongeBob SquarePants",
+    "YIL": "1999–",
+    "AÇIKLAMA": "Deniz altındaki neşeli sünger ve arkadaşlarının maceraları."
+  },
+  {
+    "AD": "Louie",
+    "YIL": "2010–2015",
+    "AÇIKLAMA": "Komedyen Louie C.K.’nin absürt ve gerçekçi hayat kesitleri."
+  },
+  {
+    "AD": "Fawlty Towers",
+    "YIL": "1975–1979",
+    "AÇIKLAMA": "Absürt otel sahibinin komik ve kaotik maceraları."
+  },
+  {
+    "AD": "Black Mirror",
+    "YIL": "2011–",
+    "AÇIKLAMA": "Teknolojinin karanlık ve distopik yüzünü gösteren bağımsız hikayeler."
+  },
+  {
+    "AD": "One Tree Hill",
+    "YIL": "2003–2012",
+    "AÇIKLAMA": "Küçük kasabadaki gençlerin aşk, dostluk ve rekabeti."
+  },
+  {
+    "AD": "Peaky Blinders",
+    "YIL": "2013–2022",
+    "AÇIKLAMA": "Çete lideri ve ailesinin acımasız güç savaşları."
+  },
+  {
+    "AD": "Charmed",
+    "YIL": "1998–2006",
+    "AÇIKLAMA": "Üç cadı kardeşin doğaüstü güçleriyle kötülükle savaşı."
+  },
+  {
+    "AD": "Banshee",
+    "YIL": "2013–2016",
+    "AÇIKLAMA": "Küçük kasabanın yeni şerifi ve geçmişinden kaçan adamın hikayesi."
+  },
+  {
+    "AD": "Merlin",
+    "YIL": "2008–2012",
+    "AÇIKLAMA": "Genç büyücü Merlin’in kral Arthur’a olan sadakati ve maceraları."
+  },
+  {
+    "AD": "The Inbetweeners",
+    "YIL": "2008–2010",
+    "AÇIKLAMA": "Lise öğrencilerinin komik ve garip sosyal hayatı."
+  },
+  {
+    "AD": "Frasier",
+    "YIL": "1993–2004",
+    "AÇIKLAMA": "Radyo programcısı psikiyatristin aile ve arkadaş çevresiyle komik halleri."
+  },
+  {
+    "AD": "Veronica Mars",
+    "YIL": "2004–2019",
+    "AÇIKLAMA": "Liseli dedektifin karmaşık suçları çözme hikayesi."
+  },
+  {
+    "AD": "The Shield",
+    "YIL": "2002–2008",
+    "AÇIKLAMA": "Sert polislerin yozlaşma ve adalet mücadelesi."
+  },
+  {
+    "AD": "Flashforward",
+    "YIL": "2009–2010",
+    "AÇIKLAMA": "Dünya genelinde yaşanan gizemli zaman kaybı sonrası olaylar."
+  },
+  {
+    "AD": "The Strain",
+    "YIL": "2014–2017",
+    "AÇIKLAMA": "Vampir salgını ve hayatta kalanların korku dolu savaşı."
+  },
+  {
+    "AD": "Black Sails",
+    "YIL": "2014–2017",
+    "AÇIKLAMA": "Korsanların altın çağında hazine ve ihanet hikayesi."
+  },
+  {
+    "AD": "Law & Order Special Victims Unit ",
+    "YIL": "1999– ",
+    "AÇIKLAMA": "Özel suçları araştıran polis biriminin gerçekçi hikayeleri."
+  },
+  {
+    "AD": "Batman The Animated Series",
+    "YIL": "1992–1995",
+    "AÇIKLAMA": "Kara şövalyenin Gotham’ı koruma mücadeleleri."
+  },
+  {
+    "AD": "Cowboy Bebop",
+    "YIL": "1998–1999",
+    "AÇIKLAMA": "Uzayda ödül avcılarının macera ve geçmişleri."
+  },
+  {
+    "AD": "Scandal",
+    "YIL": "2012–2018",
+    "AÇIKLAMA": "Washington DC’de siyasi skandallar ve kriz yönetimi."
+  },
+  {
+    "AD": "Angel",
+    "YIL": "1999–2004",
+    "AÇIKLAMA": "Vampir avcısı Angel’ın Los Angeles’taki karanlık maceraları."
+  },
+  {
+    "AD": "Terminator The Sarah Connor Chronicles",
+    "YIL": "2008–2009",
+    "AÇIKLAMA": "Sarah Connor ve oğlunun robotlarla hayatta kalma savaşı."
+  },
+  {
+    "AD": "Everybody Loves Raymond",
+    "YIL": "1996–2005",
+    "AÇIKLAMA": "Komik ve samimi bir aile hayatı portresi."
+  },
+  {
+    "AD": "The Tudors",
+    "YIL": "2007–2010",
+    "AÇIKLAMA": "İngiltere Kralı VIII. Henry’nin çalkantılı saltanatı."
+  },
+  {
+    "AD": "Monk",
+    "YIL": "2002–2009",
+    "AÇIKLAMA": "Takıntılı dedektif Monk’un suçları çözme becerisi ve kişisel zorlukları."
+  },
+  {
+    "AD": "Fullmetal Alchemist Brotherhood",
+    "YIL": "2009–2010",
+    "AÇIKLAMA": "İki kardeşin kaybettikleri bedenlerini geri almak için büyülü yolculuğu."
+  },
+  {
+    "AD": "Outlander",
+    "YIL": "2014–",
+    "AÇIKLAMA": "Zaman yolculuğu yapan hemşirenin tarihi aşk ve maceraları."
+  },
+  {
+    "AD": "Star Trek",
+    "YIL": "1966–1969",
+    "AÇIKLAMA": "Uzayın derinliklerinde insanlığın keşif ve barış arayışı."
+  },
+  {
+    "AD": "Girls",
+    "YIL": "2012–2017",
+    "AÇIKLAMA": "Genç kadınların New York’taki hayat, aşk ve kariyer mücadeleleri."
+  },
+  {
+    "AD": "The Good Wife",
+    "YIL": "2009–2016",
+    "AÇIKLAMA": "Politik skandallarla boğuşan başarılı avukatın hayatı."
+  },
+  {
+    "AD": "Agent Carter",
+    "YIL": "2015–2016",
+    "AÇIKLAMA": "İkinci Dünya Savaşı sonrası ajan Peggy Carter’ın gizli görevleri."
+  },
+  {
+    "AD": "Sleepy Hollow",
+    "YIL": "2013–2017",
+    "AÇIKLAMA": "Korkunç efsanenin modern zamanlarda yeniden canlanışı."
+  },
+  {
+    "AD": "Stargate Atlantis",
+    "YIL": "2004–2009",
+    "AÇIKLAMA": "Atlantis şehrinin gizemlerini ve tehlikelerini keşfeden ekip."
+  },
+  {
+    "AD": "Lucifer",
+    "YIL": "2016–2021",
+    "AÇIKLAMA": "Cehennemin hükümdarı Lucifer’ın Los Angeles’taki suç çözümleri."
+  },
+  {
+    "AD": "Adventure Time",
+    "YIL": "2010–2018",
+    "AÇIKLAMA": "Fantastik krallıkta cesur Finn ve sihirli köpek Jake’in maceraları."
+  },
+  {
+    "AD": "Jericho",
+    "YIL": "2006–2008",
+    "AÇIKLAMA": "Küçük kasabanın nükleer saldırı sonrası hayatta kalma savaşı."
+  },
+  {
+    "AD": "Hawaii Five-0",
+    "YIL": "2010–2020",
+    "AÇIKLAMA": "Hawaii polisi ekibinin suçla mücadele hikayeleri."
+  },
+  {
+    "AD": "Nip/Tuck",
+    "YIL": "2003–2010",
+    "AÇIKLAMA": "İki plastik cerrahın hem mesleki hem de kişisel dramları."
+  },
+  {
+    "AD": "The Americans",
+    "YIL": "2013–2018",
+    "AÇIKLAMA": "Soğuk Savaş döneminde Amerika’da görev yapan Rus casuslar."
+  },
+  {
+    "AD": "Continuum",
+    "YIL": "2012–2015",
+    "AÇIKLAMA": "Gelecekten gelen polis ve teröristler arasındaki zaman savaşı."
+  },
+  {
+    "AD": "V",
+    "YIL": "2009–2011",
+    "AÇIKLAMA": "Dünyaya gelen gizemli uzaylıların gerçek niyetleri."
+  },
+  {
+    "AD": "MythBusters",
+    "YIL": "2003–2016",
+    "AÇIKLAMA": "Popüler efsanelerin bilimsel deneylerle test edilmesi."
+  },
+  {
+    "AD": "Pushing Daisies",
+    "YIL": "2007–2009",
+    "AÇIKLAMA": "Ölüleri kısa süreliğine diriltebilen pastacının aşk ve gizem dolu hayatı."
+  },
+  {
+    "AD": "Ray Donovan",
+    "YIL": "2013–2020",
+    "AÇIKLAMA": "Sorunlu zenginlerin problemlerini çözen karanlık geçmişli adam."
+  },
+  {
+    "AD": "Monty Python's Flying Circus",
+    "YIL": "1969–1974",
+    "AÇIKLAMA": "Absürt ve sıra dışı İngiliz komedi skeçleri."
+  },
+  {
+    "AD": "The Twilight Zone",
+    "YIL": "1959–1964",
+    "AÇIKLAMA": "Sıradışı ve korkutucu kısa hikayelerle dolu antoloji dizisi."
+  },
+  {
+    "AD": "CSI Miami ",
+    "YIL": "2002–2012",
+    "AÇIKLAMA": "Miami’de suçları çözen adli tıp ekibinin maceraları."
+  },
+  {
+    "AD": "The West Wing",
+    "YIL": "1999–2006",
+    "AÇIKLAMA": "Beyaz Saray’daki politik ve kişisel dramlar."
+  },
+  {
+    "AD": "Naruto Shippuden",
+    "YIL": "2007–2017",
+    "AÇIKLAMA": " Genç ninja Naruto’nun güç ve dostluk yolculuğu."
+  },
+  {
+    "AD": "Supergirl",
+    "YIL": "2015–2021",
+    "AÇIKLAMA": "Süper kahraman Kara Zor-El’in dünyayı koruma çabaları."
+  },
+  {
+    "AD": "Friday Night Lights",
+    "YIL": "2006–2011",
+    "AÇIKLAMA": "Küçük kasaba futbol takımının ve halkının hayatı."
+  },
+  {
+    "AD": "Flight of the Conchords",
+    "YIL": "2007–2009",
+    "AÇIKLAMA": "İki Yeni Zelandalı müzisyenin absürt komik müzik maceraları."
+  },
+  {
+    "AD": "Nikita",
+    "YIL": "2010–2013",
+    "AÇIKLAMA": "Genç kadının gizli ajan olarak hayatta kalma mücadelesi."
+  },
+  {
+    "AD": "Broadchurch",
+    "YIL": "2013–2017",
+    "AÇIKLAMA": "Küçük kasabada işlenen gizemli bir cinayetin etkileyici soruşturması."
+  },
+  {
+    "AD": "Eastbound & Down",
+    "YIL": "2009–2013",
+    "AÇIKLAMA": "Bir zamanlar yıldız olan beyzbolcunun çılgın geri dönüş çabaları."
+  },
+  {
+    "AD": "Full House",
+    "YIL": "1987–1995",
+    "AÇIKLAMA": "Büyük ailenin sevgi dolu ve eğlenceli günlük hayatı."
+  },
+  {
+    "AD": "Forever",
+    "YIL": "2014–2015",
+    "AÇIKLAMA": "Ölümle yüzleşen ve ölümsüzlüğün sırlarını arayan doktor."
+  },
+  {
+    "AD": "Naruto",
+    "YIL": "2002–2007",
+    "AÇIKLAMA": "Genç ninja Naruto’nun köyü ve hayalleri için savaşı."
+  },
+  {
+    "AD": "Almost Human",
+    "YIL": "2013–2014",
+    "AÇIKLAMA": "Gelecekte polisle robot ortağının suçla mücadelesi."
+  },
+  {
+    "AD": "Making a Murderer",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "Gerçek suç belgeselinde şaşırtıcı adalet sistemi hikayesi."
+  },
+  {
+    "AD": "Extras",
+    "YIL": "2005–2007",
+    "AÇIKLAMA": "Film setlerinde çalışan iki arkadaşın komik ve garip deneyimleri."
+  },
+  {
+    "AD": "Black Books",
+    "YIL": "2000–2004",
+    "AÇIKLAMA": "Garip kitapçı sahibi ve düzensiz hayatı."
+  },
+  {
+    "AD": "Dragon Ball Z",
+    "YIL": "1989–1996",
+    "AÇIKLAMA": "Efsanevi savaşçılar ve Dünya’yı koruma destanı."
+  },
+  {
+    "AD": "Dollhouse",
+    "YIL": "2009–2010",
+    "AÇIKLAMA": "Hafızaları silinen ajanların gizemli görevleri."
+  },
+  {
+    "AD": "One Piece",
+    "YIL": "1999–",
+    "AÇIKLAMA": "Korsanların gizemli hazine arayışı ve maceraları."
+  },
+  {
+    "AD": "ER",
+    "YIL": "1994–2009",
+    "AÇIKLAMA": "Yoğun hastane ortamında doktorların hayat savaşı."
+  },
+  {
+    "AD": "Spaced",
+    "YIL": "1999–2001",
+    "AÇIKLAMA": "İki gencin Londra’daki absürt ve komik yaşamı."
+  },
+  {
+    "AD": "Eureka",
+    "YIL": "2006–2012",
+    "AÇIKLAMA": "Garip ve üstün zekalı insanların yaşadığı bilim kasabası."
+  },
+  {
+    "AD": "Blue Mountain State",
+    "YIL": "2010–2011",
+    "AÇIKLAMA": "Üniversite futbol takımının çılgın ve komik hayatı."
+  },
+  {
+    "AD": "The Secret Circle",
+    "YIL": "2011–2012",
+    "AÇIKLAMA": "Genç cadıların gizemli ve tehlikeli güçleri."
+  },
+  {
+    "AD": "Stargate Universe",
+    "YIL": "2009–2011",
+    "AÇIKLAMA": "Uzayda kaybolan ekibin hayatta kalma mücadelesi."
+  },
+  {
+    "AD": "The Borgias",
+    "YIL": "2011–2013",
+    "AÇIKLAMA": "İtalya’nın karanlık Rönesans dönemi güç savaşları."
+  },
+  {
+    "AD": "Star Trek Voyager ",
+    "YIL": "1995–2001",
+    "AÇIKLAMA": "Uzayın derinliklerinde evlerine dönüş yolunda bir gemi mürettebatı."
+  },
+  {
+    "AD": "Marco Polo",
+    "YIL": "2014–2016",
+    "AÇIKLAMA": "Orta Çağ’da efsanevi kaşifin Moğol İmparatorluğu maceraları."
+  },
+  {
+    "AD": "Fullmetal Alchemist",
+    "YIL": "2003–2004",
+    "AÇIKLAMA": "Kardeşlerin kaybettikleri bedenlerini geri getirme mücadelesi."
+  },
+  {
+    "AD": "3rd Rock from the Sun",
+    "YIL": "1996–2001",
+    "AÇIKLAMA": "Dünya’ya gelen uzaylıların insan hayatını öğrenme çabaları."
+  },
+  {
+    "AD": "Bob's Burgers",
+    "YIL": "2011–",
+    "AÇIKLAMA": "Aile işletmesi hamburger dükkanının neşeli ve kaotik hayatı."
+  },
+  {
+    "AD": "Hell on Wheels",
+    "YIL": "2011–2016",
+    "AÇIKLAMA": "Demiryolu inşaatında geçen sert ve sert mücadeleler."
+  },
+  {
+    "AD": "Warehouse 13",
+    "YIL": "2009–2014",
+    "AÇIKLAMA": "Gizemli nesnelerin korunduğu depo ve görevleri."
+  },
+  {
+    "AD": "The Fall",
+    "YIL": "2013–2016",
+    "AÇIKLAMA": "Cinayet dedektifi ve seri katilin psikolojik savaşı."
+  },
+  {
+    "AD": "Limitless",
+    "YIL": "2015–2016",
+    "AÇIKLAMA": "Beyin gücünü açığa çıkaran ilaçla değişen hayatlar."
+  },
+  {
+    "AD": "Alias",
+    "YIL": "2001–2006",
+    "AÇIKLAMA": "Gizli ajan olarak çift hayat yaşayan kadının tehlikeli görevleri."
+  },
+  {
+    "AD": "Wayward Pines",
+    "YIL": "2015–2016",
+    "AÇIKLAMA": "Gizemli kasabada kaybolan ajanın sırlarla dolu mücadelesi."
+  },
+  {
+    "AD": "Touch",
+    "YIL": "2012–2013",
+    "AÇIKLAMA": "Otizmli çocuğun dünya üzerindeki gizli bağlantıları keşfetmesi."
+  },
+  {
+    "AD": "Workaholics",
+    "YIL": "2011–2017",
+    "AÇIKLAMA": "Üç arkadaşın absürt ve komik iş hayatı maceraları."
+  },
+  {
+    "AD": "The Leftovers",
+    "YIL": "2014–2017",
+    "AÇIKLAMA": "Dünya nüfusunun %2'sinin gizemli şekilde kaybolmasının etkileri."
+  },
+  {
+    "AD": "Awkward.",
+    "YIL": "2011–2016",
+    "AÇIKLAMA": "Lise hayatındaki garip ve komik ergenlik hikayeleri."
+  },
+  {
+    "AD": "The League",
+    "YIL": "2009–2015",
+    "AÇIKLAMA": "Arkadaşlar arasında geçen eğlenceli fantezi futbol rekabeti."
+  },
+  {
+    "AD": "Constantine",
+    "YIL": "2014–2015",
+    "AÇIKLAMA": "Doğaüstü güçlerle savaşan karanlık bir büyücünün hikayesi."
+  },
+  {
+    "AD": "Will & Grace",
+    "YIL": "1998–2006, 2017–2020",
+    "AÇIKLAMA": "İki yakın arkadaşın renkli şehir hayatı ve dostluğu."
+  },
+  {
+    "AD": "Last Week Tonight with John Oliver",
+    "YIL": "2014–",
+    "AÇIKLAMA": "Güncel olayları mizahi ve eleştirel bir bakışla anlatan program."
+  },
+  {
+    "AD": "CSI NY ",
+    "YIL": "2004–2013",
+    "AÇIKLAMA": "New York’ta suçları çözmeye çalışan adli tıp ekibi."
+  },
+  {
+    "AD": "Ghost Whisperer",
+    "YIL": "2005–2010",
+    "AÇIKLAMA": "Ruhlarla iletişim kurabilen kadının yaşadığı sıradışı olaylar."
+  },
+  {
+    "AD": "90210",
+    "YIL": "2008–2013",
+    "AÇIKLAMA": "Zengin gençlerin aşk, dostluk ve dram dolu hayatları."
+  },
+  {
+    "AD": "The 4400",
+    "YIL": "2004–2007",
+    "AÇIKLAMA": "Aniden ortaya çıkan 4400 kişinin gizemli hikayesi."
+  },
+  {
+    "AD": "Joey",
+    "YIL": "2004–2006",
+    "AÇIKLAMA": "Friends dizisinin sevilen karakterinin Los Angeles maceraları."
+  },
+  {
+    "AD": "MAS*H",
+    "YIL": "1972–1983",
+    "AÇIKLAMA": "Kore Savaşı sırasında askeri hastanedeki komik ve dramatik olaylar."
+  },
+  {
+    "AD": "The Last Ship",
+    "YIL": "2014–2018",
+    "AÇIKLAMA": "Dünya felaketinden sonra hayatta kalanların savaşı ve umutları."
+  },
+  {
+    "AD": "Cougar Town",
+    "YIL": "2009–2015",
+    "AÇIKLAMA": "Orta yaşlı bir kadının yeni hayatı ve arkadaş çevresi."
+  },
+  {
+    "AD": "DC's Legends of Tomorrow",
+    "YIL": "2016–2022",
+    "AÇIKLAMA": "Zaman yolculuğu yapan süper kahramanların maceraları."
+  },
+  {
+    "AD": "King of the Hill",
+    "YIL": "1997–2010",
+    "AÇIKLAMA": "Texaslı sıradan ailenin komik ve samimi hayatı."
+  },
+  {
+    "AD": "Wilfred",
+    "YIL": "2011–2014",
+    "AÇIKLAMA": "Adamın köpeğini insan olarak görmesiyle başlayan absürt hikaye."
+  },
+  {
+    "AD": "Alcatraz",
+    "YIL": "2012",
+    "AÇIKLAMA": "Gizemli hapishaneden kaçan mahkumların günümüzde ortaya çıkışı."
+  },
+  {
+    "AD": "NCIS Los Angeles",
+    "YIL": "2009– ",
+    "AÇIKLAMA": "Gizli servis ajanlarının tehlikeli suçlarla mücadelesi."
+  },
+  {
+    "AD": "Ugly Betty",
+    "YIL": "2006–2010",
+    "AÇIKLAMA": "Modellik dünyasında zorluklarla mücadele eden genç kadının hikayesi."
+  },
+  {
+    "AD": "Dead Like Me",
+    "YIL": "2003–2004",
+    "AÇIKLAMA": "Ölümden sonra ruh toplamak zorunda kalan genç kadının hikayesi."
+  },
+  {
+    "AD": "Leverage",
+    "YIL": "2008–2012",
+    "AÇIKLAMA": "Haksızlığa karşı birleşen profesyonel dolandırıcılar ekibi."
+  },
+  {
+    "AD": "Chappelle's Show",
+    "YIL": "2003–2006",
+    "AÇIKLAMA": "Komedi skeçleriyle dolu ikonik şov."
+  },
+  {
+    "AD": "Boston Legal",
+    "YIL": "2004–2008",
+    "AÇIKLAMA": "Avukatların sıra dışı dava ve hayat hikayeleri."
+  },
+  {
+    "AD": "Coupling",
+    "YIL": "2000–2004",
+    "AÇIKLAMA": "Arkadaş grubunun karmaşık ve komik ilişkileri."
+  },
+  {
+    "AD": "Dragon Ball",
+    "YIL": "1986–1989",
+    "AÇIKLAMA": "Dünya kurtarmak için savaşan güçlü savaşçıların maceraları."
+  },
+  {
+    "AD": "Cheers",
+    "YIL": "1982–1993",
+    "AÇIKLAMA": "Boston’daki bir barda geçen dostluk ve aşk hikayeleri."
+  },
+  {
+    "AD": "Peep Show",
+    "YIL": "2003–2015",
+    "AÇIKLAMA": "İki tuhaf ev arkadaşının komik hayatları."
+  },
+  {
+    "AD": "Hart of Dixie",
+    "YIL": "2011–2015",
+    "AÇIKLAMA": "Küçük bir kasabada doktorluk yapan kadının yaşadıkları."
+  },
+  {
+    "AD": "The Last Man on Earth",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "Dünyadaki son insanın hayatta kalma çabaları."
+  },
+  {
+    "AD": "Carnivàle",
+    "YIL": "2003–2005",
+    "AÇIKLAMA": "Büyük Buhran’da mistik ve karanlık güçlerin savaşı."
+  },
+  {
+    "AD": "Unbreakable Kimmy Schmidt",
+    "YIL": "2015–2019",
+    "AÇIKLAMA": "Yeraltı dünyasından kurtulup hayatı yeniden kurmaya çalışan kadın."
+  },
+  {
+    "AD": "The Daily Show",
+    "YIL": "1996–günümüz",
+    "AÇIKLAMA": "Güncel olaylara mizahi ve eleştirel bakış."
+  },
+  {
+    "AD": "Torchwood",
+    "YIL": "2006–2011",
+    "AÇIKLAMA": "Uzaylılarla mücadele eden gizli ajanlar ekibi."
+  },
+  {
+    "AD": "Star Trek Deep Space Nine",
+    "YIL": "1993–1999",
+    "AÇIKLAMA": "Uzayın derinliklerindeki uzay istasyonunda geçen maceralar."
+  },
+  {
+    "AD": "Defiance",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Post-apokaliptik dünyada insan ve uzaylıların mücadelesi."
+  },
+  {
+    "AD": "Blindspot",
+    "YIL": "2015–2020",
+    "AÇIKLAMA": "Hafızasını kaybeden kadının sırrını çözme çabası."
+  },
+  {
+    "AD": "Numb3rs",
+    "YIL": "2005–2010",
+    "AÇIKLAMA": "Matematikle suçları çözen dahi kardeş."
+  },
+  {
+    "AD": "iZombie",
+    "YIL": "2015–2019",
+    "AÇIKLAMA": "Zombi olup ölenlerin anılarını çözerek suçları aydınlatan kadın."
+  },
+  {
+    "AD": "Robot Chicken",
+    "YIL": "2005–günümüz",
+    "AÇIKLAMA": "Çizgi ve oyuncak figürlerle yapılan komik skeçler."
+  },
+  {
+    "AD": "Saturday Night Live",
+    "YIL": "1975–günümüz",
+    "AÇIKLAMA": "Ünlülerin ve komedyenlerin skeç gösterisi."
+  },
+  {
+    "AD": "Blackadder Goes Forth",
+    "YIL": "1989",
+    "AÇIKLAMA": "I. Dünya Savaşı’nda bir askerin absürt maceraları."
+  },
+  {
+    "AD": "Boy Meets World",
+    "YIL": "1993–2000",
+    "AÇIKLAMA": "Çocukluktan yetişkinliğe giden yolculuk."
+  },
+  {
+    "AD": "The Middle",
+    "YIL": "2009–2018",
+    "AÇIKLAMA": "Orta sınıf bir ailenin komik günlük hayatı."
+  },
+  {
+    "AD": "Xena Warrior Princess ",
+    "YIL": "1995–2001",
+    "AÇIKLAMA": "Cesur savaşçı kadının epik maceraları."
+  },
+  {
+    "AD": "Bleach",
+    "YIL": "2004–2012",
+    "AÇIKLAMA": "Ruhları kurtarmak için savaşan genç kahraman."
+  },
+  {
+    "AD": "Quantico",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "FBI ajan adaylarının gizemli ve tehlikeli eğitim süreci."
+  },
+  {
+    "AD": "The Cleveland Show",
+    "YIL": "2009–2013",
+    "AÇIKLAMA": "Komik ve renkli bir ailenin maceraları."
+  },
+  {
+    "AD": "One Punch Man",
+    "YIL": "2015–günümüz",
+    "AÇIKLAMA": "Tek yumrukla her düşmanı yenen güçlü kahraman."
+  },
+  {
+    "AD": "Only Fools and Horses",
+    "YIL": "1981–2003",
+    "AÇIKLAMA": "İki kardeşin para kazanma çabaları ve komik durumları."
+  },
+  {
+    "AD": "The Colbert Report",
+    "YIL": "2005–2014",
+    "AÇIKLAMA": "Politik mizah ve haber programı."
+  },
+  {
+    "AD": "Home Improvement",
+    "YIL": "1991–1999",
+    "AÇIKLAMA": "Aile ve iş hayatını dengelemeye çalışan adamın hikayesi."
+  },
+  {
+    "AD": "Whose Line Is It Anyway?",
+    "YIL": "1998– -",
+    "AÇIKLAMA": "Anlık doğaçlama komedi şovu."
+  },
+  {
+    "AD": "Raising Hope",
+    "YIL": "2010–2014",
+    "AÇIKLAMA": "Beklenmedik ebeveynlik macerası."
+  },
+  {
+    "AD": "The Shannara Chronicles",
+    "YIL": "2016–2017",
+    "AÇIKLAMA": "Fantastik dünyada kahramanlık ve macera."
+  },
+  {
+    "AD": "Dexter's Laboratory",
+    "YIL": "1996–2003",
+    "AÇIKLAMA": "Dahi çocuk Dexter’ın gizli laboratuvar maceraları."
+  },
+  {
+    "AD": "Ash vs Evil Dead",
+    "YIL": "2015–2018",
+    "AÇIKLAMA": "Kötü ruhlara karşı kahraman Ash’in kanlı mücadelesi."
+  },
+  {
+    "AD": "Star Trek Enterprise",
+    "YIL": "2001–2005",
+    "AÇIKLAMA": " Uzayın derinliklerinde insanlığın ilk keşif gemisi."
+  },
+  {
+    "AD": "The Man in the High Castle",
+    "YIL": "2015–2019",
+    "AÇIKLAMA": "Alternatif tarihte Nazilerin dünyayı yönettiği distopya."
+  },
+  {
+    "AD": "Happy Endings",
+    "YIL": "2011–2013",
+    "AÇIKLAMA": "Arkadaş grubunun komik ve karmaşık ilişkileri."
+  },
+  {
+    "AD": "TVF Pitchers",
+    "YIL": "2015–2022",
+    "AÇIKLAMA": "Girişimci gençlerin startup kurma maceraları."
+  },
+  {
+    "AD": "Beauty and the Beast",
+    "YIL": "2012–2016",
+    "AÇIKLAMA": "Modern şehirde aşk ve gizem dolu masal."
+  },
+  {
+    "AD": "Life",
+    "YIL": "2007–2009",
+    "AÇIKLAMA": "Haksız yere hapse düşen polis memurunun intikamı."
+  },
+  {
+    "AD": "Scorpion",
+    "YIL": "2014–2018",
+    "AÇIKLAMA": "Dahilerin oluşturduğu özel ekip dünyayı kurtarıyor."
+  },
+  {
+    "AD": "The Bridge",
+    "YIL": "2011–2018",
+    "AÇIKLAMA": "Sınırda işlenen cinayetlerin çözümü için ortak görev."
+  },
+  {
+    "AD": "Blackadder II",
+    "YIL": "1986",
+    "AÇIKLAMA": "Tudor döneminde kara mizah dolu maceralar."
+  },
+  {
+    "AD": "Hannah Montana",
+    "YIL": "2006–2011",
+    "AÇIKLAMA": "Gizli pop yıldızı olan lise kızı."
+  },
+  {
+    "AD": "Legend of the Seeker",
+    "YIL": "2008–2010",
+    "AÇIKLAMA": "Kahramanın fantastik dünyadaki epik yolculuğu."
+  },
+  {
+    "AD": "According to Jim",
+    "YIL": "2001–2009",
+    "AÇIKLAMA": "Aile ve komedi dolu gündelik hayat."
+  },
+  {
+    "AD": "Haven",
+    "YIL": "2010–2015",
+    "AÇIKLAMA": "Doğaüstü olaylarla dolu gizemli kasaba."
+  },
+  {
+    "AD": "The Nanny",
+    "YIL": "1993–1999",
+    "AÇIKLAMA": "Renkli dadı ve zengin ailenin eğlenceli hayatı."
+  },
+  {
+    "AD": "Reign",
+    "YIL": "2013–2017",
+    "AÇIKLAMA": "Tarihi kraliçe ve saray entrikaları."
+  },
+  {
+    "AD": "The Tomorrow People",
+    "YIL": "2013–2014",
+    "AÇIKLAMA": "Gençlerin özel güçleriyle savaşları."
+  },
+  {
+    "AD": "The Wonder Years",
+    "YIL": "1988–1993",
+    "AÇIKLAMA": "Bir çocuğun büyüme hikayesi."
+  },
+  {
+    "AD": "Hemlock Grove",
+    "YIL": "2013–2015",
+    "AÇIKLAMA": "Küçük kasabada doğaüstü gizemler."
+  },
+  {
+    "AD": "The Knick",
+    "YIL": "2014–2015",
+    "AÇIKLAMA": "1900’lerin başında hastane ve tıp devrimi."
+  },
+  {
+    "AD": "Star Wars The Clone Wars ",
+    "YIL": "2008–2020",
+    "AÇIKLAMA": "Galakside Jedi ve klon savaşları."
+  },
+  {
+    "AD": "Dragon Ball",
+    "YIL": "1986–1989",
+    "AÇIKLAMA": "Güçlü savaşçıların dünyayı kurtarması."
+  },
+  {
+    "AD": "Roseanne",
+    "YIL": "1988–2018",
+    "AÇIKLAMA": "İşçi sınıfı ailenin gerçekçi ve komik hayatı."
+  },
+  {
+    "AD": "Bored to Death",
+    "YIL": "2009–2011",
+    "AÇIKLAMA": "Romantik ve dedektiflik karmaşası."
+  },
+  {
+    "AD": "Everybody Hates Chris",
+    "YIL": "2005–2009",
+    "AÇIKLAMA": "Komik ve zor büyüme hikayesi."
+  },
+  {
+    "AD": "Dawson's Creek",
+    "YIL": "1998–2003",
+    "AÇIKLAMA": "Gençlik, aşk ve dostluk dramı."
+  },
+  {
+    "AD": "Empire",
+    "YIL": "2015–2020",
+    "AÇIKLAMA": "Müzik imparatorluğunda güç savaşları."
+  },
+  {
+    "AD": "Blackadder the Third",
+    "YIL": "1987",
+    "AÇIKLAMA": "Regency döneminde komik entrikalar."
+  },
+  {
+    "AD": "Masters of Sex",
+    "YIL": "2013–2016",
+    "AÇIKLAMA": "Cinsellik üzerine çığır açan araştırmacılar."
+  },
+  {
+    "AD": "Suburgatory",
+    "YIL": "2011–2014",
+    "AÇIKLAMA": "Şehirden banliyöye taşınan aile ve uyum çabası."
+  },
+  {
+    "AD": "Anger Management",
+    "YIL": "2012–2014",
+    "AÇIKLAMA": "Sinir terapisti ve absürt durumları."
+  },
+  {
+    "AD": "MacGyver",
+    "YIL": "1985–1992",
+    "AÇIKLAMA": "Yaratıcı çözümlerle tehlikelerden kaçış."
+  },
+  {
+    "AD": "Farscape",
+    "YIL": "1999–2003",
+    "AÇIKLAMA": "Uzayda kaybolan astronotun maceraları."
+  },
+  {
+    "AD": "Blackadder",
+    "YIL": "1982–1983",
+    "AÇIKLAMA": "İngiliz tarihinin kara mizah versiyonu."
+  },
+  {
+    "AD": "Justice League",
+    "YIL": "2001–2004",
+    "AÇIKLAMA": "Süper kahramanlar dünyayı kurtarıyor."
+  },
+  {
+    "AD": "Neon Genesis Evangelion",
+    "YIL": "1995–1996",
+    "AÇIKLAMA": "Dev robotlarla insanlığın savaşı."
+  },
+  {
+    "AD": "Rules of Engagement",
+    "YIL": "2007–2013",
+    "AÇIKLAMA": "İlişkiler ve arkadaşlıklar üzerine komedi."
+  },
+  {
+    "AD": "Drake & Josh",
+    "YIL": "2004–2007",
+    "AÇIKLAMA": "İki üvey kardeşin komik okul ve ev maceraları."
+  },
+  {
+    "AD": "Doctor Who",
+    "YIL": "1963–1989",
+    "AÇIKLAMA": "Zaman yolculuğu yapan eksantrik uzaylı."
+  },
+  {
+    "AD": "Father Ted",
+    "YIL": "1995–1998",
+    "AÇIKLAMA": "Absürt İrlanda rahiplerinin günlük halleri."
+  },
+  {
+    "AD": "Master of None",
+    "YIL": "2015–2021",
+    "AÇIKLAMA": "Modern yaşamda aşk ve kariyer arayışı."
+  },
+  {
+    "AD": "Code Geass",
+    "YIL": "2006–2008",
+    "AÇIKLAMA": "Genç dahinin dünyayı değiştirme planı."
+  },
+  {
+    "AD": "Utopia",
+    "YIL": "2013–2014",
+    "AÇIKLAMA": "Gizemli çizgi roman ve komplo teorileri."
+  },
+  {
+    "AD": "Samurai Jack",
+    "YIL": "2001–2017",
+    "AÇIKLAMA": "Gelecekte kaybolan samurayın intikamı."
+  },
+  {
+    "AD": "The A-Team",
+    "YIL": "1983–1987",
+    "AÇIKLAMA": "Eski askerlerin adalet için savaşı."
+  },
+  {
+    "AD": "Dark Angel",
+    "YIL": "2000–2002",
+    "AÇIKLAMA": "Genetik olarak geliştirilmiş kaçak kahraman."
+  },
+  {
+    "AD": "Courage the Cowardly Dog",
+    "YIL": "1999–2002",
+    "AÇIKLAMA": "Korkak köpeğin garip maceraları."
+  },
+  {
+    "AD": "Saved by the Bell",
+    "YIL": "1989–1992",
+    "AÇIKLAMA": "Lisede yaşanan komik gençlik hikayeleri."
+  },
+  {
+    "AD": "Law & Order",
+    "YIL": "1990–",
+    "AÇIKLAMA": "Suç ve hukuk dünyasının kesişimi."
+  },
+  {
+    "AD": "The Cosby Show",
+    "YIL": "1984–1992",
+    "AÇIKLAMA": "Orta sınıf Amerikan ailesinin hayatı."
+  },
+  {
+    "AD": "Episodes",
+    "YIL": "2011–2017",
+    "AÇIKLAMA": "TV dünyasında kültür çatışmaları."
+  },
+  {
+    "AD": "Trailer Park Boys",
+    "YIL": "2001–2026",
+    "AÇIKLAMA": "Kanada’nın en kötü komşularının maceraları."
+  },
+  {
+    "AD": "Kyle XY",
+    "YIL": "2006–2009",
+    "AÇIKLAMA": "Hafızasız gizemli genç adam."
+  },
+  {
+    "AD": "Veep",
+    "YIL": "2012–2019",
+    "AÇIKLAMA": "ABD başkan yardımcısının politik ve komik hayatı."
+  },
+  {
+    "AD": "Red Dwarf",
+    "YIL": "1988–",
+    "AÇIKLAMA": "Uzayda geçen absürt komedi."
+  },
+  {
+    "AD": "The Stand",
+    "YIL": "1994",
+    "AÇIKLAMA": "Kıyamet sonrası iyilik ve kötülük savaşı."
+  },
+  {
+    "AD": "Dracula",
+    "YIL": "2013–2014",
+    "AÇIKLAMA": "Efsanevi vampirin karanlık hikayesi."
+  },
+  {
+    "AD": "Life on Mars",
+    "YIL": "2006–2007",
+    "AÇIKLAMA": "Zaman yolculuğu yapan polis memuru."
+  },
+  {
+    "AD": "Bloodline",
+    "YIL": "2015–2017",
+    "AÇIKLAMA": "Aile sırları ve gerilim dolu drama."
+  },
+  {
+    "AD": "Don't Trust the B---- in Apartment 23",
+    "YIL": "2012–2013",
+    "AÇIKLAMA": "Renkli ve kaotik apartman hayatı."
+  },
+  {
+    "AD": "Sabrina the Teenage Witch",
+    "YIL": "1996–2003",
+    "AÇIKLAMA": "Genç cadının büyü dolu hayatı."
+  },
+  {
+    "AD": "Johnny Bravo",
+    "YIL": "1997–2004",
+    "AÇIKLAMA": "Kendini beğenmiş kaslı adamın komedisi."
+  },
+  {
+    "AD": "Damages",
+    "YIL": "2007–2012",
+    "AÇIKLAMA": "Tehlikeli ve hırslı avukatların oyunu."
+  },
+  {
+    "AD": "The Suite Life of Zack & Cody",
+    "YIL": "2005–2008",
+    "AÇIKLAMA": "Otelde yaşayan ikizlerin yaramazlıkları."
+  },
+  {
+    "AD": "Undercover",
+    "YIL": "2011–2016",
+    "AÇIKLAMA": "Gizli operasyon ve suç dünyası."
+  },
+  {
+    "AD": "X-Men",
+    "YIL": "1992–1997",
+    "AÇIKLAMA": "Mutant kahramanların dünyayı kurtarma savaşı."
+  },
+  {
+    "AD": "Poirot",
+    "YIL": "1989–2013",
+    "AÇIKLAMA": "Ünlü dedektifin karmaşık cinayet çözümleri."
+  },
+  {
+    "AD": "Samurai Champloo",
+    "YIL": "2004–2005",
+    "AÇIKLAMA": "Hip-hop ruhlu samuray macerası."
+  },
+  {
+    "AD": "The Flintstones",
+    "YIL": "1960–1966",
+    "AÇIKLAMA": "Taş devrinde komik aile hayatı."
+  },
+  {
+    "AD": "Alphas",
+    "YIL": "2011–2012",
+    "AÇIKLAMA": "Süper güçlere sahip ekip suçla savaşır."
+  },
+  {
+    "AD": "Parenthood",
+    "YIL": "2010–2015",
+    "AÇIKLAMA": "Büyük ailenin mutluluk ve zorlukları."
+  },
+  {
+    "AD": "An Idiot Abroad",
+    "YIL": "2010–2012",
+    "AÇIKLAMA": "Gezmek istemeyen adamın komik dünyası."
+  },
+  {
+    "AD": "iCarly",
+    "YIL": "2007–2012",
+    "AÇIKLAMA": "Gençlerin internet şovu maceraları."
+  },
+  {
+    "AD": "Party Down",
+    "YIL": "2009–2023",
+    "AÇIKLAMA": "Partilerde çalışan garip gençlerin hayatı."
+  },
+  {
+    "AD": "The Event",
+    "YIL": "2010–2011",
+    "AÇIKLAMA": "Hükümet sırları ve gizemli olaylar."
+  },
+  {
+    "AD": "Ally McBeal",
+    "YIL": "1997–2002",
+    "AÇIKLAMA": "Garip avukatın tuhaf hayatı."
+  },
+  {
+    "AD": "The Powerpuff Girls",
+    "YIL": "1998–2004",
+    "AÇIKLAMA": "Süper güçlere sahip üç küçük kız."
+  },
+  {
+    "AD": "Beverly Hills, 90210",
+    "YIL": "1990–2000",
+    "AÇIKLAMA": "Zengin gençlerin aşk ve dramları."
+  },
+  {
+    "AD": "Dharma & Greg",
+    "YIL": "1997–2002",
+    "AÇIKLAMA": "Zıt karakterli çiftin evliliği."
+  },
+  {
+    "AD": "Helix",
+    "YIL": "2014–2015",
+    "AÇIKLAMA": "Bulaşıcı hastalık ve gizem dolu laboratuvar."
+  },
+  {
+    "AD": "ALF",
+    "YIL": "1986–1990",
+    "AÇIKLAMA": "Uzaylı dostun evdeki komik halleri."
+  },
+  {
+    "AD": "Rizzoli & Isles",
+    "YIL": "2010–2016",
+    "AÇIKLAMA": "Dedektif ve patoloğun suç çözümleri."
+  },
+  {
+    "AD": "Gravity Falls",
+    "YIL": "2012–2016",
+    "AÇIKLAMA": "Gizemli kasabada çocukların maceraları."
+  },
+  {
+    "AD": "Lost Girl",
+    "YIL": "2010–2016",
+    "AÇIKLAMA": "Doğaüstü güçlere sahip kadın kahraman."
+  },
+  {
+    "AD": "Las Vegas",
+    "YIL": "2003–2008",
+    "AÇIKLAMA": "Kumarhane güvenlik ekibinin maceraları."
+  },
+  {
+    "AD": "Rugrats",
+    "YIL": "1991–2003",
+    "AÇIKLAMA": "Bebeklerin eğlenceli dünyası."
+  },
+  {
+    "AD": "Teenage Mutant Ninja Turtles",
+    "YIL": "1987–1996",
+    "AÇIKLAMA": "Ninja kaplumbağaların kahramanlıkları."
+  },
+  {
+    "AD": "Covert Affairs",
+    "YIL": "2010–2014",
+    "AÇIKLAMA": "Gizli ajan kadının tehlikeli görevleri."
+  },
+  {
+    "AD": "Chicago Fire",
+    "YIL": "2012–",
+    "AÇIKLAMA": "İtfaiyecilerin cesur hayatları."
+  },
+  {
+    "AD": "Hey Arnold!",
+    "YIL": "1996–2004",
+    "AÇIKLAMA": "Şehirde yaşayan çocukların dostluğu."
+  },
+  {
+    "AD": "Babylon 5",
+    "YIL": "1993–1998",
+    "AÇIKLAMA": "Uzay istasyonunda politik entrikalar."
+  },
+  {
+    "AD": "Rescue Me",
+    "YIL": "2004–2011",
+    "AÇIKLAMA": "İtfaiyecinin zorlu kişisel yaşamı."
+  },
+  {
+    "AD": "The Mindy Project",
+    "YIL": "2012–2017",
+    "AÇIKLAMA": "Komik doktorun aşk ve kariyeri."
+  },
+  {
+    "AD": "Pinky and the Brain",
+    "YIL": "1995–1998",
+    "AÇIKLAMA": "Dünyayı ele geçirmeye çalışan fareler."
+  },
+  {
+    "AD": "BoJack Horseman",
+    "YIL": "2014–2020",
+    "AÇIKLAMA": "Düşen bir ünlü atın hikayesi."
+  },
+  {
+    "AD": "The Golden Girls",
+    "YIL": "1985–1992",
+    "AÇIKLAMA": "Yaşlı dostların komik yaşamı."
+  },
+  {
+    "AD": "Top Gear",
+    "YIL": "1978–2002",
+    "AÇIKLAMA": "Arabalar ve çılgın yarışlar."
+  },
+  {
+    "AD": "Better Off Ted",
+    "YIL": "2009–2010",
+    "AÇIKLAMA": "Garip şirket çalışanlarının maceraları."
+  },
+  {
+    "AD": "Harper's Island",
+    "YIL": "2009",
+    "AÇIKLAMA": "Cinayetlerle dolu gizemli ada."
+  },
+  {
+    "AD": "The Fairly OddParents",
+    "YIL": "2001–2017",
+    "AÇIKLAMA": "Büyücü peri arkadaşların maceraları."
+  },
+  {
+    "AD": "The Carrie Diaries",
+    "YIL": "2013–2014",
+    "AÇIKLAMA": "Genç bir kızın şehir hayatı."
+  },
+  {
+    "AD": "Roswell",
+    "YIL": "1999–2002",
+    "AÇIKLAMA": "Uzaylı gençlerin gizli yaşamı."
+  },
+  {
+    "AD": "Greek",
+    "YIL": "2007–2011",
+    "AÇIKLAMA": "Üniversite hayatındaki arkadaşlıklar."
+  },
+  {
+    "AD": "The Boondocks",
+    "YIL": "2005–2014",
+    "AÇIKLAMA": "Siyahi ailenin sokak komedisi."
+  },
+  {
+    "AD": "Blue Bloods",
+    "YIL": "2010–2024",
+    "AÇIKLAMA": "Polis ailesinin suç ve adalet mücadelesi."
+  },
+  {
+    "AD": "Strike Back",
+    "YIL": "2010–2020",
+    "AÇIKLAMA": "Askeri operasyonların aksiyon dolu hikayesi."
+  },
+  {
+    "AD": "QI",
+    "YIL": "2003–",
+    "AÇIKLAMA": "İlginç bilgi ve mizah şovu."
+  },
+  {
+    "AD": "Moonlight",
+    "YIL": "2007–2008",
+    "AÇIKLAMA": "Vampir dedektifin gizemleri."
+  },
+  {
+    "AD": "Medium",
+    "YIL": "2005–2011",
+    "AÇIKLAMA": "Geleceği gören kadının suç çözümü."
+  },
+  {
+    "AD": "Spin City",
+    "YIL": "1996–2002",
+    "AÇIKLAMA": "Belediye başkanının karmaşık işleri."
+  },
+  {
+    "AD": "Being Human",
+    "YIL": "2011–2014",
+    "AÇIKLAMA": "İnsan, vampir ve kurtadam arkadaşlığı."
+  },
+  {
+    "AD": "Hercules The Legendary Journeys",
+    "YIL": "1995–1999",
+    "AÇIKLAMA": " Mitolojik kahramanın maceraları."
+  },
+  {
+    "AD": "Shadowhunters",
+    "YIL": "2016–2019",
+    "AÇIKLAMA": "Gölgelerde yaşayan iblis avcıları."
+  },
+  {
+    "AD": "Knight Rider",
+    "YIL": "1982–1986",
+    "AÇIKLAMA": "Konuşan arabalı gizli ajan."
+  }
+]

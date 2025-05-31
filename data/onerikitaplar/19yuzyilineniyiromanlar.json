@@ -1,0 +1,842 @@
+[
+    {
+        "Ad": "Pride and Prejudice",
+        "Yazar": "Jane Austen",
+        "Tür": "Klasik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Aşk ve gurur dolu İngiliz kırsalında geçen klasik romantik hikaye."
+    },
+    {
+        "Ad": "Jane Eyre",
+        "Yazar": "Charlotte Brontë",
+        "Tür": "Gotik, Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Gizemli ve tutkulu bir kadının kendi yolunu arayışı."
+    },
+    {
+        "Ad": "The Picture of Dorian Gray",
+        "Yazar": "Oscar Wilde",
+        "Tür": "Gotik, Felsefi Roman",
+        "Ülke": "İrlanda",
+        "Açıklama": "Genç ve güzel adamın ruhunu kaybettiği karanlık fantezi."
+    },
+    {
+        "Ad": "Wuthering Heights",
+        "Yazar": "Emily Brontë",
+        "Tür": "Gotik, Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Tutku ve intikamla dolu kasvetli bir aşk hikayesi."
+    },
+    {
+        "Ad": "Crime and Punishment",
+        "Yazar": "Fyodor Dostoevsky",
+        "Tür": "Psikolojik Roman",
+        "Ülke": "Rusya",
+        "Açıklama": "Vicdan azabı çeken bir suçlunun psikolojik dramı."
+    },
+    {
+        "Ad": "Frankenstein: The 1818 Text",
+        "Yazar": "Mary Wollstonecraft Shelley",
+        "Tür": "Gotik, Bilim Kurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bilim insanının yarattığı canavarın trajedisi."
+    },
+    {
+        "Ad": "The Count of Monte Cristo",
+        "Yazar": "Alexandre Dumas",
+        "Tür": "Macera, Tarihi Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Haksız yere hapse atılan adamın intikam yolculuğu."
+    },
+    {
+        "Ad": "Alice’s Adventures in Wonderland / Through the Looking-Glass",
+        "Yazar": "Lewis Carroll",
+        "Tür": "Fantastik, Çocuk Klasiği",
+        "Ülke": "İngiltere",
+        "Açıklama": "Fantastik bir dünyada büyülü macera."
+    },
+    {
+        "Ad": "Dracula",
+        "Yazar": "Bram Stoker",
+        "Tür": "Gotik, Korku",
+        "Ülke": "İrlanda",
+        "Açıklama": "Kan emen vampirin korku dolu hikayesi."
+    },
+    {
+        "Ad": "Little Women",
+        "Yazar": "Louisa May Alcott",
+        "Tür": "Klasik, Aile Romanı",
+        "Ülke": "ABD",
+        "Açıklama": "Dört kız kardeşin büyüme ve dayanışma öyküsü."
+    },
+    {
+        "Ad": "Emma",
+        "Yazar": "Jane Austen",
+        "Tür": "Klasik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kendini aşka ve başkalarının hayatlarına karıştıran genç kadın."
+    },
+    {
+        "Ad": "Les Misérables",
+        "Yazar": "Victor Hugo",
+        "Tür": "Tarihi Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Fransız Devrimi arka planında umut ve kurtuluş mücadelesi."
+    },
+    {
+        "Ad": "Anna Karenina",
+        "Yazar": "Leo Tolstoy",
+        "Tür": "Klasik, Realist",
+        "Ülke": "Rusya",
+        "Açıklama": "Tutkulu ama trajik bir aşk ve toplum eleştirisi."
+    },
+    {
+        "Ad": "Persuasion",
+        "Yazar": "Jane Austen",
+        "Tür": "Klasik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "İkinci şans ve aşk hikayesi."
+    },
+    {
+        "Ad": "The Adventures of Huckleberry Finn",
+        "Yazar": "Mark Twain",
+        "Tür": "Macera, Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Nehirde özgürlük arayışı ve macera dolu yolculuk."
+    },
+    {
+        "Ad": "Sense and Sensibility",
+        "Yazar": "Jane Austen",
+        "Tür": "Klasik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Mantık ve duygular arasında kalan iki kardeşin hikayesi."
+    },
+    {
+        "Ad": "A Tale of Two Cities",
+        "Yazar": "Charles Dickens",
+        "Tür": "Tarihi Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Devrim öncesi Londra ve Paris’te iki hayatın kesişimi."
+    },
+    {
+        "Ad": "Great Expectations",
+        "Yazar": "Charles Dickens",
+        "Tür": "Klasik, Sosyal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sırlarla dolu genç bir adamın büyüme serüveni."
+    },
+    {
+        "Ad": "A Christmas Carol",
+        "Yazar": "Charles Dickens",
+        "Tür": "Klasik, Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Vicdan ve değişim temalı klasik Noel hikayesi."
+    },
+    {
+        "Ad": "The Brothers Karamazov",
+        "Yazar": "Fyodor Dostoevsky",
+        "Tür": "Felsefi, Psikolojik",
+        "Ülke": "Rusya",
+        "Açıklama": "Aile, inanç ve felsefi sorgulamalarla dolu dram."
+    },
+    {
+        "Ad": "War and Peace",
+        "Yazar": "Leo Tolstoy",
+        "Tür": "Tarihi Roman, Epik",
+        "Ülke": "Rusya",
+        "Açıklama": "Büyük tarihsel olaylar arasında aile ve aşkın destanı."
+    },
+    {
+        "Ad": "The Adventures of Sherlock Holmes",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Dedektif, Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dahi dedektif Sherlock Holmes’un zekâ dolu maceraları."
+    },
+    {
+        "Ad": "The Importance of Being Earnest",
+        "Yazar": "Oscar Wilde",
+        "Tür": "Komedi, Tiyatro",
+        "Ülke": "İrlanda",
+        "Açıklama": "Toplumsal normları hicveden komik ve zekice oyun."
+    },
+    {
+        "Ad": "Moby-Dick or, The Whale",
+        "Yazar": "Herman Melville",
+        "Tür": "Macera, Denizcilik",
+        "Ülke": "ABD",
+        "Açıklama": "Beyaz balina peşindeki takıntılı kaptanın epik yolculuğu."
+    },
+    {
+        "Ad": "The Adventures of Tom Sawyer",
+        "Yazar": "Mark Twain",
+        "Tür": "Macera, Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Çocukluk maceraları ve Amerika’nın güneyinde büyüme hikayesi."
+    },
+    {
+        "Ad": "Madame Bovary",
+        "Yazar": "Gustave Flaubert",
+        "Tür": "Realist, Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Kadınların toplumdaki kısıtlamaları ve hayal kırıklıkları."
+    },
+    {
+        "Ad": "Treasure Island",
+        "Yazar": "Robert Louis Stevenson",
+        "Tür": "Macera, Klasik",
+        "Ülke": "İskoçya",
+        "Açıklama": "Define avcılarının tehlikelerle dolu adadaki macerası."
+    },
+    {
+        "Ad": "Tess of the D’Urbervilles",
+        "Yazar": "Thomas Hardy",
+        "Tür": "Klasik, Doğa ve Toplum",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kadınlık, kader ve kırsal yaşamın trajik öyküsü."
+    },
+    {
+        "Ad": "The Scarlet Letter",
+        "Yazar": "Nathaniel Hawthorne",
+        "Tür": "Gotik, Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Günah, kefaret ve toplumsal yargıların sert eleştirisi."
+    },
+    {
+        "Ad": "The Three Musketeers",
+        "Yazar": "Alexandre Dumas",
+        "Tür": "Macera, Tarihi Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Dostluk ve kahramanlıkla dolu Kralın muhafızları macerası."
+    },
+    {
+        "Ad": "North and South",
+        "Yazar": "Elizabeth Gaskell",
+        "Tür": "Toplumsal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Endüstri Devrimi’nin etkileriyle kuzey ve güney arasındaki çatışma."
+    },
+    {
+        "Ad": "Northanger Abbey",
+        "Yazar": "Jane Austen",
+        "Tür": "Gotik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Genç kadının gotik ve romantik macerası."
+    },
+    {
+        "Ad": "Mansfield Park",
+        "Yazar": "Jane Austen",
+        "Tür": "Klasik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Toplumsal statü ve aşk üzerine ince eleştiri."
+    },
+    {
+        "Ad": "David Copperfield",
+        "Yazar": "Charles Dickens",
+        "Tür": "Klasik, Sosyal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bir adamın zorluklar ve başarılarla dolu yaşam yolculuğu."
+    },
+    {
+        "Ad": "The Time Machine",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Zaman yolculuğu ve bilim kurgu klasikleri arasında."
+    },
+    {
+        "Ad": "Oliver Twist",
+        "Yazar": "Charles Dickens",
+        "Tür": "Klasik, Sosyal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yetim bir çocuğun hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "Dr. Jekyll and Mr. Hyde",
+        "Yazar": "Robert Louis Stevenson",
+        "Tür": "Gotik, Korku",
+        "Ülke": "İskoçya",
+        "Açıklama": "İnsanın iki yüzü arasındaki mücadele."
+    },
+    {
+        "Ad": "A Study in Scarlet",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Dedektif, Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sherlock Holmes’un ilk gizemli olayı."
+    },
+    {
+        "Ad": "Middlemarch",
+        "Yazar": "George Eliot",
+        "Tür": "Toplumsal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "İngiliz toplumunun detaylı ve derin portresi."
+    },
+    {
+        "Ad": "The Complete Grimm's Fairy Tales",
+        "Yazar": "Jacob Grimm",
+        "Tür": "Masal, Folklor",
+        "Ülke": "Almanya",
+        "Açıklama": "Klasik Alman peri masallarının büyülü dünyası."
+    },
+    {
+        "Ad": "The Tell-Tale Heart and Other Writings",
+        "Yazar": "Edgar Allan Poe",
+        "Tür": "Gotik, Korku",
+        "Ülke": "ABD",
+        "Açıklama": "Karar verme süreçleri ve suçluluk duygusunun psikolojik derinlikleri."
+    },
+    {
+        "Ad": "The Wonderful Wizard of Oz",
+        "Yazar": "L. Frank Baum",
+        "Tür": "Fantastik, Çocuk Klasiği",
+        "Ülke": "ABD",
+        "Açıklama": "Bir kızın fantastik dünyada evine dönüş macerası."
+    },
+    {
+        "Ad": "Bleak House",
+        "Yazar": "Charles Dickens",
+        "Tür": "Toplumsal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Adalet, sınıf çatışmaları ve İngiliz toplumunun karmaşık yapısı."
+    },
+    {
+        "Ad": "The Woman in White",
+        "Yazar": "Wilkie Collins",
+        "Tür": "Gotik, Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Gizemli kadın ve sırlarla dolu gotik roman."
+    },
+    {
+        "Ad": "The Idiot",
+        "Yazar": "Fyodor Dostoevsky",
+        "Tür": "Roman, Psikolojik",
+        "Ülke": "Rusya",
+        "Açıklama": "Masumiyet ve insan doğasının karmaşıklığı üzerine derin bir inceleme."
+    },
+    {
+        "Ad": "The Hunchback of Notre-Dame",
+        "Yazar": "Victor Hugo",
+        "Tür": "Gotik, Tarihi Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Aşk, kader ve Paris’in gotik atmosferinde trajedi."
+    },
+    {
+        "Ad": "The Origin of Species",
+        "Yazar": "Charles Darwin",
+        "Tür": "Bilimsel, Doğa Bilimleri",
+        "Ülke": "İngiltere",
+        "Açıklama": "Türlerin evrimi ve doğanın bilimsel açıklaması."
+    },
+    {
+        "Ad": "The War of the Worlds",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dünya dışı istilaya karşı insanlığın mücadelesi."
+    },
+    {
+        "Ad": "Faust, First Part",
+        "Yazar": "Johann Wolfgang von Goethe",
+        "Tür": "Drama, Felsefi",
+        "Ülke": "Almanya",
+        "Açıklama": "İnsanın arzuları ve ahlaki ikilemleri üzerine epik bir trajedi."
+    },
+    {
+        "Ad": "Vanity Fair",
+        "Yazar": "William Makepeace Thackeray",
+        "Tür": "Toplumsal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Toplumsal hırs ve bireycilik üzerine hiciv dolu roman."
+    },
+    {
+        "Ad": "Leaves of Grass",
+        "Yazar": "Walt Whitman",
+        "Tür": "Şiir, Modernist",
+        "Ülke": "ABD",
+        "Açıklama": "Amerikan özgürlük ve bireysellik temalarının şiirsel anlatımı."
+    },
+    {
+        "Ad": "Twenty Thousand Leagues Under the Sea",
+        "Yazar": "Jules Verne",
+        "Tür": "Macera, Bilim Kurgu",
+        "Ülke": "Fransa",
+        "Açıklama": "Derin denizlerin gizemli dünyasında epik macera."
+    },
+    {
+        "Ad": "The Complete Fairy Tales",
+        "Yazar": "Hans Christian Andersen",
+        "Tür": "Masal, Çocuk Edebiyatı",
+        "Ülke": "Danimarka",
+        "Açıklama": "Büyülü ve öğretici peri masallarının büyülü koleksiyonu."
+    },
+    {
+        "Ad": "Uncle Tom’s Cabin",
+        "Yazar": "Harriet Beecher Stowe",
+        "Tür": "Tarihi Roman, Kölelik Karşıtı",
+        "Ülke": "ABD",
+        "Açıklama": "Köleliğin acı gerçekleri ve insan hakları mücadelesi."
+    },
+    {
+        "Ad": "Around the World in Eighty Days",
+        "Yazar": "Jules Verne",
+        "Tür": "Macera, Seyahat",
+        "Ülke": "Fransa",
+        "Açıklama": "Dünyayı 80 günde dolaşan cesur bir maceraperestin hikayesi."
+    },
+    {
+        "Ad": "The Tenant of Wildfell Hall",
+        "Yazar": "Anne Brontë",
+        "Tür": "Gotik, Romantik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kadınların bağımsızlık mücadelesi ve toplumsal normlar."
+    },
+    {
+        "Ad": "Far From the Madding Crowd",
+        "Yazar": "Thomas Hardy",
+        "Tür": "Romantik, Kırsal Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kırsal yaşam, aşk ve insan doğasının karmaşıklığı."
+    },
+    {
+        "Ad": "Black Beauty",
+        "Yazar": "Anna Sewell",
+        "Tür": "Hayvan Romanı",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bir atın yaşamından insanlık ve merhamet üzerine dokunaklı öykü."
+    },
+    {
+        "Ad": "A Doll's House",
+        "Yazar": "Henrik Ibsen",
+        "Tür": "Drama, Tiyatro",
+        "Ülke": "Norveç",
+        "Açıklama": "Kadın özgürlüğü ve aile yapısının eleştirisi."
+    },
+    {
+        "Ad": "Heidi",
+        "Yazar": "Johanna Spyri",
+        "Tür": "Çocuk Romanı",
+        "Ülke": "İsviçre",
+        "Açıklama": "Doğa sevgisi ve çocukların masum dünyasına dokunan hikaye."
+    },
+    {
+        "Ad": "Notes from Underground, White Nights, The Dream of a Ridiculous Man...",
+        "Yazar": "Fyodor Dostoevsky",
+        "Tür": "Roman, Psikolojik",
+        "Ülke": "Rusya",
+        "Açıklama": "İnsanın karanlık iç dünyasına dair derin düşünceler."
+    },
+    {
+        "Ad": "The Moonstone",
+        "Yazar": "Wilkie Collins",
+        "Tür": "Gotik, Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Gizemli mücevher ve suçun çözülüşü."
+    },
+    {
+        "Ad": "Heart of Darkness",
+        "Yazar": "Joseph Conrad",
+        "Tür": "Modernist, Psikolojik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sömürgeciliğin karanlık yüzü ve insan doğasının karanlığı."
+    },
+    {
+        "Ad": "The Awakening",
+        "Yazar": "Kate Chopin",
+        "Tür": "Roman, Feminist",
+        "Ülke": "ABD",
+        "Açıklama": "Kadınların özgürleşme mücadelesi ve kimlik arayışı."
+    },
+    {
+        "Ad": "Walden or, Life in the Woods",
+        "Yazar": "Henry David Thoreau",
+        "Tür": "Doğa Felsefesi, Deneme",
+        "Ülke": "ABD",
+        "Açıklama": "Doğayla uyum içinde basit yaşamın felsefesi."
+    },
+    {
+        "Ad": "Villette",
+        "Yazar": "Charlotte Brontë",
+        "Tür": "Gotik, Roman",
+        "Ülke": "İngiltere",
+        "Açıklama": "Aşk ve yalnızlık içinde ruhsal keşif yolculuğu."
+    },
+    {
+        "Ad": "The Communist Manifesto",
+        "Yazar": "Karl Marx",
+        "Tür": "Siyasi, Manifesto",
+        "Ülke": "Almanya",
+        "Açıklama": "Toplumsal eşitsizlik ve sınıf mücadelesi manifestosu."
+    },
+    {
+        "Ad": "The Complete Poems of Emily Dickinson",
+        "Yazar": "Emily Dickinson",
+        "Tür": "Şiir, Modernist",
+        "Ülke": "ABD",
+        "Açıklama": "Duygusal ve mistik şiirlerle insan ruhunun yansımaları."
+    },
+    {
+        "Ad": "Les Fleurs du Mal",
+        "Yazar": "Charles Baudelaire",
+        "Tür": "Şiir, Sembolizm",
+        "Ülke": "Fransa",
+        "Açıklama": "Hayatın karanlık ve melankolik yanlarını şiirsel anlatımı."
+    },
+    {
+        "Ad": "The Jungle Books",
+        "Yazar": "Rudyard Kipling",
+        "Tür": "Macera, Çocuk Edebiyatı",
+        "Ülke": "İngiltere",
+        "Açıklama": "Vahşi doğada büyüme ve macera dolu yaşam."
+    },
+    {
+        "Ad": "The Yellow Wall-Paper",
+        "Yazar": "Charlotte Perkins Gilman",
+        "Tür": "Gotik, Psikolojik",
+        "Ülke": "ABD",
+        "Açıklama": "Toplumsal baskılar ve kadınların psikolojik durumu."
+    },
+    {
+        "Ad": "The Red and the Black",
+        "Yazar": "Stendhal",
+        "Tür": "Roman, Realizm",
+        "Ülke": "Fransa",
+        "Açıklama": "Tutku ve hırsla dolu Fransız toplumunun portresi."
+    },
+    {
+        "Ad": "The Sign of Four (Sherlock Holmes, #2)",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Dedektif Romanı",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dedektiflik ve zekanın sınırlarını zorlayan gizem."
+    },
+    {
+        "Ad": "Journey to the Center of the Earth",
+        "Yazar": "Jules Verne",
+        "Tür": "Macera, Bilim Kurgu",
+        "Ülke": "Fransa",
+        "Açıklama": "Yeraltının bilinmeyen derinliklerine yapılan macera."
+    },
+    {
+        "Ad": "Ivanhoe",
+        "Yazar": "Walter Scott",
+        "Tür": "Tarihi Roman",
+        "Ülke": "İskoçya",
+        "Açıklama": "Ortaçağ şövalyelik ve aşk hikayesi."
+    },
+    {
+        "Ad": "The Turn of the Screw",
+        "Yazar": "Henry James",
+        "Tür": "Gotik, Korku",
+        "Ülke": "ABD",
+        "Açıklama": "Perili evde yaşanan gizemli olaylar ve psikolojik gerilim."
+    },
+    {
+        "Ad": "Dead Souls",
+        "Yazar": "Nikolai Gogol",
+        "Tür": "Roman, Sosyal Eleştiri",
+        "Ülke": "Rusya",
+        "Açıklama": "Rus toplumunun yozlaşması ve insanlık eleştirisi."
+    },
+    {
+        "Ad": "The Prince and the Pauper",
+        "Yazar": "Mark Twain",
+        "Tür": "Tarihi Roman, Macera",
+        "Ülke": "ABD",
+        "Açıklama": "İki fakirin hayatlarının değişimiyle sosyal eleştiri."
+    },
+    {
+        "Ad": "A Connecticut Yankee in King Arthur's Court",
+        "Yazar": "Mark Twain",
+        "Tür": "Bilim Kurgu, Mizah",
+        "Ülke": "ABD",
+        "Açıklama": "Modernite ve geçmiş arasındaki çatışmayı mizahi bir dille anlatır."
+    },
+    {
+        "Ad": "Wives and Daughters",
+        "Yazar": "Elizabeth Gaskell",
+        "Tür": "Roman, Aile Draması",
+        "Ülke": "İngiltere",
+        "Açıklama": "Aile bağları ve toplumsal değişimlerin iç içe geçtiği hikaye."
+    },
+    {
+        "Ad": "The Portrait of a Lady",
+        "Yazar": "Henry James",
+        "Tür": "Roman, Psikolojik",
+        "Ülke": "ABD",
+        "Açıklama": "Genç bir kadının özgürlük ve kimlik arayışı."
+    },
+    {
+        "Ad": "The Island of Dr. Moreau",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu, Korku",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bilim insanının etik sınırlarını zorlayan ada macerası."
+    },
+    {
+        "Ad": "The Mayor of Casterbridge",
+        "Yazar": "Thomas Hardy",
+        "Tür": "Roman, Kırsal",
+        "Ülke": "İngiltere",
+        "Açıklama": "Geçmiş hatalarla boğuşan bir adamın trajik hikayesi."
+    },
+    {
+        "Ad": "The Invisible Man",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu, Gotik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Görünmezlik gücünün getirdiği yalnızlık ve tehlike."
+    },
+    {
+        "Ad": "Three Men in a Boat (Three Men, #1)",
+        "Yazar": "Jerome K. Jerome",
+        "Tür": "Komedi, Macera",
+        "Ülke": "İngiltere",
+        "Açıklama": "Neşeli üç arkadaşın Thames Nehri'nde maceraları."
+    },
+    {
+        "Ad": "Fathers and Sons",
+        "Yazar": "Ivan Turgenev",
+        "Tür": "Roman, Realizm",
+        "Ülke": "Rusya",
+        "Açıklama": "Yeni nesil ve eski değerler arasındaki çatışma."
+    },
+    {
+        "Ad": "Père Goriot",
+        "Yazar": "Honoré de Balzac",
+        "Tür": "Roman, Realizm",
+        "Ülke": "Fransa",
+        "Açıklama": "Paranın insan ilişkilerini nasıl etkilediğini gösterir."
+    },
+    {
+        "Ad": "Little Dorrit",
+        "Yazar": "Charles Dickens",
+        "Tür": "Roman, Viktoryen ",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bir ailenin sosyal sınıflar içindeki zorlukları."
+    },
+    {
+        "Ad": "Eugene Onegin",
+        "Yazar": "Alexander Pushkin",
+        "Tür": "Şiir, Roman",
+        "Ülke": "Rusya",
+        "Açıklama": "Rus romantizmi ve toplumsal eleştirinin birleşimi."
+    },
+    {
+        "Ad": "Our Mutual Friend",
+        "Yazar": "Charles Dickens",
+        "Tür": "Roman, Viktoryen ",
+        "Ülke": "İngiltere",
+        "Açıklama": "Servetin ve sırların gölgesinde geçen kasaba hayatı."
+    },
+    {
+        "Ad": "The Strange Case of Dr Jekyll and Mr Hyde",
+        "Yazar": "Robert Louis Stevenson",
+        "Tür": "Gotik, Korku",
+        "Ülke": "İskoçya",
+        "Açıklama": "İyi ve kötü yanların çatıştığı psikolojik gerilim."
+    },
+    {
+        "Ad": "Thus Spoke Zarathustra",
+        "Yazar": "Friedrich Nietzsche",
+        "Tür": "Felsefe, Edebiyat",
+        "Ülke": "Almanya",
+        "Açıklama": "Derin felsefi düşüncelerle insanın kendi yolunu bulması."
+    },
+    {
+        "Ad": "The Death of Ivan Ilych",
+        "Yazar": "Leo Tolstoy",
+        "Tür": "Roman, Realizm",
+        "Ülke": "Rusya",
+        "Açıklama": "Ölümle yüzleşmenin insan ruhundaki etkisi."
+    },
+    {
+        "Ad": "Pinocchio",
+        "Yazar": "Carlo Collodi",
+        "Tür": "Çocuk Edebiyatı",
+        "Ülke": "İtalya",
+        "Açıklama": "Yaramaz bir tahta kuklanın büyüme ve öğrenme hikayesi."
+    },
+    {
+        "Ad": "Germinal",
+        "Yazar": "Émile Zola",
+        "Tür": "Roman, Doğalcılık",
+        "Ülke": "Fransa",
+        "Açıklama": "İşçi sınıfının sert koşullarda hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "The Little Mermaid",
+        "Yazar": "Hans Christian Andersen",
+        "Tür": "Masal, Çocuk Edebiyatı",
+        "Ülke": "Danimarka",
+        "Açıklama": "Deniz kızı masalıyla insanlık ve fedakarlık teması."
+    },
+    {
+        "Ad": "The Mill on the Floss",
+        "Yazar": "George Eliot",
+        "Tür": "Roman,",
+        "Ülke": " Viktoryen İngiltere",
+        "Açıklama": "Kardeşlik, aşk ve aile bağlarının karmaşık ilişkileri."
+    },
+    {
+        "Ad": "Agnes Grey",
+        "Yazar": "Anne Brontë",
+        "Tür": "Roman, ",
+        "Ülke": "Viktoryen İngiltere",
+        "Açıklama": "Genç bir kızın büyüme sancıları ve toplumla çatışması."
+    },
+    {
+        "Ad": "Cranford",
+        "Yazar": "Elizabeth Gaskell",
+        "Tür": "Roman, ",
+        "Ülke": "Viktoryen İngiltere",
+        "Açıklama": "Küçük bir kasabanın sakin ama dokunaklı yaşamı."
+    },
+    {
+        "Ad": "The Return of the Native",
+        "Yazar": "Thomas Hardy",
+        "Tür": "Roman, Kırsal",
+        "Ülke": " İngiltere",
+        "Açıklama": "Doğayla insan arasındaki mücadele ve içsel dönüşüm."
+    },
+    {
+        "Ad": "Jude the Obscure",
+        "Yazar": "Thomas Hardy",
+        "Tür": "Roman, Kırsal ",
+        "Ülke": "İngiltere",
+        "Açıklama": "Genç bir adamın hayalleri ve topluma yabancılaşması."
+    },
+    {
+        "Ad": "The Raven",
+        "Yazar": "Edgar Allan Poe",
+        "Tür": "Şiir, Gotik",
+        "Ülke": "ABD",
+        "Açıklama": "Karanlık ve gizemli bir şiirsel korku hikayesi."
+    },
+    {
+        "Ad": "The Last of the Mohicans",
+        "Yazar": "James Fenimore Cooper",
+        "Tür": "Macera, Tarihi Roman",
+        "Ülke": "ABD",
+        "Açıklama": "Kızılderili topraklarında geçen heyecanlı bir macera."
+    },
+    {
+        "Ad": "Narrative of the Life of Frederick Douglass",
+        "Yazar": "Frederick Douglass",
+        "Tür": "Otobiyografi, Tarihi",
+        "Ülke": "ABD",
+        "Açıklama": "Kölelikten özgürlüğe ilham verici gerçek hayat anlatısı."
+    },
+    {
+        "Ad": "Silas Marner",
+        "Yazar": "George Eliot",
+        "Tür": "Roman",
+        "Ülke": "Viktoryen İngiltere",
+        "Açıklama": "Sessiz bir adamın hayatındaki dönüşüm ve sevgi arayışı."
+    },
+    {
+        "Ad": "Hunger",
+        "Yazar": "Knut Hamsun",
+        "Tür": "Roman",
+        "Ülke": "Psikolojik, Norveç",
+        "Açıklama": "Açlık ve psikolojik yıkımın insan üzerindeki etkisi."
+    },
+    {
+        "Ad": "The Book of Mormon: Another Testament...",
+        "Yazar": "Joseph Smith Jr.",
+        "Tür": "Dini Metin",
+        "Ülke": "ABD",
+        "Açıklama": "Dini inanç ve ahlaki öğretiler üzerine kutsal metin."
+    },
+    {
+        "Ad": "Nicholas Nickleby",
+        "Yazar": "Charles Dickens",
+        "Tür": "Roman",
+        "Ülke": "Viktoryen İngiltere",
+        "Açıklama": "Genç bir adamın zorluklarla dolu hayat yolculuğu."
+    },
+    {
+        "Ad": "The Canterville Ghost",
+        "Yazar": "Oscar Wilde",
+        "Tür": "Korku, Mizah",
+        "Ülke": "İrlanda",
+        "Açıklama": "Komik ve ürkütücü bir hayalet hikayesi."
+    },
+    {
+        "Ad": "Kidnapped (David Balfour, #1)",
+        "Yazar": "Robert Louis Stevenson",
+        "Tür": "Macera",
+        "Ülke": "İskoçya",
+        "Açıklama": "Bir gencin kaçırılıp zorlu doğa koşullarında hayatta kalması."
+    },
+    {
+        "Ad": "Through the Looking-Glass and What Alice Found There",
+        "Yazar": "Lewis Carroll",
+        "Tür": "Fantastik, Çocuk Edebiyatı",
+        "Ülke": "İngiltere",
+        "Açıklama": "Fantastik bir aynanın ötesindeki tuhaf macera."
+    },
+    {
+        "Ad": "The Legend of Sleepy Hollow",
+        "Yazar": "Bo Hampton",
+        "Tür": "Korku, Gotik",
+        "Ülke": "ABD",
+        "Açıklama": "Korku ve doğaüstü olaylarla dolu gotik hikaye."
+    },
+    {
+        "Ad": "Selected Stories of Anton Chekhov",
+        "Yazar": "Anton Chekhov",
+        "Tür": "Hikayeler",
+        "Ülke": "Rusya",
+        "Açıklama": "Rus edebiyatının derin insan analizleri."
+    },
+    {
+        "Ad": "The Overcoat",
+        "Yazar": "Nikolai Gogol",
+        "Tür": "Hikaye",
+        "Ülke": "Rusya",
+        "Açıklama": "Küçük bir kabanın trajik hikayesi ve insan zaafları."
+    },
+    {
+        "Ad": "The Pickwick Papers",
+        "Yazar": "Charles Dickens",
+        "Tür": "Roman",
+        "Ülke": "Viktoryen İngiltere",
+        "Açıklama": "Komik ve renkli İngiliz kasaba yaşamı."
+    },
+    {
+        "Ad": "King Solomon's Mines",
+        "Yazar": "H. Rider Haggard",
+        "Tür": "Macera",
+        "Ülke": "İngiltere",
+        "Açıklama": "Tehlikeli bir hazine avının heyecanı."
+    },
+    {
+        "Ad": "The House of the Seven Gables",
+        "Yazar": "Nathaniel Hawthorne",
+        "Tür": "Gotik, Gotik Roman",
+        "Ülke": "ABD",
+        "Açıklama": "Gizemli ve karanlık bir malikâne hikayesi."
+    },
+    {
+        "Ad": "Bartleby the Scrivener",
+        "Yazar": "Herman Melville",
+        "Tür": "Kısa Hikaye",
+        "Ülke": "ABD",
+        "Açıklama": "İnatçı bir yazıcının trajik yaşamı."
+    },
+    {
+        "Ad": "Notes from Underground",
+        "Yazar": "Fyodor Dostoevsky",
+        "Tür": "Roman",
+        "Ülke": "Rusya",
+        "Açıklama": "Toplumsal dışlanma ve bireysel isyan teması."
+    },
+    {
+        "Ad": "Carmilla",
+        "Yazar": "J. Sheridan Le Fanu",
+        "Tür": "Gotik, Korku",
+        "Ülke": "İrlanda",
+        "Açıklama": "Gotik vampir hikayesiyle doğaüstü korku."
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "Ad": "Where the Crawdads Sing",
+        "Yazar": "Delia Owens",
+        "Tür": "Drama, Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "Where the Crawdads Sing: Bir bataklıkta yalnız bir şekilde büyüyen Kya, hem doğanın derinliklerinden hem de toplumun dışladığı bir genç kız olarak yaşam mücadelesi verir. Yıllar sonra, kasaba halkının en ünlü adamlarından birinin öldüğü bulunur ve Kya’nın masumiyeti sorgulanır."
+    },
+    {
+        "Ad": "The Seven Husbands of Evelyn Hugo",
+        "Yazar": "Taylor Jenkins Reid",
+        "Tür": "Romantik, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Seven Husbands of Evelyn Hugo: Evelyn Hugo, Hollywood'un altın çağında parlayan bir yıldızdır ve yedi kocasıyla ilgili sırları bir gazeteciye anlatırken, aşk, hırs ve kayıplarla dolu bir hayatın izlerini bırakır."
+    },
+    {
+        "Ad": "The Song of Achilles",
+        "Yazar": "Madeline Miller",
+        "Tür": "Aşk, Mitoloji",
+        "Ülke": "ABD",
+        "Açıklama": "The Song of Achilles: Antik Yunan’ın kahramanlarından Achilles ve Patroclus’un epik dostluk ve aşkını anlatan bu hikaye, tragedya ve destanların birleşimidir. Trajik sonu, okuyucuyu derinden etkiler."
+    },
+    {
+        "Ad": "Big Little Lies",
+        "Yazar": "Liane Moriarty",
+        "Tür": "Gizem, Drama",
+        "Ülke": "Avustralya",
+        "Açıklama": "Big Little Lies: Üç kadının hayatı, kasaba içindeki küçük sırların ve büyük yalanların yavaşça su yüzüne çıkmasıyla karmaşıklaşır. Sadece evlilik, arkadaşlık ve anne olmanın zorlukları değil, aynı zamanda gizli gerilimler de etkili olur."
+    },
+    {
+        "Ad": "Normal People",
+        "Yazar": "Sally Rooney",
+        "Tür": "Romantik, Drama",
+        "Ülke": "İrlanda",
+        "Açıklama": "Normal People: Connell ve Marianne, okul yıllarında başlayan karmaşık bir ilişkiyi büyüyüp olgunlaşırken tekrar tekrar keşfederler. Aşkları ve arkadaşlıkları, sınıf, kimlik ve aile gibi büyük temalarla şekillenir."
+    },
+    {
+        "Ad": "Circe",
+        "Yazar": "Madeline Miller",
+        "Tür": "Mitoloji, Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Circe: Odysseus’un yolculuğundaki ünlü sihirbaz Circe’nin hikayesini anlatan bu roman, kadının gücünü ve kendi kimliğini bulma yolundaki içsel mücadelesini işler."
+    },
+    {
+        "Ad": "A Little Life",
+        "Yazar": "Hanya Yanagihara",
+        "Tür": "Drama",
+        "Ülke": "ABD",
+        "Açıklama": "A Little Life: Dört arkadaşın üniversite yıllarından yetişkinliğe kadar olan hayatlarını anlatan bu eser, acı, travma ve bağlanma üzerine yoğun bir bakış açısı sunar. Jude’un karanlık geçmişi, arkadaşlıkları ve aşklarıyla şekillenir."
+    },
+    {
+        "Ad": "The Night Circus",
+        "Yazar": "Erin Morgenstern",
+        "Tür": "Fantastik, Aşk",
+        "Ülke": "ABD",
+        "Açıklama": "The Night Circus: Birbirine rakip iki sihirbaz, \"Gece Sirki\"ni yaratmak için büyülerini kullanırken, sihirli bir aşk hikayesinin içinde kendilerini bulurlar. Bu görsel şölen, büyülü bir atmosferde geçer."
+    },
+    {
+        "Ad": "The Invisible Life of Addie LaRue",
+        "Yazar": "V.E. Schwab",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "The Invisible Life of Addie LaRue: Addie LaRue, bir anlaşma yaparak ölümsüzlüğü kazanır, ancak kimse onu hatırlamaz. 300 yıl boyunca görünmez bir yaşam sürerken, bir gün biri onu hatırlar ve hayatı değişir."
+    },
+    {
+        "Ad": "The Midnight Library",
+        "Yazar": "Matt Haig",
+        "Tür": "Fantastik, Felsefi",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Midnight Library: Nora, ölümün eşiğinde, hayatının çeşitli versiyonlarını keşfetmek için zamanın dışındaki bir kütüphaneye gider. Her seçim, farklı bir yaşamı gösterir ve hayatının anlamını arar."
+    },
+    {
+        "Ad": "The Giver of Stars",
+        "Yazar": "Jojo Moyes",
+        "Tür": "Drama, Tarihi",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Giver of Stars: 1930'larda, bir grup kadın, dağ köylerine kitap getiren \"Kitap Kadınları\" olarak bilinir. Bu kadınlar, okuma yazma bilmeyen bir toplumda umudu ve eğitimi yaymaya çalışır."
+    },
+    {
+        "Ad": "The House in the Cerulean Sea",
+        "Yazar": "TJ Klune",
+        "Tür": "Fantastik, Aşk",
+        "Ülke": "ABD",
+        "Açıklama": "The House in the Cerulean Sea: Çocukların büyüdüğü, gizemli bir yatılı okulda geçen bu hikaye, toplumsal dışlanmışlık ve sevgi temasını işler. Bir adamın, sıra dışı çocukların koruyucusu olarak hayatı değişir."
+    },
+    {
+        "Ad": "The Silent Patient",
+        "Yazar": "Alex Michaelides",
+        "Tür": "Gizem, Psikolojik",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Silent Patient: Bir kadının kocasını öldürdükten sonra sessizleşmesi ve bir terapistin, kadının sırrını çözmeye çalışması, psikolojik gerilimde sürükleyici bir hikaye sunar."
+    },
+    {
+        "Ad": "The Book Thief",
+        "Yazar": "Markus Zusak",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "Avustralya",
+        "Açıklama": "The Book Thief: Nazi Almanyası'nda, kitapları çalan bir kızın hikayesi. Hikaye, savaşın acımasızlığına rağmen, edebiyatın ve insan ruhunun direncini anlatır."
+    },
+    {
+        "Ad": "The Night Watchman",
+        "Yazar": "Louise Erdrich",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Night Watchman: 1940'larda, bir Kızılderili kabilesinin haklarını savunmak için çalışan bir adamın mücadelesini konu alır. Toprak hakları ve kültürel kimlik etrafında bir direniş hikayesi."
+    },
+    {
+        "Ad": "Educated",
+        "Yazar": "Tara Westover",
+        "Tür": "Otobiyografi, Eğitim",
+        "Ülke": "ABD",
+        "Açıklama": "Educated: Tara Westover, Mormon ailesinin izole yaşamında büyür ve eğitim almak için büyük bir mücadele verir. Bu anı kitabı, insanın kimliğini ve özgürlüğünü bulma yolculuğunu anlatır."
+    },
+    {
+        "Ad": "Before We Were Strangers",
+        "Yazar": "Renée Carlino",
+        "Tür": "Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "Before We Were Strangers: İki eski sevgili, yıllar sonra karşılaşır ve geçmişteki kaybolmuş aşkı yeniden keşfederler. Zaman ve mesafe, yeniden bir araya gelmelerine engel olamayacaktır."
+    },
+    {
+        "Ad": "Red, White & Royal Blue",
+        "Yazar": "Casey McQuiston",
+        "Tür": "Romantik, Komedi",
+        "Ülke": "ABD",
+        "Açıklama": "Red, White & Royal Blue: Amerika'nın ilk gay başkanının oğlu ile İngiltere prensi arasındaki sıradışı aşkı anlatan bu romantik komedi, siyasi ve kişisel engelleri aşmanın yolunu gösterir."
+    },
+    {
+        "Ad": "Anxious People",
+        "Yazar": "Fredrik Backman",
+        "Tür": "Komedi, Drama",
+        "Ülke": "İsveç",
+        "Açıklama": "Anxious People: Bir grup insan, bir banka soygunu sırasında rehin alınır ve zamanla birbirlerinin hayatlarına dokunurlar. Bu kitabın hem komik hem de dokunaklı bir şekilde insan ruhunun karmaşıklığını ele alır."
+    },
+    {
+        "Ad": "The Flatshare",
+        "Yazar": "Beth O'Leary",
+        "Tür": "Romantik, Komedi",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Flatshare: İki yabancı, bir daireyi paylaşmak için sıra dışı bir anlaşma yapar. Zamanla, yalnızlıklarını aşarak birbirlerinin hayatlarında önemli bir yer edinirler."
+    },
+    {
+        "Ad": "The Paper Palace",
+        "Yazar": "Miranda Cowley Heller",
+        "Tür": "Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Paper Palace: Yaz tatilinin bir kısmını geçirdiği eski aile evinde, geçmişin acılarını ve sırlarını yeniden yüzeye çıkaran bir kadının içsel mücadelesini konu alır. Aşk, ihanet ve seçimler arasındaki gerilimle doludur."
+    },
+    {
+        "Ad": "Little Fires Everywhere",
+        "Yazar": "Celeste Ng",
+        "Tür": "Drama",
+        "Ülke": "ABD",
+        "Açıklama": "Little Fires Everywhere: Cleveland’da, iki ailenin hayatları, birbirlerinin değerleri ve sırları yüzünden çatışır. Irk, sınıf ve kimlik gibi temalarla, birbirlerinin hayatlarına müdahale eden bu karakterler arasındaki dinamikleri keşfeder."
+    },
+    {
+        "Ad": "The Couple Next Door",
+        "Yazar": "Shari Lapena",
+        "Tür": "Gizem, Gerilim",
+        "Ülke": "Kanada",
+        "Açıklama": "The Couple Next Door: Komşularının evinde bir akşam yemeği sırasında, genç bir çiftin bebeği kaybolur. Gerçekler yavaşça ortaya çıkarken, herkesin sırları ve masumiyetleri sorgulanır."
+    },
+    {
+        "Ad": "The Rosie Project",
+        "Yazar": "Graeme Simsion",
+        "Tür": "Romantik, Komedi",
+        "Ülke": "Avustralya",
+        "Açıklama": "The Rosie Project: Toplumsal kurallara ve aşk hayatına dair kendi teorilerini geliştiren Don Tillman, kendi aşkını bulmak için sıra dışı bir araştırma yapar. Komik, sıcak ve eğlenceli bir ilişki hikayesi."
+    },
+    {
+        "Ad": "The Maid",
+        "Yazar": "Nita Prose",
+        "Tür": "Gizem, Komedi",
+        "Ülke": "ABD",
+        "Açıklama": "The Maid: Temizlikçi olarak çalışan Molly, zengin bir ailenin evinde, işyerinde yaşanan bir cinayeti çözmeye çalışırken, kendi hayatındaki karanlık sırları da gün yüzüne çıkarır."
+    },
+    {
+        "Ad": "The Henna Artist",
+        "Yazar": "Alka Joshi",
+        "Tür": "Drama, Tarihi",
+        "Ülke": "Hindistan",
+        "Açıklama": "The Henna Artist: Hindistan’ın Jaipur şehrinde, yasak aşkları ve aile sırlarıyla baş etmeye çalışan bir kadının hayatı. Geleneksel hayatı terk edip kendi yolunu çizen Armin, hem bir sanata hem de hayata yeniden şekil verir."
+    },
+    {
+        "Ad": "Such a Fun Age",
+        "Yazar": "Kiley Reid",
+        "Tür": "Drama, Toplumsal",
+        "Ülke": "ABD",
+        "Açıklama": "Such a Fun Age: Bir siyah genç kadın, beyaz bir ailenin çocuğuna bakmak için işe başlar, ancak bir olay onları birbirinden ayırır ve ırkçılık, sınıf farkları ve ilişki dinamikleri üzerine düşünmeye başlar."
+    },
+    {
+        "Ad": "The Vanishing Half",
+        "Yazar": "Brit Bennett",
+        "Tür": "Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Vanishing Half: Siyah bir ailenin kızları, biri açık tenli bir beyaz gibi yaşarken, diğeri topluma bağlı kalır. Aile sırları, kimlik ve aidiyet üzerine derinlemesine bir inceleme yapar."
+    },
+    {
+        "Ad": "The Chain",
+        "Yazar": "Adrian McKinty",
+        "Tür": "Gerilim, Gizem",
+        "Ülke": "İrlanda",
+        "Açıklama": "The Chain: Bir kadının çocuğu kaçırılır ve tek bir şartla serbest bırakılacaktır: Başka bir çocuğu kaçırmak. Bu korkunç zincir, hayatta kalanları beklenmedik şekilde birbirine bağlar."
+    },
+    {
+        "Ad": "The 5th Wave",
+        "Yazar": "Rick Yancey",
+        "Tür": "Bilim Kurgu, Aksiyon",
+        "Ülke": "ABD",
+        "Açıklama": "The 5th Wave: Dünya dışı varlıkların insanları yok etme amacıyla dünyaya saldırdığı bir dönemde, hayatta kalan birkaç insanın, hayatta kalma mücadelesi. Genç bir kız, savaşı kazanmak için güçlü bir amaç bulur."
+    },
+    {
+        "Ad": "The Last Thing He Told Me",
+        "Yazar": "Laura Dave",
+        "Tür": "Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "The Last Thing He Told Me: Gizemli bir şekilde kaybolan kocasının ardında bıraktığı bir ipucu, kadın ve kızını, kaybolan adamın sırrını çözmek için tehlikeli bir yolculuğa çıkarır."
+    },
+    {
+        "Ad": "The Four Winds",
+        "Yazar": "Kristin Hannah",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Four Winds: Büyük Buhran dönemi Amerika'sında, hayatta kalmaya çalışan bir kadının zorluklarla mücadelesi ve ailesini koruma çabası. Aşk, aile ve hayatta kalma mücadelesinin güçlü bir hikayesi."
+    },
+    {
+        "Ad": "Mexican Gothic",
+        "Yazar": "Silvia Moreno-Garcia",
+        "Tür": "Korku, Gizem",
+        "Ülke": "Meksika",
+        "Açıklama": "Mexican Gothic: 1950’lerde, Meksika kırsalında bulunan terkedilmiş bir malikane, genç bir kadının, aile üyelerinin gizemli geçmişine dair sırrı çözme arzusuyla içine çekildiği bir yer haline gelir."
+    },
+    {
+        "Ad": "The City We Became",
+        "Yazar": "N.K. Jemisin",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "The City We Became: New York'un beş farklı bölgesini temsilen, her biri bir insan olarak canlanır ve şehri bir tehditten korumak için güçlerini birleştirir. Şehirdeki kimlik ve aidiyet üzerine fantastik bir anlatım."
+    },
+    {
+        "Ad": "The Priory of the Orange Tree",
+        "Yazar": "Samantha Shannon",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Priory of the Orange Tree: Ejderhalar ve insanlar arasındaki mücadelenin ortasında, dört farklı kadının yolculuğu anlatılır. Hem kadın gücünü hem de fantastik bir dünyayı keşfeden bir epik hikaye."
+    },
+    {
+        "Ad": "The Shadow of the Wind",
+        "Yazar": "Carlos Ruiz Zafón",
+        "Tür": "Gizem, Drama",
+        "Ülke": "İspanya",
+        "Açıklama": "The Shadow of the Wind: 1940'ların Barselona'sında, bir genç, kaybolmuş bir yazarın eserlerini keşfederken, kitapların, insanlar ve gizemlerle nasıl bir araya geldiğini fark eder."
+    },
+    {
+        "Ad": "The Night She Disappeared",
+        "Yazar": "Lisa Jewell",
+        "Tür": "Gizem",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Night She Disappeared: Bir kasaba, bir kadının kaybolduğu geceyi ve kaybolan kişinin ardındaki gizemi çözmeye çalışırken, kasabanın sırları ve geçmişi ortaya çıkar."
+    },
+    {
+        "Ad": "We Were Liars",
+        "Yazar": "E. Lockhart",
+        "Tür": "Drama, Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "We Were Liars: Zengin bir ailenin tatil yaptığı adada, yaşanan trajik olayların arkasında yatan sırları keşfeden bir genç kızın hikayesi. Hayat, aşk ve travmalar üzerine düşündüren bir gerilim."
+    },
+    {
+        "Ad": "The Whisper Man",
+        "Yazar": "Alex North",
+        "Tür": "Gerilim, Gizem",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Whisper Man: Bir kasabaya, yıllar önce işlenen korkunç cinayetlerin ardından bir adam ve oğlu taşınır. Oğul, babasının geçmişiyle yüzleşmek zorunda kalırken, kasaba da korkunç bir geçmişin izlerini taşır."
+    },
+    {
+        "Ad": "One Day",
+        "Yazar": "David Nicholls",
+        "Tür": "Romantik",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "One Day: Her yıl, 15 Temmuz’da, bir çiftin hayatı üzerinden aşk, dostluk ve kaderin nasıl şekillendiğini takip eden bu hikaye, zamanın ve ilişkinin ne kadar değişken olduğunu gözler önüne serer."
+    },
+    {
+        "Ad": "The Hate U Give",
+        "Yazar": "Angie Thomas",
+        "Tür": "Gençlik, Toplumsal",
+        "Ülke": "ABD",
+        "Açıklama": "The Hate U Give: Genç bir kız, polisin öldürdüğü arkadaşının cinayetini protesto etmek ve toplumdaki adaletsizliklere karşı durmak için sesini yükseltirken, ırkçılık ve polis şiddeti üzerine derinlemesine bir tartışma başlatır."
+    },
+    {
+        "Ad": "The Girl with the Louding Voice",
+        "Yazar": "Abi Daré",
+        "Tür": "Drama",
+        "Ülke": "Nijerya",
+        "Açıklama": "The Girl with the Louding Voice: Nijerya'dan bir kız, eğitim ve özgürlük hakkını kazanmak için büyük zorluklar ve engellerle karşılaşır. Kendi sesi ve geleceği için verdiği mücadele, okuyucuya ilham verir."
+    },
+    {
+        "Ad": "The Light Between Oceans",
+        "Yazar": "M.L. Stedman",
+        "Tür": "Drama, Romantik",
+        "Ülke": "Avustralya",
+        "Açıklama": "The Light Between Oceans: Bir kıyıda yalnız bir evde yaşayan çift, bir gün denizde terkedilmiş bir bebek bulur. Çocukla ilgili yaptıkları seçimler, hem kendi hayatlarını hem de başkalarının hayatlarını derinden etkiler."
+    },
+    {
+        "Ad": "The Nightingale",
+        "Yazar": "Kristin Hannah",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Nightingale: İki Fransız kız kardeşinin, Nazi işgali altındaki Fransa'da hayatta kalma ve direniş mücadelesi verdiği, savaşın kadınlar üzerindeki etkisini ve hayatta kalma gücünü anlatan bir hikaye."
+    },
+    {
+        "Ad": "The Tattooist of Auschwitz",
+        "Yazar": "Heather Morris",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "Avustralya",
+        "Açıklama": "The Tattooist of Auschwitz: Bir kadın, Auschwitz toplama kampında karşılaştığı bir adamla bir aşk yaşar. Hikaye, savaşın ve insanlığın en karanlık döneminde hayatta kalma ve sevgiye dair güçlü bir anlatıdır."
+    },
+    {
+        "Ad": "Homegoing",
+        "Yazar": "Yaa Gyasi",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "Gana",
+        "Açıklama": "Homegoing: Gana’dan Amerika’ya uzanan iki farklı aile çizgisi üzerinden, köleliğin ve ırksal adaletsizliğin etkilerini ve nesiller boyunca süren mücadelesi anlatılır."
+    },
+    {
+        "Ad": "The Book of Lost Names",
+        "Yazar": "Kristin Harmel",
+        "Tür": "Tarihi, Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "The Book of Lost Names: Nazi işgali altındaki Paris'te, bir kadın, Yahudi çocukları kurtarmak için belgeleri sahte olarak yeniden yazmakla görevlendirilir. Savaşın ve kayıpların ortasında, kimlik ve cesaret üzerine bir hikaye."
+    },
+    {
+        "Ad": "Little Women",
+        "Yazar": "Louisa May Alcott",
+        "Tür": "Klasik, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "Little Women: Ailesiyle birlikte büyüyen dört kız kardeşin hayatını, zorluklara rağmen birbirlerine duydukları sevgi ve destekle şekillenir. Hayallerini ve kadın olmanın zorluklarını keşfederler."
+    },
+    {
+        "Ad": "The Secret History",
+        "Yazar": "Donna Tartt",
+        "Tür": "Gizem, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Secret History: Bir grup öğrencinin, üniversitedeki gizemli bir cinayetin ardındaki sırları keşfettiği, suç, suçluluk ve felsefe üzerine derinlemesine bir hikaye."
+    },
+    {
+        "Ad": "The Cuckoo's Calling",
+        "Yazar": "Robert Galbraith (J.K. Rowling)",
+        "Tür": "Gizem, Polisiye",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Cuckoo's Calling: Ünlü modelin ölümünü araştıran bir özel dedektifin, olayı çözmeye çalışırken karşılaştığı gizemli ilişkiler ve sırlarla dolu hikaye. Gerilim ve dedektiflik unsurları ön planda."
+    },
+    {
+        "Ad": "American Dirt",
+        "Yazar": "Jeanine Cummins",
+        "Tür": "Drama",
+        "Ülke": "ABD",
+        "Açıklama": "American Dirt: Meksika’dan Amerika’ya kaçan bir kadının ve oğlunun hayatını konu alır. Sınırları aşan, hayatta kalma mücadelesi ve göçmenlik üzerine yoğunlaşır."
+    },
+    {
+        "Ad": "The Paris Library",
+        "Yazar": "Janet Skeslien Charles",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "Fransa/ABD",
+        "Açıklama": "The Paris Library: II. Dünya Savaşı sırasında, Paris’teki Amerikan Kütüphanesi’nin çalışanlarının Nazi işgaline karşı verdikleri mücadeleyi ve kütüphanenin gücünü anlatan bir hikaye."
+    },
+    {
+        "Ad": "The Giver of Stars",
+        "Yazar": "Jojo Moyes",
+        "Tür": "Tarihi, Drama",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Giver of Stars: 1930'larda, Kentucky dağlarında bir grup kadının, kitapları köylere götürmek için başladıkları yolculuk ve bu süreçte kurdukları dayanışma. Kadın dayanışması ve eğitim üzerine güçlü bir hikaye."
+    },
+    {
+        "Ad": "The Light We Lost",
+        "Yazar": "Jill Santopolo",
+        "Tür": "Romantik, Drama",
+        "Ülke": "ABD",
+        "Açıklama": "The Light We Lost: Bir kadın ve erkek, yıllar süren ilişkilerinde birbiriyle ayrılır ve yeniden bir araya gelir. Aşk, kayıp ve zamanın geçtiği ama hislerin değişmediği bir hikaye."
+    },
+    {
+        "Ad": "Room",
+        "Yazar": "Emma Donoghue",
+        "Tür": "Drama",
+        "Ülke": "İrlanda",
+        "Açıklama": "Room: Bir kadın ve küçük oğlu, yıllarca bir odada hapsedildikten sonra özgürlüklerini kazanırlar. Yeni bir dünyada hayatta kalmak ve iyileşmek için verdikleri mücadele, acı ve umutla harmanlanır."
+    },
+    {
+        "Ad": "The Girl on the Train",
+        "Yazar": "Paula Hawkins",
+        "Tür": "Gizem, Psikolojik",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Girl on the Train: Bir kadın, her gün aynı trene binerken bir çiftin hayatına dair hayal kurar. Bir gün kadının kaybolması ve olayın araştırılmasıyla, geçmişin gizemleri gün yüzüne çıkar."
+    }
+]

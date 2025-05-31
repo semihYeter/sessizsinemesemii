@@ -1,0 +1,513 @@
+[
+    {
+        "Ad": "Doğu Ekspresinde Cinayet",
+        "Yazar": "Agatha Christie",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Hercule Poirot, karla kaplı Doğu Ekspresinde işlenen cinayetin sırlarını çözmek için yolcuları sorguluyor."
+    },
+    {
+        "Ad": "On Küçük Zenci (Ve Sonra Hiç Kalmadı)",
+        "Yazar": "Agatha Christie",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "On yabancı, ıssız adada gizemli şekilde birer birer hayatını kaybederken, gerek katil ortaya çıkıyor."
+    },
+    {
+        "Ad": "Baskerville Tazısı",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Dedektiflik / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Sherlock Holmes, Baskerville malikanesindeki efsaneki köpeğin ardındaki karanlık sırrı araştırıyor."
+    },
+    {
+        "Ad": "Kızıl Dosya",
+        "Yazar": "Agatha Christie",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Dedektif Miss Marple, kasabadaki esrarengiz cinayetin ipuçlarını bir araya getiriyor."
+    },
+    {
+        "Ad": "Ejderha Dövmeli Kız",
+        "Yazar": "Stieg Larsson",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İsveç  ",
+        "Açıklama": "Lisbeth Salander, hacker yetenekleriyle kaybolan genç kadının gizeminde deşifre ediyor."
+    },
+    {
+        "Ad": "Gone Girl",
+        "Yazar": "Gillian Flynn",
+        "Tür": "Gerilim / Psikolojik  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Nick ve Amy’nin evliliğindeki sırlar, Amy’nin aniden kaybolmasıyla karanlık bir hal alıyor."
+    },
+    {
+        "Ad": "Trendeki Kız",
+        "Yazar": "Paula Hawkins",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Rachel, trendedegördüğü gizemli kadınla sırrı perdesini aralamaya çalışıyor."
+    },
+    {
+        "Ad": "Melez",
+        "Yazar": "Osman Aysu",
+        "Tür": "Polisiye / Gerilim  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Kimliğini bulmayan gizemli kadın, kendi geçmişinin karanlık yüzüyle yüzleşiyor."
+    },
+    {
+        "Ad": "Beyoğlu Rapsodisi",
+        "Yazar": "Ahmet Ümit",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "İstanbul’un kalbindeki genç en polisiye de, Beyoğlu’nun sırları yavaş yavaş ortaya çıkıyor."
+    },
+    {
+        "Ad": "Beyoğlu’nun En Güzel Abisi",
+        "Yazar": "Ahmet Ümit",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Suç ve dostluk arasındaki kalan adam, Beyoğlu’nun karmaşık sokaklarında mücadele veriyor."
+    },
+    {
+        "Ad": "Sis ve Gece",
+        "Yazar": "Ahmet Ümit",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Sisler içindeki kaybolan gece, İstanbul’un karanlık geçmişine dair sırlar saklıyor."
+    },
+    {
+        "Ad": "Misery",
+        "Yazar": "Stephen King",
+        "Tür": "Gerilim / Korku  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Ünlü yazar, saplantılı hayranının tuzağından kurtulmak için zekasını kullanıyor."
+    },
+    {
+        "Ad": "Koleksiyoncu",
+        "Yazar": "John Fowles",
+        "Tür": "Psikolojik Gerilim  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Saplantılı adam, kaçırdığı kadını kontrol etmeye çalışırken tehlikeli bir oyuna giriyor."
+    },
+    {
+        "Ad": "Ölümcül Kimlik (Bourne Identity)",
+        "Yazar": "Robert Ludlum",
+        "Tür": "Aksiyon / Casusluk  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Hafızasını kaybeden adam, peşindeki düşmanlardan kaçarken kimliğini bulmaya çalışıyor."
+    },
+    {
+        "Ad": "Çığlık",
+        "Yazar": "Osman Aysu",
+        "Tür": "Türk Polisiye / Gerilim  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Dedektif, cinayetler ve psikolojik gerilim arasında çözüme varıyor."
+    },
+    {
+        "Ad": "Sil Baştan (Before I Go to Sleep)",
+        "Yazar": "S.J. Watson",
+        "Tür": "Psikolojik Gerilim  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Hafızasını her sabah unutan kadın, çevresindekilerin gerçek niyetlerini sorguluyor."
+    },
+    {
+        "Ad": "Kadının Fendi",
+        "Yazar": "Boileau-Narcejac",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "Fransa  ",
+        "Açıklama": "Kadın, zekâ dolu bir cinayet planının içindeki kendini savunmak zorunda kalıyor."
+    },
+    {
+        "Ad": "Kayıp Kız Kardeş",
+        "Yazar": "Lucinda Berry",
+        "Tür": "Gerilim / Gizem  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Kayıp kız kardeşin peşindeki kişi, gizemli olayların derinliklerine iniyor."
+    },
+    {
+        "Ad": "Kayıp Kız",
+        "Yazar": "Gillian Flynn",
+        "Tür": "Gerilim / Psikolojik  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Evliliğin karanlık sırları, kaybolan kadının arkasındaki gerçekleri ortaya çıkartıyor."
+    },
+    {
+        "Ad": "Karanlık Zihinler",
+        "Yazar": "Alex North",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Geçmişindeki karanlık sırlarla yüzleşmek zorunda kalan adam, adalet için mücadele ediyor."
+    },
+    {
+        "Ad": "Şüpheli Ölüm",
+        "Yazar": "Agatha Christie",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Dedektif Poirot, yolcular arasındaki gizemli cinayeti zekâsıyla çözüyor."
+    },
+    {
+        "Ad": "Katil Kim?",
+        "Yazar": "Agatha Christie  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Bir adada birbirini tanımayan on kişi, sırayla gizemli şekilde ölüyor."
+    },
+    {
+        "Ad": "Mavi Tren Cinayeti",
+        "Yazar": "Agatha Christie  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Dedektif Holmes, lanetli köpek efsanesinin ardındaki gerçeği arıyor."
+    },
+    {
+        "Ad": "Cinayet Kulübü",
+        "Yazar": "Agatha Christie  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Dedektif Poirot, genç bir kadının kayboluşunun ardındaki sırrı çözmeye çalışıyor."
+    },
+    {
+        "Ad": "Korku Kütüphanesi",
+        "Yazar": "Arthur Conan Doyle  ",
+        "Tür": "Dedektiflik / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Hacker ve gazeteci kadın, ailesinin karanlık sırlarını ortaya çıkarıyor."
+    },
+    {
+        "Ad": "Kara Peter",
+        "Yazar": "Arthur Conan Doyle  ",
+        "Tür": "Dedektiflik / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Bir kadının kayboluşu, evliliğin karanlık sırlarını gün yüzüne çıkarıyor."
+    },
+    {
+        "Ad": "Katilin Düğünü",
+        "Yazar": "Dorothy L. Sayers  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Gizemli geçmişi olan kadın, trende yaşanan bir cinayetin merkezinde kalıyor."
+    },
+    {
+        "Ad": "Katil Zamanı",
+        "Yazar": "Dorothy L. Sayers  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Genç dedektif, karmaşık suçların içinde ailesinin sırlarını araştırıyor."
+    },
+    {
+        "Ad": "Ölüm Pastası",
+        "Yazar": "Agatha Christie  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Polis memuru, İstanbul’un tehlikeli sokaklarında suçla mücadele ediyor."
+    },
+    {
+        "Ad": "Cinayet Gecesi",
+        "Yazar": "Ngaio Marsh  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "Yeni Zelanda  ",
+        "Açıklama": "Mahalle efsanesinin ardındaki gerçek, kardeşlik ve intikamı anlatıyor."
+    },
+    {
+        "Ad": "Gece Yarısı Polisi",
+        "Yazar": "P.D. James  ",
+        "Tür": "Polisiye / Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Dedektif, eski bir cinayetin izini sürerken kendi karanlık geçmişiyle yüzleşiyor."
+    },
+    {
+        "Ad": "İz Peşinde",
+        "Yazar": "Ruth Rendell  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Yazar, hayranının esir aldığı evde hayatta kalmaya çalışıyor."
+    },
+    {
+        "Ad": "Kara Kan",
+        "Yazar": "Patricia Highsmith  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Adam, sevdiği kadını kaçıran sapkını zekasıyla alt etmeye çalışıyor."
+    },
+    {
+        "Ad": "Yalancı",
+        "Yazar": "Patricia Highsmith  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Amnezi hastası ajan, kimliğini ve peşindeki düşmanları keşfetmeye çalışıyor."
+    },
+    {
+        "Ad": "Perry Mason: Cinayet Gecesi",
+        "Yazar": "Erle Stanley Gardner  ",
+        "Tür": "Hukuk Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Genç kadın, ölümcül tehditlerle dolu geçmişiyle yüzleşiyor."
+    },
+    {
+        "Ad": "Ölümcül Düşman",
+        "Yazar": "Rex Stout  ",
+        "Tür": "Hukuk Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Hafızasını her gün kaybeden kadın, kocasının gerçek yüzünü anlamaya çalışıyor."
+    },
+    {
+        "Ad": "Baskerville Tazısı",
+        "Yazar": "Arthur Conan Doyle  ",
+        "Tür": "Dedektiflik / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Kadın dedektif, karmaşık cinayetleri zekasıyla çözmeye çalışıyor."
+    },
+    {
+        "Ad": "Ejderha Dövmeli Kız",
+        "Yazar": "Stieg Larsson  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İsveç  ",
+        "Açıklama": "Kadın, kaybolan kardeşinin gizemini çözmek için geçmişine dönüyor."
+    },
+    {
+        "Ad": "Gone Girl",
+        "Yazar": "Gillian Flynn  ",
+        "Tür": "Gerilim / Psikolojik  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Adam, kaybolan karısının ardındaki sırları açığa çıkarıyor."
+    },
+    {
+        "Ad": "Trendeki Kız",
+        "Yazar": "Paula Hawkins  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Genç kadın, zihinsel güçlerini kullanarak suçluları adalete teslim ediyor."
+    },
+    {
+        "Ad": "Ölümcül Kimlik (Bourne Identity)",
+        "Yazar": "Robert Ludlum  ",
+        "Tür": "Aksiyon / Casusluk  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Hafızasını kaybetmiş ajan, kimliğini ve geçmişini ortaya çıkarmak için mücadele ediyor."
+    },
+    {
+        "Ad": "Sil Baştan (Before I Go to Sleep)",
+        "Yazar": "S.J. Watson  ",
+        "Tür": "Psikolojik Gerilim  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Her sabah hafızasını unutan kadın, kendisini çevreleyen tehlikeleri fark etmeye başlıyor."
+    },
+    {
+        "Ad": "Koleksiyoncu",
+        "Yazar": "John Fowles  ",
+        "Tür": "Psikolojik Gerilim / Gerilim  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Saplantılı adam, kaçırdığı kadını kontrol altına almak için psikolojik oyunlar oynuyor."
+    },
+    {
+        "Ad": "Misery",
+        "Yazar": "Stephen King  ",
+        "Tür": "Gerilim / Korku  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Ünlü yazar, hayranının elinde esir ve hayatta kalma mücadelesi veriyor."
+    },
+    {
+        "Ad": "Katiller Şehri",
+        "Yazar": "Ahmet Ümit  ",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "İstanbul’un suç dolu sokaklarında, cinayetlerin ardındaki gizemli sırlar çözülüyor."
+    },
+    {
+        "Ad": "Beyoğlu Rapsodisi",
+        "Yazar": "Ahmet Ümit  ",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Beyoğlu’nün karmaşık dünyasında dostluk ve suç iç içe geçiyor."
+    },
+    {
+        "Ad": "Sis ve Gece",
+        "Yazar": "Ahmet Ümit  ",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Sisler arasında kaybolmuş bir gece, geçmişin karanlık sırlarını gün yüzüne çıkarıyor."
+    },
+    {
+        "Ad": "Saklı Hayatlar",
+        "Yazar": "John Connolly  ",
+        "Tür": "Kara Polisiye / Gizem  ",
+        "Ülke": "İrlanda  ",
+        "Açıklama": "Dedektif, ölümle sınanan sırları çözmek için karanlık hayatları araştırıyor."
+    },
+    {
+        "Ad": "Karanlık Sokaklar",
+        "Yazar": "Ahmet Ümit  ",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "İstanbul’un karanlık sokaklarında adalet arayanların öyküsü anlatılıyor."
+    },
+    {
+        "Ad": "Melez",
+        "Yazar": "Osman Aysu  ",
+        "Tür": "Türk Polisiye / Polisiye  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Kimliği belirsiz bir kadın, kendi geçmişindeki karanlık sırlarla yüzleşiyor."
+    },
+    {
+        "Ad": "Çığlık",
+        "Yazar": "Osman Aysu  ",
+        "Tür": "Türk Polisiye / Gerilim  ",
+        "Ülke": "Türkiye  ",
+        "Açıklama": "Korku ve gerilim dolu cinayetlerin ardındaki gizemli sesler peşinde koşuluyor."
+    },
+    {
+        "Ad": "Kadının Fendi",
+        "Yazar": "Boileau-Narcejac  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "Fransa  ",
+        "Açıklama": "Zekice planlanmış bir cinayetin içinde kadın karakter önemli bir rol oynuyor."
+    },
+    {
+        "Ad": "Bayan Peregrine’in Tuhaf Çocukları",
+        "Yazar": "Ransom Riggs  ",
+        "Tür": "Fantastik / Gotik  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Garip çocukların gizemli dünyasında sırlarla dolu macera başlıyor."
+    },
+    {
+        "Ad": "Ölülerin Defteri",
+        "Yazar": "John Connolly  ",
+        "Tür": "Kara Polisiye / Gizem  ",
+        "Ülke": "İrlanda  ",
+        "Açıklama": "Ölülerin dünyasıyla bağlantılı karanlık olayların izinde dedektif çözüm arıyor."
+    },
+    {
+        "Ad": "Katilin Gölgesi",
+        "Yazar": "Gillian Flynn  ",
+        "Tür": "Gerilim / Psikolojik  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Karanlık sırlar ve karmaşık ilişkiler içinde kaybolmuş bir kadın, gerçekleri ortaya çıkarıyor."
+    },
+    {
+        "Ad": "Geceyarısı Cinayeti",
+        "Yazar": "Agatha Christie  ",
+        "Tür": "Polisiye / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Gece yarısı cinayeti, dedektifin zekâsını sınayan gizemli bir vakayı anlatıyor."
+    },
+    {
+        "Ad": "Kara Maske",
+        "Yazar": "Wilkie Collins  ",
+        "Tür": "Gotik / Gizem  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Esrarengiz kara maske, gizem dolu olayların merkezinde yer alıyor."
+    },
+    {
+        "Ad": "Korkunun Sesi",
+        "Yazar": "Mary Roberts Rinehart  ",
+        "Tür": "Gotik / Gizem  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Korkunun sesi, bilinmeyen tehlikelerin habercisi oluyor."
+    },
+    {
+        "Ad": "Gizli Tanık",
+        "Yazar": "Mary Higgins Clark  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Gizli tanık, önemli sırları açığa çıkararak adaletin sağlanmasına yardımcı oluyor."
+    },
+    {
+        "Ad": "Ölümün Sesi",
+        "Yazar": "Patricia Cornwell  ",
+        "Tür": "Hukuk Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Ölümün sesi, korkunç olayların ve sırların ardındaki gerçekleri ortaya koyuyor."
+    },
+    {
+        "Ad": "Buzlar Altında",
+        "Yazar": "James Patterson  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Karlı dağlarda mahsur kalan ekip, ölümcül bir tehlikeyle karşı karşıya kalıyor."
+    },
+    {
+        "Ad": "Kayıp Kanıt",
+        "Yazar": "P.D. James  ",
+        "Tür": "Hukuk Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Unutulmuş bir cinayetin izleri, eski sırları gün yüzüne çıkarıyor."
+    },
+    {
+        "Ad": "Saklı Gerçekler",
+        "Yazar": "Harlan Coben  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Gizli kalmış gerçekler, hayatları kökten değiştiren sırları açığa çıkarıyor."
+    },
+    {
+        "Ad": "Kanlı Takip",
+        "Yazar": "Tana French  ",
+        "Tür": "Psikolojik Gerilim / Polisiye  ",
+        "Ülke": "İrlanda  ",
+        "Açıklama": "Bir cinayet sonrası başlayan takip, karanlık sırları ortaya çıkarıyor."
+    },
+    {
+        "Ad": "Sisler İçinde",
+        "Yazar": "Lisa Gardner  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Sisler arasında kaybolan kadın, geçmişin karanlık yüzüyle yüzleşiyor."
+    },
+    {
+        "Ad": "Gece Yolcusu",
+        "Yazar": "Jeffery Deaver  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Gece yolcusu, ölümcül sırların peşinden gidiyor."
+    },
+    {
+        "Ad": "Ölümcül Tuzak",
+        "Yazar": "Linwood Barclay  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "Kanada  ",
+        "Açıklama": "Ölümcül tuzak, zekice kurgulanmış bir cinayetin ipuçlarını taşıyor."
+    },
+    {
+        "Ad": "Karanlık Sır",
+        "Yazar": "C.J. Box  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Ormanın derinliklerindeki karanlık sırlar, ölümle sonuçlanan olaylara ışık tutuyor."
+    },
+    {
+        "Ad": "Sessiz Tanık",
+        "Yazar": "Michael Connelly  ",
+        "Tür": "Kara Polisiye / Polisiye  ",
+        "Ülke": "ABD  ",
+        "Açıklama": "Sessiz tanık, gizemli bir olayın kilit kişisi oluyor."
+    },
+    {
+        "Ad": "Kan ve Gölge",
+        "Yazar": "Lisa Jewell  ",
+        "Tür": "Psikolojik Gerilim  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Kan ve gölge arasında saklanan gerçekler, hayatları alt üst ediyor."
+    },
+    {
+        "Ad": "Gizli Oyun",
+        "Yazar": "Val McDermid  ",
+        "Tür": "Polisiye / Gerilim  ",
+        "Ülke": "İskoçya  ",
+        "Açıklama": "Gizli oyunlar, entrikalar ve tehlikelerle dolu bir mücadeleyi anlatıyor."
+    },
+    {
+        "Ad": "Yitik Ruhlar",
+        "Yazar": "Peter James  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Yitik ruhlar, geçmişin karanlık sırlarını arıyor."
+    },
+    {
+        "Ad": "Son İtiraf",
+        "Yazar": "Peter James  ",
+        "Tür": "Gerilim / Polisiye  ",
+        "Ülke": "İngiltere  ",
+        "Açıklama": "Son itiraf, hayatı değiştiren büyük bir sırrı ortaya koyuyor."
+    }
+]

@@ -1,0 +1,611 @@
+[
+    {
+        "Ad": "After",
+        "Yazar": "Anna Todd",
+        "Tür": "Romantik, Dram, New Adult",
+        "Ülke": "Amerika",
+        "Açıklama": "After – Üniversiteye yeni başlayan Tessa'nın, asi ve yakışıklı Hardin ile olan yasak aşkını anlatan hikaye. Aşk, gizli sırlar ve dram dolu."
+    },
+    {
+        "Ad": "The Kissing Booth",
+        "Yazar": "Beth Reekles",
+        "Tür": "Romantik, Komedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Kissing Booth – Genç bir kızın, okulun en popüler oğlanıyla beklenmedik bir şekilde aşık olmasını ve bu aşkı gizlemeye çalışırken yaşadığı eğlenceli zorlukları anlatır."
+    },
+    {
+        "Ad": "My Wattpad Love",
+        "Yazar": "Ariana Godoy",
+        "Tür": "Romantik, Gençlik",
+        "Ülke": "Venezuela",
+        "Açıklama": "My Wattpad Love – Bir kızın hayatı, internette tanıştığı gizemli bir yabancı ile karşılaştığında beklenmedik bir şekilde değişir. Aşk ve sürprizlerle dolu bir hikaye."
+    },
+    {
+        "Ad": "The Bad Boy's Girl",
+        "Yazar": "BL Wilde",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Bad Boy's Girl – İyi kız ve kötü çocuk arasında geçen bir aşk hikayesi. Karşı koyulamayan çekim ve eski sevgiliyle olan karmaşık ilişkiler."
+    },
+    {
+        "Ad": "The Perfect Poison",
+        "Yazar": "A.C. Bextor",
+        "Tür": "Romantik, Fantastik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Perfect Poison – Gizemli bir suçla başlayan bir hikaye. Bir kız, hayatını değiştiren eski bir sırrı çözmeye çalışırken aşk ve tehlikelerle karşılaşır."
+    },
+    {
+        "Ad": "Craving His Touch",
+        "Yazar": "Violet Blaze",
+        "Tür": "Romantik, Erotik",
+        "Ülke": "Amerika",
+        "Açıklama": "Craving His Touch – Aşk, cinsel çekim ve gizemli bir adamın peşinden sürüklenen bir kadının hikayesi. Aşkı ararken büyük bir tehlikeyle yüzleşir."
+    },
+    {
+        "Ad": "The Shadows",
+        "Yazar": "J.M. Darhower",
+        "Tür": "Romantik, Gizem, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Shadows – Bir kadının geçmişiyle yüzleşmesi ve karanlık bir sırrı ortaya çıkarması. Gizem, dram ve tutkulu bir ilişki."
+    },
+    {
+        "Ad": "Chasing Red",
+        "Yazar": "Isadora Martin",
+        "Tür": "Romantik, Dram, Gençlik",
+        "Ülke": "Amerika",
+        "Açıklama": "Chasing Red – Bir kadının kalbi kırık bir şekilde kaçtığı sevgilisini tekrar bulur. Aşk, pişmanlık ve fedakarlıkla dolu bir hikaye."
+    },
+    {
+        "Ad": "Hate Notes",
+        "Yazar": "Vi Keeland & Penelope Ward",
+        "Tür": "Romantik, Komedi, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Hate Notes – Sadece nefret etmekle başlayan bir ilişki, zamanla aşka dönüşür. İki zıt insanın karmaşık ilişkisi."
+    },
+    {
+        "Ad": "Fifty Shades of Grey (Wattpad Version)",
+        "Yazar": "E.L. James",
+        "Tür": "Romantik, Erotizm, Dram",
+        "Ülke": "İngiltere",
+        "Açıklama": "Fifty Shades of Grey (Wattpad Version) – Genç bir kadının, zengin ve gizemli işadamı ile olan tutkulu ilişkisinde yaşadığı duygusal ve fiziksel çatışmalar."
+    },
+    {
+        "Ad": "The Billionaire's Baby",
+        "Yazar": "M. Robinson",
+        "Tür": "Romantik, Dram, Erotik",
+        "Ülke": "Amerika",
+        "Açıklama": "The Billionaire's Baby – Zengin bir işadamı ile bir kadının, beklenmedik şekilde, bir geceyi birlikte geçirmeleri ve sonuçlarında ne olacağı üzerine bir hikaye."
+    },
+    {
+        "Ad": "Dark Lover",
+        "Yazar": "J.R. Ward",
+        "Tür": "Romantik, Paranormal, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Dark Lover – Vampir dünyasında geçen, hem aksiyon hem de tutkulu bir aşk hikayesi. Bir vampir, gerçek aşkını bulmaya çalışırken tehlikeli düşmanlarla mücadele eder."
+    },
+    {
+        "Ad": "The Rebel",
+        "Yazar": "Vanessa Waltz",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Rebel – Aşk ve intikam arasında kalan bir kadının hikayesi. Eski suçlarla yüzleşip, yeni bir hayat kurmaya çalışırken aşkı keşfeder."
+    },
+    {
+        "Ad": "The Arrangement",
+        "Yazar": "H.M. Ward",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Arrangement – Bir kadının, zengin bir adamla düzenlediği iş ilişkisini, tutkulu bir aşka dönüşmesiyle karşılaştığı zorluklar."
+    },
+    {
+        "Ad": "The Ex Games",
+        "Yazar": "J.D. Hawkins",
+        "Tür": "Romantik, Dram, Komedi",
+        "Ülke": "Amerika",
+        "Açıklama": "The Ex Games – Bir kadının eski sevgilisiyle tekrar karşılaşması ve ikisi arasındaki gerilimli ilişki. Aşk, sadakat ve geçmişin gölgesinde bir hikaye."
+    },
+    {
+        "Ad": "Killing Sarai",
+        "Yazar": "J.A. Redmerski",
+        "Tür": "Romantik, Gerilim, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Killing Sarai – Eski bir mafya üyesi olan adam ve esir tutulan bir kadının dram dolu hikayesi. Aşk ve intikamın iç içe geçtiği bir ortam."
+    },
+    {
+        "Ad": "Billionaire's Obsession",
+        "Yazar": "J.S. Scott",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Billionaire's Obsession – Zengin bir işadamı, bir kadına takıntılı hale gelir. Kıskançlık, aşk ve gizli sırlar etrafında dönen bir hikaye."
+    },
+    {
+        "Ad": "Wicked Intentions",
+        "Yazar": "Elizabeth Naughton",
+        "Tür": "Romantik, Gerilim, Fantastik",
+        "Ülke": "Amerika",
+        "Açıklama": "Wicked Intentions – İntikam arayışı ve yasak aşk arasında sıkışmış bir kadının öyküsü. Gizem ve tehlikeyle dolu bir ilişki."
+    },
+    {
+        "Ad": "One More Night",
+        "Yazar": "Sarah O'Rourke",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "One More Night – İki eski sevgili, bir geceyi tekrar birlikte geçirir. Birbirlerine aşkla bağlıdırlar, ancak geçmişteki yaralar onları zor durumda bırakır."
+    },
+    {
+        "Ad": "Twisted Palace",
+        "Yazar": "Erin Watt",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Twisted Palace – Aşk ve gizemle dolu, zengin bir ailenin içindeki karanlık sırları çözmeye çalışan bir genç kızın hikayesi. Hem aşk hem de suç."
+    },
+    {
+        "Ad": "The Guy Next Door",
+        "Yazar": "Natasha Preston",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Guy Next Door – Bir kızın, komşusu olan yakışıklı bir erkekle olan romantik ve tehlikeli ilişkisi. Klasik \"kötü çocuk\" teması."
+    },
+    {
+        "Ad": "The Girl Upstairs",
+        "Yazar": "R.D. Cole",
+        "Tür": "Romantik, Gizem, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Girl Upstairs – Komşusunun kızıyla tanışan ve aşık olan bir adamın hikayesini konu alıyor. Aşk ve gizem dolu bir atmosferde, gizli sırlarla karşılaşan bir ilişki."
+    },
+    {
+        "Ad": "The Girl He Wants",
+        "Yazar": "K.M. Scott",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Girl He Wants – Bir adamın, hayatının en büyük aşkını bulmaya çalışırken karşılaştığı zorluklar ve dramatik olaylar. Aşk, pişmanlık ve zor seçimler."
+    },
+    {
+        "Ad": "My Brother's Best Friend",
+        "Yazar": "K.A. Linde",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "My Brother's Best Friend – Kızın, kardeşinin en yakın arkadaşıyla yaşadığı yasak aşkın karmaşık hikayesi. Romantik ve dram dolu."
+    },
+    {
+        "Ad": "The Vampire's Rose",
+        "Yazar": "Amelia Shaw",
+        "Tür": "Romantik, Paranormal, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Vampire's Rose – Aşk ve paranormal öğelerle dolu bir hikaye. Vampir dünyasında, aşkla tehlike arasındaki ince çizgide bir kadın."
+    },
+    {
+        "Ad": "Falling for the Billionaire",
+        "Yazar": "Delaney Diamond",
+        "Tür": "Romantik, Dram, Erotik",
+        "Ülke": "Amerika",
+        "Açıklama": "Falling for the Billionaire – Zengin ve çekici bir adamın, sıradan bir kadınla olan tutkulu ilişkisi. Erotik ve dramatik öğelerle dolu bir aşk hikayesi."
+    },
+    {
+        "Ad": "Her Billionaire Boss",
+        "Yazar": "Carly Phillips",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Her Billionaire Boss – Genç bir kadının, zengin işvereniyle başlattığı gizli ilişkisini konu alır. Erotik ve dramatik bir aşk hikayesi."
+    },
+    {
+        "Ad": "Tempting The Best Man",
+        "Yazar": "J. Lynn",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Tempting The Best Man – Aşk, erotizm ve dram unsurlarını bir araya getiren bir hikaye. Genç bir kadının, en iyi arkadaşıyla yaşadığı yasak aşk."
+    },
+    {
+        "Ad": "A Beautiful Mess",
+        "Yazar": "T.K. Leigh",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "A Beautiful Mess – Bir kadının, karışık bir hayat içinde aşkla mücadelesi ve kendini bulma yolculuğu. Romantik ve dramatik bir hikaye."
+    },
+    {
+        "Ad": "The Heartbreaker",
+        "Yazar": "Tracy Wolff",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Heartbreaker – Aşk, gençlik ve dram arasında sıkışan bir hikaye. Kalp kırıklıkları ve zor kararlarla mücadele eden iki karakterin ilişkisi."
+    },
+    {
+        "Ad": "Wicked Hearts",
+        "Yazar": "L.A. Cotton",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Wicked Hearts – Gençlerin aşkı ve dramı. Birçok sır ve gizem arasında kalan, kalp kırıklıklarıyla dolu bir hikaye."
+    },
+    {
+        "Ad": "Beneath These Stars",
+        "Yazar": "Micalea Smeltzer",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Beneath These Stars – Bir kadının hayatındaki aşkı ve dramı. Karakterlerin birbirine karşı duyduğu hislerle yüzleşme süreci."
+    },
+    {
+        "Ad": "More than Words",
+        "Yazar": "Mia Sheridan",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "More than Words – Gerçek aşkı keşfederken karşılaşılan dram ve zorluklarla dolu bir hikaye. Aşk ve kalp kırıklığı içinde bir yolculuk."
+    },
+    {
+        "Ad": "A Little Too Far",
+        "Yazar": "Lisa Desrochers",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "A Little Too Far – Gençlik ve dram öğeleriyle birleşmiş bir hikaye. Aşk, kayıplar ve geçmişle yüzleşme üzerine bir roman."
+    },
+    {
+        "Ad": "Love and Other Words",
+        "Yazar": "Christina Lauren",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Love and Other Words – Aşkın ne kadar karmaşık ve zorlayıcı olabileceğini anlatan bir hikaye. Romantik ve dramatik bir arayış."
+    },
+    {
+        "Ad": "The Last Time I Lied",
+        "Yazar": "Riley Sager",
+        "Tür": "Romantik, Gerilim, Gizem",
+        "Ülke": "Amerika",
+        "Açıklama": "The Last Time I Lied – Aşk, gerilim ve gizem dolu bir hikaye. Bir kadının, geçmişteki sırlarla yüzleşmesi."
+    },
+    {
+        "Ad": "The Dark Prince",
+        "Yazar": "A.L. Kessler",
+        "Tür": "Romantik, Fantastik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Dark Prince – Fantastik dünyada geçen bir aşk hikayesi. Vampirler, prensesler ve büyük bir dramın içinde kaybolan bir aşk."
+    },
+    {
+        "Ad": "Roommates with Benefits",
+        "Yazar": "Nicole Williams",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Roommates with Benefits – Aşk ve seks arasındaki ince çizgiyi keşfeden iki karakterin ilişkisi. Erotik ve dramatik öğeler içeriyor."
+    },
+    {
+        "Ad": "The Devil's Advocate",
+        "Yazar": "Ashley Jade",
+        "Tür": "Romantik, Gerilim, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Devil's Advocate – Gerilim ve dram dolu bir hikaye. Aşk, ikilem ve karanlık duygular arasında kalmış bir çiftin öyküsü."
+    },
+    {
+        "Ad": "Falling For Her",
+        "Yazar": "Melody Grace",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Falling For Her – Bir kadının, aşkla dolu bir dünyada doğru kararı verme çabası. Romantik ve dram dolu bir ilişki hikayesi."
+    },
+    {
+        "Ad": "The Debt",
+        "Yazar": "Karina Halle",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Kanada",
+        "Açıklama": "The Debt – Bir kadının, geçmişinin ve aşklarından kalan borçlarını ödemek için verdiği mücadele. Kanadalı yazarın dram dolu bir eseri."
+    },
+    {
+        "Ad": "Torn",
+        "Yazar": "K.A. Robinson",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Torn – Aşk ve gençlik arasında sıkışmış bir hikaye. Zorlu kararlar ve kalp kırıklıklarıyla dolu bir dram."
+    },
+    {
+        "Ad": "Fire & Ice",
+        "Yazar": "Emily Sinclaire",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Fire & Ice – Aşk, dram ve tutku dolu bir hikaye. Karakterlerin içsel çatışmaları ve zor seçimler."
+    },
+    {
+        "Ad": "The Heart of the Fae",
+        "Yazar": "Emma Hamm",
+        "Tür": "Romantik, Fantastik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Heart of the Fae – Fantastik bir dünyada, aşk ve dramın iç içe geçtiği bir hikaye. Prens ve peri masallarının birleşimi."
+    },
+    {
+        "Ad": "Tamed by the Billionaire",
+        "Yazar": "B. B. Hamel",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Tamed by the Billionaire – Zengin bir adamın, gizemli bir kadına karşı duyduğu tutku. Erotik ve dramatik öğelerle dolu bir aşk hikayesi."
+    },
+    {
+        "Ad": "Rogue Royal",
+        "Yazar": "Rachel Van Dyken",
+        "Tür": "Romantik, Dram, Erotik",
+        "Ülke": "Amerika",
+        "Açıklama": "Rogue Royal – Bir aristokratın, aşk ve güç arasında denge kurmaya çalıştığı dram dolu bir hikaye."
+    },
+    {
+        "Ad": "The Hating Game",
+        "Yazar": "Sally Thorne",
+        "Tür": "Romantik, Komedi, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Hating Game – Aşk ve komedi arasındaki ince çizgide bir hikaye. Düşman olan iki kişi arasında gelişen romantizm."
+    },
+    {
+        "Ad": "The Secret",
+        "Yazar": "Kiera Cass",
+        "Tür": "Romantik, Fantastik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Secret – Fantastik ve dram öğeleriyle dolu bir hikaye. Sırlar, aşk ve sürükleyici bir keşif süreci."
+    },
+    {
+        "Ad": "Tainted Love",
+        "Yazar": "L.A. Cotton",
+        "Tür": "Romantik, Gençlik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Tainted Love – Genç bir kadının, dramatik bir aşk hikayesinin içine çekilmesi. Kalp kırıklığı ve pişmanlıklarla dolu."
+    },
+    {
+        "Ad": "Enchanted",
+        "Yazar": "K.M. Golland",
+        "Tür": "Romantik, Fantastik, Dram",
+        "Ülke": "Avustralya",
+        "Açıklama": "Enchanted – Fantastik bir aşk hikayesi. Aşk ve dramla harmanlanmış bir peri masalı."
+    },
+    {
+        "Ad": "The Long Way Home",
+        "Yazar": "K.A. Linde",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Long Way Home – Bir kadının aşk ve dram içinde çıktığı yolculuk. Geçmişin izleriyle yüzleşmek zorunda kalacak."
+    },
+    {
+        "Ad": "Sugar Daddies",
+        "Yazar": "Jade West",
+        "Tür": "Romantik, Erotik, Dram",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sugar Daddies – Erotik bir hikaye, zengin ve güçlü adamlar ile genç kadınlar arasındaki ilişkiyi konu alıyor."
+    },
+    {
+        "Ad": "Rogue Royal",
+        "Yazar": "Rachel Van Dyken",
+        "Tür": "Romantik, Dram, Erotik",
+        "Ülke": "Amerika",
+        "Açıklama": "Rogue Royal – (Tekrar) Aşk ve dramın, aristokratların dünyasında nasıl şekillendiğini gösteren bir hikaye."
+    },
+    {
+        "Ad": "The Girl with the Louding Voice",
+        "Yazar": "Abi Daré",
+        "Tür": "Romantik, Dram, Toplumsal",
+        "Ülke": "Nijerya",
+        "Açıklama": "The Girl with the Louding Voice – Nijeryalı bir kadının, sesini duyurmak ve özgürlüğünü kazanmak için verdiği mücadele."
+    },
+    {
+        "Ad": "Sparks Fly",
+        "Yazar": "Lauren Blakely",
+        "Tür": "Romantik, Komedi, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Sparks Fly – Romantik komedi ve dramın birleşimi. Aşk, gülümsemeler ve kalp kırıklıkları arasında bir yolculuk."
+    },
+    {
+        "Ad": "Falling Into You",
+        "Yazar": "Jasinda Wilder",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Falling Into You – Derin bir dram ve tutkulu bir aşk hikayesi. Aşk, kayıplar ve duygusal iyileşme."
+    },
+    {
+        "Ad": "Falling for the Forbidden",
+        "Yazar": "Jessa Jacobs",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Falling for the Forbidden – Yasak bir aşkın getirdiği dram. İki insan arasındaki yoğun çekim ve zorlu kararlar."
+    },
+    {
+        "Ad": "Boys of Summer",
+        "Yazar": "M.L. Preston",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "Boys of Summer – Bir yaz aşkı, zorlu kararlar ve duygusal yüklerle dolu bir hikaye."
+    },
+    {
+        "Ad": "The Truth About Heartbreak",
+        "Yazar": "B.B. Hamel",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Amerika",
+        "Açıklama": "The Truth About Heartbreak – Aşk ve kalp kırıklıkları üzerine bir hikaye. Bir kadının, geçmişinin acılarıyla yüzleşme süreci."
+    },
+    {
+        "Ad": "Kötü Çocuk",
+        "Yazar": "Ayşe Türkoğlu",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Türkiye",
+        "Açıklama": "Kötü Çocuk – Yasak bir aşkın hikayesi. \"Kötü çocuk\" temasını işleyen, dram yüklü bir roman."
+    },
+    {
+        "Ad": "Hayatımın Erkeği",
+        "Yazar": "Melek Yılmaz",
+        "Tür": "Romantik, Dram",
+        "Ülke": "Türkiye",
+        "Açıklama": "Hayatımın Erkeği – Bir kadının, gerçek aşkı bulma yolunda karşılaştığı engeller. Romantik ve dram öğeleri içeriyor."
+    },
+    {
+        "Ad": "Aşk 101",
+        "Yazar": "Hülya Uğur",
+        "Tür": "Romantik, Gençlik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Gençlik, aşk ve dostluk arasında sıkışan bir hikaye. Bir grup öğrencinin kalp kırıklıkları, ilk aşklar ve hayal kırıklıkları ile büyümeye başlaması."
+    },
+    {
+        "Ad": "Kahvemi İçerken",
+        "Yazar": "Şeyma Güler",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Duygusal bir yolculuk. Geçmişin izlerinden sıyrılmaya çalışan bir kadının, hayatındaki zorluklarla başa çıkma hikayesi."
+    },
+    {
+        "Ad": "Beni Unutma",
+        "Yazar": "Elif Erguven",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aşk ve kayıp arasında bir denge arayışı. Büyük bir ayrılıkla yüzleşen bir kadının yeniden umut bulma yolculuğu."
+    },
+    {
+        "Ad": "Gecenin Karanlık Yüzü",
+        "Yazar": "Merve Kılıç",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Zorlu bir ilişkiden doğan, karanlık sırların ve duygusal yüklerin açığa çıkışı. Kalp kırıklıkları ve çıkmaz yollarla dolu bir dram."
+    },
+    {
+        "Ad": "Kayıp Prens",
+        "Yazar": "Büşra Okyay",
+        "Tür": "Fantastik, Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Fantastik bir dünyada kaybolmuş bir prensin peşinden giden bir kahramanın, aşk ve görevi arasında kalan bir hikaye."
+    },
+    {
+        "Ad": "Aşk ve İntikam",
+        "Yazar": "Deniz Yılmaz",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "İntikamın içindeki aşk. Bir kadının, kaybettiği sevgilisi için intikam almak üzere yola çıkarken kalbinin ne kadar kırıldığını fark etmesi."
+    },
+    {
+        "Ad": "Vazgeçtim",
+        "Yazar": "Zeynep Paker",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Tutkulu bir aşkın, zorlayıcı bir ilişki ve kırık kalplerle sonlanması. Umutsuzca sevilen birinin peşinden giden bir kadının dramı."
+    },
+    {
+        "Ad": "Sessiz Fırtına",
+        "Yazar": "Ayşegül Güleç",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "İçsel bir fırtınanın ortasında, sevdanın ve acının sessizce yükselmesi. Yavaş yavaş kopan bağlar ve keşfedilen duygular."
+    },
+    {
+        "Ad": "Yalancı Aşk",
+        "Yazar": "Elif Akın",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Gerçek aşk ile yalan arasındaki sınırda bir hikaye. Aşkı bulmak adına yapılan fedakarlıklar ve kalp kırıklıkları."
+    },
+    {
+        "Ad": "Umutla Kal",
+        "Yazar": "Seda Yılmaz",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Zor zamanlarda aşkı arayan bir kadının, kaybolmuş umudunu yeniden bulma süreci. Geçmişin yaralarına rağmen yeniden başlamaya cesaret bulmak."
+    },
+    {
+        "Ad": "Eski Bir Hikaye",
+        "Yazar": "Ebru Okan",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Geçmişin gölgesinde, kaybolmuş bir aşkı hatırlamak ve yeniden bulmak isteyen bir kadının arayışı."
+    },
+    {
+        "Ad": "Cevapsız Çağrı",
+        "Yazar": "Elif Akın",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir ilişkiyi sonlandırmak zorunda kalan bir kadının, cevapsız kalan her çağrı ile yavaşça kaybolan sevdanın hikayesi."
+    },
+    {
+        "Ad": "Sonsuza Kadar",
+        "Yazar": "Mehtap Duru",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aşkın ölümsüzlüğü üzerine, zamanın ve koşulların ötesine geçmeye çalışan iki ruhun hikayesi."
+    },
+    {
+        "Ad": "Hükümsüz",
+        "Yazar": "Sena Yılmaz",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir kadının, geçmişin karanlık hatıraları ile yüzleşirken, sevdanın ve özgürlüğün peşinden gitmeye karar vermesi."
+    },
+    {
+        "Ad": "Aşkın Bedeli",
+        "Yazar": "Seda Atalay",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Sevdiklerine karşı verilen büyük mücadelelerin hikayesi. Bir kadının, aşk için ödenen bedellerin farkına varması."
+    },
+    {
+        "Ad": "Benden Sonra",
+        "Yazar": "Eda İlezi",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir kaybın ardından yeniden başlamak. Aşk ve kayıpların etkisiyle şekillenen duygusal bir yolculuk."
+    },
+    {
+        "Ad": "Geceyi Uyandır",
+        "Yazar": "Nihan Ozan",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Zorlu bir yolculukla geceyi aydınlatmaya çalışan bir kadının, aşkı bulmak adına yapması gereken seçimler."
+    },
+    {
+        "Ad": "Geriye Kalan",
+        "Yazar": "Mehmet Yıldız",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir ilişkinin geriye kalan tüm hatıralarıyla, geçmişin yükleri ve yeniden başlamak için cesaret arayışı."
+    },
+    {
+        "Ad": "Bu Geceyi Unut",
+        "Yazar": "Sedef Kural",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir kadının, geçmişin acılarıyla yüzleşerek, kaybolan bir aşkı unutma çabası."
+    },
+    {
+        "Ad": "Yasak Aşk",
+        "Yazar": "Dilan Karaca",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Yasak bir ilişkide yaşanan tutku ve aşkın, kalp kırıklıkları ve hayal kırıklıkları ile iç içe geçtiği bir hikaye."
+    },
+    {
+        "Ad": "İntikam İçin Aşk",
+        "Yazar": "Oya İsmail",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aşk ve intikamın iç içe geçtiği, kalp kırıklıkları ve yeniden başlangıçlar arasındaki gerilimle şekillenen bir hikaye."
+    },
+    {
+        "Ad": "Aşkın En Güzel Hali",
+        "Yazar": "Merve Eda Yılmaz",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Büyülü bir aşkla dolu, kalpleri fetheden bir sevda hikayesi. Tutkunun ve sadakatin sınırlarını zorlayan bir yolculuk."
+    },
+    {
+        "Ad": "Yalnızım Çünkü Sen Varsın",
+        "Yazar": "Burcu Aydın",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir kadının yalnızlıkla mücadelesi ve aşkın peşinden gitme hikayesi. Geçmişin izlerinden sıyrılıp, geleceği keşfetme arayışı."
+    },
+    {
+        "Ad": "Kırık Kalper",
+        "Yazar": "Funda Ceylan",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aşkın ve kalp kırıklıklarının iç içe geçtiği, duygusal derinliklere inen bir hikaye. Geçmişin gölgesinde kaybolan sevda."
+    },
+    {
+        "Ad": "Sonsuz Aşk",
+        "Yazar": "Gülşah Yılmaz",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Büyük bir aşkın ölümsüzlüğü. Sevdanın zamanla yok olmayan, her şeyin ötesinde var olan gücü."
+    },
+    {
+        "Ad": "Düşlerimin Erkeği",
+        "Yazar": "Hülya Uğur",
+        "Tür": "Romantik, Drama",
+        "Ülke": "Türkiye",
+        "Açıklama": "Hayalindeki erkeği bulma çabası. Genç bir kadının hayal kurduğu, sevdiği adamı bulmak adına yaptığı yolculuk."
+    }
+]

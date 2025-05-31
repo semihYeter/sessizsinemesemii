@@ -1,0 +1,352 @@
+[
+    {
+        "Ad": "1984",
+        "Yazar": "George Orwell",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "1984    İnsanlar her an gözetleniyor, özgürlük yok; dev ekranlarda liderin yüzü var. (Gözlemci kameralar, büyük ekranlar, gri tonlar)"
+    },
+    {
+        "Ad": "Cesur Yeni Dünya",
+        "Yazar": "Aldous Huxley",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Cesur Yeni Dünya    İnsanlar mutlu ama ilaçla kontrol ediliyor, doğum ve ölüm planlı. (Renkli haplar, steril ortam, düzenli hayatlar)"
+    },
+    {
+        "Ad": "Fahrenheit 451",
+        "Yazar": "Ray Bradbury",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Fahrenheit 451    Kitaplar yakılıyor, itfaiyeciler yangın söndürmüyor, başlatıyor. (Alevler, kitaplar, maskeli insanlar)"
+    },
+    {
+        "Ad": "Hayvan Çiftliği",
+        "Yazar": "George Orwell",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Hayvan Çiftliği    Hayvanlar insanlara isyan ediyor, çiftlikte devrim oluyor. (Çiftlik sahnesi, isyan eden hayvanlar)"
+    },
+    {
+        "Ad": "Damızlık Kızın Öyküsü",
+        "Yazar": "Margaret Atwood",
+        "Tür": "Distopya",
+        "Ülke": "Kanada",
+        "Açıklama": "Damızlık Kızın Öyküsü    Kadınlar sadece doğurganlık için kullanılıyor, erkek egemen rejim. (Kırmızı elbiseler, kapalı odalar, zorunlu doğum sahneleri)"
+    },
+    {
+        "Ad": "Açlık Oyunları",
+        "Yazar": "Suzanne Collins",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Açlık Oyunları    Gençler arenada birbirini öldürmek zorunda kalıyor. (Devasa arenalar, ölümcül yarışmalar, heyecan)"
+    },
+    {
+        "Ad": "Uyumsuz",
+        "Yazar": "Veronica Roth",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Uyumsuz    Toplum beş sınıfa ayrılmış, ana karakter hiçbirine ait değil. (Renkli kıyafetler, sosyal sınıf ayrımı)"
+    },
+    {
+        "Ad": "Labirent",
+        "Yazar": "James Dashner",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Labirent    Gençler büyük bir labirentten kaçmaya çalışıyor. (Karanlık labirent, panik ve koşu sahneleri)"
+    },
+    {
+        "Ad": "Mülksüzler",
+        "Yazar": "Ursula K. Le Guin",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Mülksüzler    İki gezegenli düzende özel mülkiyet yok, eşitlik ve anarşi var. (Gezegenler, paylaşılan kaynaklar, çatışmalar)"
+    },
+    {
+        "Ad": "Otomatik Portakal",
+        "Yazar": "Anthony Burgess",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Otomatik Portakal    Genç bir çete, şiddet dolu bir dünyada özgürlük peşinde. (Şiddet sahneleri, dövüşler, asi gençler)"
+    },
+    {
+        "Ad": "Metro 2033",
+        "Yazar": "Dmitry Glukhovsky",
+        "Tür": "Distopya",
+        "Ülke": "Rusya",
+        "Açıklama": "Metro 2033    Nükleer savaş sonrası insanlar yeraltında yaşıyor. (Karanlık tüneller, yeraltı şehirleri, soluk ışıklar)"
+    },
+    {
+        "Ad": "V for Vendetta",
+        "Yazar": "Alan Moore",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "V for Vendetta    Maske takan biri, baskıcı rejimi devirmek için mücadele ediyor. (Maskeli kahraman, gizemli hareketler)"
+    },
+    {
+        "Ad": "Ben, Robot",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Distopya/Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Ben, Robot    Robotlar üç temel yasa ile yönetiliyor, biri sorguluyor. (Robotlar, teknolojik ortam, çatışma)"
+    },
+    {
+        "Ad": "Biz",
+        "Yazar": "Yevgeni Zamyatin",
+        "Tür": "Distopya",
+        "Ülke": "Rusya",
+        "Açıklama": "Biz    Camdan evlerde herkes gözleniyor, bireysellik yasak. (Şeffaf duvarlar, mahremiyet yok)"
+    },
+    {
+        "Ad": "The Giver",
+        "Yazar": "Lois Lowry",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "The Giver    Duyguların bastırıldığı bir dünyada hafızaları taşıyan biri var. (Soğuk renkler, hafıza kutuları)"
+    },
+    {
+        "Ad": "Beni Asla Bırakma",
+        "Yazar": "Kazuo Ishiguro",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Beni Asla Bırakma    Klon çocuklar var, yaşadıkları okulun sırrı ortaya çıkıyor. (Okul ortamı, çocuklar, gizemli laboratuvarlar)"
+    },
+    {
+        "Ad": "Oryx ve Crake",
+        "Yazar": "Margaret Atwood",
+        "Tür": "Distopya",
+        "Ülke": "Kanada",
+        "Açıklama": "Oryx ve Crake    İnsanlık genetik yıkım sonrası yeni bir düzen kurmaya çalışıyor. (Çorak topraklar, bilim insanları, yeni hayat)"
+    },
+    {
+        "Ad": "The Power",
+        "Yazar": "Naomi Alderman",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Power    Kadınlar gizemli bir güç kazanıyor, dünyadaki denge değişiyor. (Kadınlar güç gösterisi yapıyor, dramatik ışıklar)"
+    },
+    {
+        "Ad": "Silo",
+        "Yazar": "Hugh Howey",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Silo    İnsanlar yeraltındaki silolarda yaşıyor, dış dünya yasak. (Kapalı ortamlar, teknoloji, merak)"
+    },
+    {
+        "Ad": "5. Dalga",
+        "Yazar": "Rick Yancey",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "5. Dalga    Uzaylı istilası beş aşamada geliyor, insanlar direniyor. (Uzay gemileri, saldırılar, kaos)"
+    },
+    {
+        "Ad": "Anthem",
+        "Yazar": "Ayn Rand",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Anthem    Bireysellik yasak, her şey toplum için. (Kara kıyafetler, aynı hareketler)"
+    },
+    {
+        "Ad": "Zaman Makinesi",
+        "Yazar": "H.G. Wells",
+        "Tür": "Distopya/Bilim Kurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Zaman Makinesi    Zaman yolculuğu ile gelecek felaketi görülüyor. (Saatler, zaman makinesi, gelecek sahneleri)"
+    },
+    {
+        "Ad": "Children of Men",
+        "Yazar": "P.D. James",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Children of Men    Bebek doğmayan bir dünyada hayatta kalma savaşı. (Boş bebek beşiği, kısır çiftler)"
+    },
+    {
+        "Ad": "Girl with All the Gifts",
+        "Yazar": "M.R. Carey",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Girl with All the Gifts    Virüs insanları zombimsi yaratıklara dönüştürüyor. (Enfekte insanlar, korku ve kaçış)"
+    },
+    {
+        "Ad": "Logan’s Run",
+        "Yazar": "William F. Nolan",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Logan’s Run    30 yaşına gelenler öldürülüyor, gençlik putlaştırılmış. (Gençler kutlanıyor, yaşlılar yok sayılıyor)"
+    },
+    {
+        "Ad": "Efsane",
+        "Yazar": "Marie Lu",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Efsane    Gençler baskıcı rejime karşı isyan başlatıyor. (Çatışma, sloganlar, protesto sahneleri)"
+    },
+    {
+        "Ad": "Delirium",
+        "Yazar": "Lauren Oliver",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Delirium    Aşık olmak hastalık, sevgi bir virüs gibi görülüyor. (Yasak aşklar, gizli buluşmalar)"
+    },
+    {
+        "Ad": "Matched",
+        "Yazar": "Ally Condie",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Matched    Evlilik eşleştirme sistemiyle belirleniyor, aşk rastgele değil. (Kayıt merkezleri, eşleştirme makineleri)"
+    },
+    {
+        "Ad": "Karanlık Zihinler",
+        "Yazar": "Alexandra Bracken",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Karanlık Zihinler    Zihin gücü olan çocuklar kontrol altında tutuluyor. (Zihin kontrol sahneleri, özel güçler)"
+    },
+    {
+        "Ad": "Göçebe",
+        "Yazar": "Stephenie Meyer",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Göçebe    Uzaylı bir varlık bir kıza aşık oluyor, insan bedeninde yaşıyor. (Uzaylı dönüşümü, gizli aşk)"
+    },
+    {
+        "Ad": "Kırılmaz",
+        "Yazar": "Kami Garcia",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Kırılmaz    Gizemli bir dünyada, sırlar içinde hayatta kalma mücadelesi. (Karanlık ormanlar, sır dolu karakterler)"
+    },
+    {
+        "Ad": "Sığınak",
+        "Yazar": "Harlan Coben",
+        "Tür": "Distopya/Gerilim",
+        "Ülke": "ABD",
+        "Açıklama": "Sığınak    Kıyametten sonra bir sığınakta insanlar yeniden düzen kuruyor. (Sığınak içi yaşam, yeni liderler)"
+    },
+    {
+        "Ad": "Seçilmiş Kişi",
+        "Yazar": "Megg Jensen",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Seçilmiş Kişi    Seçilmiş çocuk kaderiyle yüzleşiyor, toplumu değiştirecek. (Kahramanlık, kader sahneleri)"
+    },
+    {
+        "Ad": "Sürgün Gezegeni",
+        "Yazar": "Ursula K. Le Guin",
+        "Tür": "Distopya/Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Sürgün Gezegeni    Suçlular sürgün gezegene gönderiliyor, orada yeni bir hayat. (Çorak gezegen, sürgün kampı)"
+    },
+    {
+        "Ad": "Sineklerin Tanrısı",
+        "Yazar": "William Golding",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sineklerin Tanrısı    Çocuklar ıssız adada medeniyeti unutuyor, ilkel hayata dönüyorlar. (Adada hayatta kalma, çocuklar)"
+    },
+    {
+        "Ad": "Cesur Yeni Dünya Revisited",
+        "Yazar": "Aldous Huxley",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Cesur Yeni Dünya Revisited    Yazar eski kitabını analiz ediyor, bugüne uyarılıyor. (Kitaplar, düşünceler, zaman atlaması)"
+    },
+    {
+        "Ad": "Yokyer",
+        "Yazar": "Neil Gaiman",
+        "Tür": "Distopya/Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yokyer    Adam yeraltı şehrinde, kaybolan insanların peşinde. (Yeraltı tünelleri, gizem, kovalamaca)"
+    },
+    {
+        "Ad": "Yüksek Şato’daki Adam",
+        "Yazar": "Philip K. Dick",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Yüksek Şato’daki Adam    Nazi Almanyası savaşı kazanmış, dünya farklı bir yolda. (Farklı dünya haritası, totaliter rejim)"
+    },
+    {
+        "Ad": "Snowpiercer",
+        "Yazar": "Jacques Lob",
+        "Tür": "Distopya",
+        "Ülke": "Fransa",
+        "Açıklama": "Snowpiercer    Kıyamet sonrası tren rayları üzerinde hayatta kalma. (Uzun tren yolculuğu, tehlikeler)"
+    },
+    {
+        "Ad": "Parlak Ateş",
+        "Yazar": "Kazuo Ishiguro",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Parlak Ateş    Herkesin hafızası silinmiş, gerçeklik yeniden inşa ediliyor. (Boş anılar, yeniden doğuş)"
+    },
+    {
+        "Ad": "Ölümsüzler",
+        "Yazar": "Chloe Benjamin",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Ölümsüzler    İnsanlar doğmadan ölüm tarihlerini öğreniyor. (Tarihlerin yazılı olduğu duvarlar, korku)"
+    },
+    {
+        "Ad": "Aklın Uyanışı",
+        "Yazar": "Octavia E. Butler",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Aklın Uyanışı    Zihin gücüne sahip bir kadın, köleliğe karşı savaşıyor. (Güç gösterileri, özgürlük mücadelesi)"
+    },
+    {
+        "Ad": "Klonlanan Dünya",
+        "Yazar": "Nancy Kress",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Klonlanan Dünya    Klonlar yeni bir toplum kuruyor, insanlık sorgulanıyor. (Yeni toplum yapısı, çatışmalar)"
+    },
+    {
+        "Ad": "Kara Kule: Silahşör",
+        "Yazar": "Stephen King",
+        "Tür": "Distopya/Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Kara Kule: Silahşör    Silahlı bir adam çorak topraklarda karanlık bir kule arıyor. (Silah, kule silüeti, yalnızlık)"
+    },
+    {
+        "Ad": "Bitmeyen Günler",
+        "Yazar": "Jean Hegland",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Bitmeyen Günler    İki kız kardeş kıyamet sonrası ormanda hayatta kalmaya çalışıyor. (Orman, kardeşlik, tehlike)"
+    },
+    {
+        "Ad": "Tanrının Unutulan Çocukları",
+        "Yazar": "Octavia E. Butler",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Tanrının Unutulan Çocukları    Toplumdan dışlanan çocuklar farklılıklarıyla yüzleşiyor. (Dışlanmışlık, özel yetenekler)"
+    },
+    {
+        "Ad": "Hazırlanıyoruz",
+        "Yazar": "Meg Elison",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Hazırlanıyoruz    Kadınlar yıkım sonrası dünyayı yeniden kurmak için birleşiyor. (Birlik sahnesi, yeni başlangıçlar)"
+    },
+    {
+        "Ad": "Yeni Dünya",
+        "Yazar": "Patrick Ness",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yeni Dünya    Her şey gözetim altında, susturulanlar isyan etmeye başlıyor. (Gözetleme kameraları, gizli toplantılar)"
+    },
+    {
+        "Ad": "Altın Pusula",
+        "Yazar": "Philip Pullman",
+        "Tür": "Distopya/Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Altın Pusula    İnsanlar seslerini kaybetmiş, yazıyla iletişim kuruyor. (Sessizlik, yazı tahtaları)"
+    },
+    {
+        "Ad": "Görünmeyen Kentler",
+        "Yazar": "Italo Calvino",
+        "Tür": "Ütopya",
+        "Ülke": "İtalya",
+        "Açıklama": "Görünmeyen Kentler    Küçük bir kız paralel evrende tehlikeli bir maceraya atılıyor. (Paralel dünya, sihirli kapılar)"
+    }
+]

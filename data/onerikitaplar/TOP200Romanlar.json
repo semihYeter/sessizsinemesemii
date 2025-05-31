@@ -1,0 +1,1402 @@
+[
+    {
+        "Ad": "İlyada",
+        "Yazar": "Homeros",
+        "Tür": "Epik şiir / Destan",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Troya Savaşı’nın efsanevi destanı."
+    },
+    {
+        "Ad": "Odysseia",
+        "Yazar": "Homeros",
+        "Tür": "Epik şiir / Destan",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Odysseus’un eve dönüş maceralarını anlatır."
+    },
+    {
+        "Ad": "Devlet",
+        "Yazar": "Platon",
+        "Tür": "Felsefe / Politika",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Adil devlet ve ideal yönetim üzerine diyaloglar."
+    },
+    {
+        "Ad": "Sokrates’in Savunması",
+        "Yazar": "Platon",
+        "Tür": "Felsefe / Diyalog",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Sokrates’in kendini savunduğu ünlü konuşma."
+    },
+    {
+        "Ad": "Nikomakhos’a Etik",
+        "Yazar": "Aristoteles",
+        "Tür": "Felsefe / Etik",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Erdem ve iyi yaşam üzerine felsefi inceleme."
+    },
+    {
+        "Ad": "Metafizik",
+        "Yazar": "Aristoteles",
+        "Tür": "Felsefe / Metafizik",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Varoluşun temel doğası üzerine çalışmalar."
+    },
+    {
+        "Ad": "Oresteia Üçlemesi",
+        "Yazar": "Aiskhylos",
+        "Tür": "Trajedi",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Atridalıların trajik ailesini konu alır."
+    },
+    {
+        "Ad": "Antigone",
+        "Yazar": "Sophokles",
+        "Tür": "Trajedi",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Birey ve devlet çatışmasını işler."
+    },
+    {
+        "Ad": "Medea",
+        "Yazar": "Euripides",
+        "Tür": "Trajedi",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Hainlikle dolu trajik bir intikam hikayesi."
+    },
+    {
+        "Ad": "Aristophanes Komedileri",
+        "Yazar": "Aristophanes",
+        "Tür": "Komedi",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Sosyal ve politik hicivlerle dolu oyunlar."
+    },
+    {
+        "Ad": "Aeneid",
+        "Yazar": "Vergilius",
+        "Tür": "Epik şiir / Destan",
+        "Ülke": "Roma İmparatorluğu",
+        "Açıklama": "Roma’nın efsanevi kuruluşunu anlatır."
+    },
+    {
+        "Ad": "Altın Eşek (Metamorfozlar)",
+        "Yazar": "Apuleius",
+        "Tür": "Roman / Mitoloji",
+        "Ülke": "Roma İmparatorluğu",
+        "Açıklama": "Maceralar ve sihir dolu dönüşümler."
+    },
+    {
+        "Ad": "Meditasyonlar",
+        "Yazar": "Marcus Aurelius",
+        "Tür": "Felsefe / Stoacılık",
+        "Ülke": "Roma İmparatorluğu",
+        "Açıklama": "Stoacı düşüncelerle kişisel öğütler."
+    },
+    {
+        "Ad": "İtiraflar",
+        "Yazar": "Aziz Augustinus",
+        "Tür": "Otobiyografi / Din",
+        "Ülke": "Roma İmparatorluğu",
+        "Açıklama": "Hristiyanlıkta samimi bir iç hesaplaşma."
+    },
+    {
+        "Ad": "Felsefenin Tesellisi",
+        "Yazar": "Boethius",
+        "Tür": "Felsefe / Teoloji",
+        "Ülke": "Roma İmparatorluğu",
+        "Açıklama": "Mutluluk ve kader üzerine düşünceler."
+    },
+    {
+        "Ad": "Beowulf",
+        "Yazar": "anonim",
+        "Tür": "Epik şiir / Destan",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kahramanlık ve canavarlarla savaş."
+    },
+    {
+        "Ad": "İlahi Komedya",
+        "Yazar": "Dante Alighieri",
+        "Tür": "Epik şiir / Alegori",
+        "Ülke": "İtalya",
+        "Açıklama": "Öteki dünyada bir yolculuk."
+    },
+    {
+        "Ad": "Decameron",
+        "Yazar": "Giovanni Boccaccio",
+        "Tür": "Hikaye / Klasik",
+        "Ülke": "İtalya",
+        "Açıklama": "Kara veba sonrası hikayeler koleksiyonu."
+    },
+    {
+        "Ad": "Canterbury Hikâyeleri",
+        "Yazar": "Geoffrey Chaucer",
+        "Tür": "Hikaye / Ortaçağ",
+        "Ülke": "İngiltere",
+        "Açıklama": "Pilgrimage sırasında anlatılan öyküler."
+    },
+    {
+        "Ad": "Sir Gawain ve Yeşil Şövalye",
+        "Yazar": "anonim",
+        "Tür": "Ortaçağ / Epik şiir",
+        "Ülke": "İngiltere",
+        "Açıklama": "Onur ve cesaret testi hikayesi."
+    },
+    {
+        "Ad": "Tristan ve Isolde",
+        "Yazar": "anonim",
+        "Tür": "Romantik / Ortaçağ",
+        "Ülke": "Fransa / Almanya",
+        "Açıklama": "Tutkulu ve trajik aşk öyküsü."
+    },
+    {
+        "Ad": "Don Kişot",
+        "Yazar": "Miguel de Cervantes",
+        "Tür": "Roman / Parodi",
+        "Ülke": "İspanya",
+        "Açıklama": "Şövalyelik hayalleri kuran adamın macerası."
+    },
+    {
+        "Ad": "Tartuffe",
+        "Yazar": "Molière",
+        "Tür": "Komedi / Tiyatro",
+        "Ülke": "Fransa",
+        "Açıklama": "Din sahtekarlığını hicveder."
+    },
+    {
+        "Ad": "Cimri",
+        "Yazar": "Molière",
+        "Tür": "Komedi / Tiyatro",
+        "Ülke": "Fransa",
+        "Açıklama": "Para sevgisiyle kör olmuş adam."
+    },
+    {
+        "Ad": "Şarkılar Kitabı",
+        "Yazar": "Konfüçyüs",
+        "Tür": "Felsefe / Aforizmalar",
+        "Ülke": "Çin",
+        "Açıklama": "Erdem ve ahlak üzerine özlü sözler."
+    },
+    {
+        "Ad": "Savaş Sanatı",
+        "Yazar": "Sun Tzu",
+        "Tür": "Askeri strateji / Felsefe",
+        "Ülke": "Çin",
+        "Açıklama": "Taktik ve liderlik üzerine klasik metin."
+    },
+    {
+        "Ad": "Çin Atasözleri ve Öğretileri",
+        "Yazar": "Laozi",
+        "Tür": "Felsefe / Aforizmalar",
+        "Ülke": "Çin",
+        "Açıklama": "Taoizm felsefesinin temelleri."
+    },
+    {
+        "Ad": "Hafız Divanı",
+        "Yazar": "Hafız-ı Şirazi",
+        "Tür": "Şiir / Divan edebiyatı",
+        "Ülke": "İran",
+        "Açıklama": "Aşk ve mistisizm şiirleri."
+    },
+    {
+        "Ad": "Rubailer",
+        "Yazar": "Ömer Hayyam",
+        "Tür": "Şiir / Felsefi",
+        "Ülke": "İran",
+        "Açıklama": "Yaşamın anlamı üzerine dörtlükler."
+    },
+    {
+        "Ad": "Kutadgu Bilig",
+        "Yazar": "Yusuf Has Hacip",
+        "Tür": "Didaktik / Felsefe",
+        "Ülke": "Türkistan",
+        "Açıklama": "Adalet ve erdem üzerine öğütler."
+    },
+    {
+        "Ad": "Seyahatname",
+        "Yazar": "Evliya Çelebi",
+        "Tür": "Gezi / Anlatı",
+        "Ülke": "Osmanlı",
+        "Açıklama": "Dünyanın farklı yerlerinden gözlemler."
+    },
+    {
+        "Ad": "Binbir Gece Masalları",
+        "Yazar": "anonim",
+        "Tür": "Masal / Hikaye",
+        "Ülke": "Orta Doğu",
+        "Açıklama": "Büyülü ve fantastik masal koleksiyonu."
+    },
+    {
+        "Ad": "Keloğlan Masalları",
+        "Yazar": "anonim",
+        "Tür": "Masal / Halk edebiyatı",
+        "Ülke": "Türkiye",
+        "Açıklama": "Çocuk kahramanın maceraları."
+    },
+    {
+        "Ad": "Hamlet",
+        "Yazar": "William Shakespeare",
+        "Tür": "Trajedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "İntikam ve ihanet temalı trajedi."
+    },
+    {
+        "Ad": "Macbeth",
+        "Yazar": "William Shakespeare",
+        "Tür": "Trajedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Güç hırsının trajik sonuçları."
+    },
+    {
+        "Ad": "Othello",
+        "Yazar": "William Shakespeare",
+        "Tür": "Trajedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Kıskançlık ve ihanet hikayesi."
+    },
+    {
+        "Ad": "Romeo ve Juliet",
+        "Yazar": "William Shakespeare",
+        "Tür": "Trajedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Trajik aşkın simgesi."
+    },
+    {
+        "Ad": "Kral Lear",
+        "Yazar": "William Shakespeare",
+        "Tür": "Trajedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Güç ve delilik temalı drama."
+    },
+    {
+        "Ad": "Bir Yaz Gecesi Rüyası",
+        "Yazar": "William Shakespeare",
+        "Tür": "Komedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Aşk ve sihrin karıştığı oyun."
+    },
+    {
+        "Ad": "Venedik Taciri",
+        "Yazar": "William Shakespeare",
+        "Tür": "Drama",
+        "Ülke": "İngiltere",
+        "Açıklama": "Adalet ve merhamet çatışması."
+    },
+    {
+        "Ad": "Robinson Crusoe",
+        "Yazar": "Daniel Defoe",
+        "Tür": "Roman / Macera",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yalnız hayatta kalma hikayesi."
+    },
+    {
+        "Ad": "Gulliver’in Gezileri",
+        "Yazar": "Jonathan Swift",
+        "Tür": "Roman / Mizah",
+        "Ülke": "İrlanda",
+        "Açıklama": "Society’nin eleştirisi."
+    },
+    {
+        "Ad": "Candide",
+        "Yazar": "Voltaire",
+        "Tür": "Felsefi roman / Mizah",
+        "Ülke": "Fransa",
+        "Açıklama": "İyimserlik ve kötülük sorgusu."
+    },
+    {
+        "Ad": "Micromegas",
+        "Yazar": "Voltaire",
+        "Tür": "Felsefi hikaye",
+        "Ülke": "Fransa",
+        "Açıklama": "Kozmik perspektifte insan eleştirisi."
+    },
+    {
+        "Ad": "Ruhların İtirafı",
+        "Yazar": "Jean-Jacques Rousseau",
+        "Tür": "Otobiyografi",
+        "Ülke": "İsviçre / Fransa",
+        "Açıklama": "Kişisel ve felsefi iç hesaplaşma."
+    },
+    {
+        "Ad": "Toplum Sözleşmesi",
+        "Yazar": "Jean-Jacques Rousseau",
+        "Tür": "Siyaset felsefesi",
+        "Ülke": "İsviçre / Fransa",
+        "Açıklama": "Devletin meşruiyet temeli üzerine."
+    },
+    {
+        "Ad": "İnsan Aklı Üzerine Deneme",
+        "Yazar": "John Locke",
+        "Tür": "Felsefe",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bilginin kökeni ve sınırları."
+    },
+    {
+        "Ad": "Denemeler",
+        "Yazar": "Michel de Montaigne",
+        "Tür": "Deneme",
+        "Ülke": "Fransa",
+        "Açıklama": "Kişisel düşünceler ve deneyimler."
+    },
+    {
+        "Ad": "Prens",
+        "Yazar": "Niccolò Machiavelli",
+        "Tür": "Siyaset felsefesi",
+        "Ülke": "İtalya",
+        "Açıklama": "Güç ve siyaset yönetimi üzerine."
+    },
+    {
+        "Ad": "Ütopya",
+        "Yazar": "Thomas More",
+        "Tür": "Siyaset / Felsefe",
+        "Ülke": "İngiltere",
+        "Açıklama": "İdeal toplum düzeninin tasviri."
+    },
+    {
+        "Ad": "Leviathan",
+        "Yazar": "Thomas Hobbes",
+        "Tür": "Siyaset felsefesi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Devlet otoritesi ve toplumsal düzen."
+    },
+    {
+        "Ad": "Tabiatın Tarihi",
+        "Yazar": "Buffon",
+        "Tür": "Doğa tarihi",
+        "Ülke": "Fransa",
+        "Açıklama": "Doğanın çeşitliliği ve tarihi."
+    },
+    {
+        "Ad": "Felsefi Mektuplar",
+        "Yazar": "Voltaire",
+        "Tür": "Felsefe / Mektup",
+        "Ülke": "Fransa",
+        "Açıklama": "Aydınlanma dönemi düşünceleri."
+    },
+    {
+        "Ad": "Düşünceler",
+        "Yazar": "Blaise Pascal",
+        "Tür": "Felsefe / Teoloji",
+        "Ülke": "Fransa",
+        "Açıklama": "İnanç ve akıl arasındaki gerilim."
+    },
+    {
+        "Ad": "İnsanlık Komedyası’ndan Seçmeler",
+        "Yazar": "La Fontaine",
+        "Tür": "Masal / Eleştiri",
+        "Ülke": "Fransa",
+        "Açıklama": "Toplumsal eleştirilerle dolu masallar."
+    },
+    {
+        "Ad": "Emile ya da Eğitim Üzerine",
+        "Yazar": "Jean-Jacques Rousseau",
+        "Tür": "Eğitim felsefesi",
+        "Ülke": "İsviçre / Fransa",
+        "Açıklama": "Eğitim ve doğa arasındaki ilişki."
+    },
+    {
+        "Ad": "Tehlikeli İlişkiler",
+        "Yazar": "Pierre Choderlos de Laclos",
+        "Tür": "Roman / Epistolar",
+        "Ülke": "Fransa",
+        "Açıklama": "Ahlak ve entrikalarla dolu roman."
+    },
+    {
+        "Ad": "Manon Lescaut",
+        "Yazar": "Abbé Prévost",
+        "Tür": "Roman",
+        "Ülke": "Fransa",
+        "Açıklama": "Tutkulu aşk ve trajedi."
+    },
+    {
+        "Ad": "Pamela",
+        "Yazar": "Samuel Richardson",
+        "Tür": "Roman / Epistolary",
+        "Ülke": "İngiltere",
+        "Açıklama": "Bir hizmetçi kızın erdem savaşı."
+    },
+    {
+        "Ad": "Clarissa",
+        "Yazar": "Samuel Richardson",
+        "Tür": "Roman / Epistolary",
+        "Ülke": "İngiltere",
+        "Açıklama": "Toplumsal baskıların etkisi."
+    },
+    {
+        "Ad": "Tom Jones",
+        "Yazar": "Henry Fielding",
+        "Tür": "Roman / Komedi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Maceralarla dolu kahramanlık hikayesi."
+    },
+    {
+        "Ad": "Aşk ve Gurur",
+        "Yazar": "Jane Austen",
+        "Tür": "Roman / Toplumsal",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sınıf ve aşk üzerine keskin gözlemler."
+    },
+    {
+        "Ad": "Faust",
+        "Yazar": "Johann Wolfgang von Goethe",
+        "Tür": "Trajedi / Felsefe",
+        "Ülke": "Almanya",
+        "Açıklama": "İnsanın bilgi ve güç arayışı."
+    },
+    {
+        "Ad": "Genç Werther’in Acıları",
+        "Yazar": "Johann Wolfgang von Goethe",
+        "Tür": "Roman / Duygusal",
+        "Ülke": "Almanya",
+        "Açıklama": "Yoğun duygularla dolu aşk hikayesi."
+    },
+    {
+        "Ad": "İtiraflar",
+        "Yazar": "Jean-Jacques Rousseau",
+        "Tür": "Otobiyografi",
+        "Ülke": "İsviçre / Fransa",
+        "Açıklama": "Kendini açığa vuran itiraflar."
+    },
+    {
+        "Ad": "Yeni Eloise",
+        "Yazar": "Jean-Jacques Rousseau",
+        "Tür": "Roman / Epistolary",
+        "Ülke": "İsviçre / Fransa",
+        "Açıklama": "Tutkulu ve trajik aşk mektupları."
+    },
+    {
+        "Ad": "Rasselas",
+        "Yazar": "Samuel Johnson",
+        "Tür": "Felsefi hikaye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Mutluluk arayışı üzerine alegori."
+    },
+    {
+        "Ad": "The Vicar of Wakefield",
+        "Yazar": "Oliver Goldsmith",
+        "Tür": "Roman / Hikaye",
+        "Ülke": "İrlanda",
+        "Açıklama": "Aile ve toplum üzerine sıcak hikaye."
+    },
+    {
+        "Ad": "Haydutlar",
+        "Yazar": "Friedrich Schiller",
+        "Tür": "Drama",
+        "Ülke": "Almanya",
+        "Açıklama": "Adalet ve özgürlük teması."
+    },
+    {
+        "Ad": "Nathan der Weise",
+        "Yazar": "Gotthold Ephraim Lessing",
+        "Tür": "Drama / Aydınlanma",
+        "Ülke": "Almanya",
+        "Açıklama": "Tolerans ve insanlık üzerine."
+    },
+    {
+        "Ad": "The Beggar’s Opera",
+        "Yazar": "John Gay",
+        "Tür": "Opera / Satires",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sosyal sınıfların hicvi."
+    },
+    {
+        "Ad": "Journey to the West (Batıya Yolculuk)",
+        "Yazar": "Wu Cheng’en",
+        "Tür": "Roman / Macera",
+        "Ülke": "Çin",
+        "Açıklama": "Mani dininin efsanevi yolculuğu."
+    },
+    {
+        "Ad": "Suikastçılar Ülkesi (Water Margin)",
+        "Yazar": "Shi Nai’an",
+        "Tür": "Roman / Macera",
+        "Ülke": "Çin",
+        "Açıklama": "Asiler ve kahramanlar hikayesi."
+    },
+    {
+        "Ad": "Romance of the Three Kingdoms",
+        "Yazar": "Luo Guanzhong",
+        "Tür": "Tarihi roman",
+        "Ülke": "Çin",
+        "Açıklama": "Çin tarihinin efsanevi savaşları."
+    },
+    {
+        "Ad": "Ölüler Evi Anıları (erken Dostoyevski)",
+        "Yazar": "Fyodor Dostoyevski",
+        "Tür": "Roman / Psikolojik",
+        "Ülke": "Rusya",
+        "Açıklama": "İnsanın karanlık yönlerini keşfi."
+    },
+    {
+        "Ad": "Tao Te Ching",
+        "Yazar": "Laozi",
+        "Tür": "Felsefe / Taoizm",
+        "Ülke": "Çin",
+        "Açıklama": "Doğayla uyumlu yaşam felsefesi."
+    },
+    {
+        "Ad": "Bahçesaray Çeşmesi",
+        "Yazar": "Aleksandr Puşkin",
+        "Tür": "Şiir / Lirik",
+        "Ülke": "Rusya",
+        "Açıklama": "Aşk ve doğa üzerine şiirler."
+    },
+    {
+        "Ad": "Persian Letters",
+        "Yazar": "Montesquieu",
+        "Tür": "Roman / Epistolary",
+        "Ülke": "Fransa",
+        "Açıklama": "Doğu ve Batı kültürlerinin eleştirisi."
+    },
+    {
+        "Ad": "The Sorrows of Young Werther",
+        "Yazar": "Johann Wolfgang von Goethe",
+        "Tür": "Roman / Duygusal",
+        "Ülke": "Almanya",
+        "Açıklama": "Gençlik ve aşkın trajedisi."
+    },
+    {
+        "Ad": "Sefiller",
+        "Yazar": "Victor Hugo",
+        "Tür": "Roman / Tarihi",
+        "Ülke": "Fransa",
+        "Açıklama": "Sosyal adaletsizlik ve insanlık dramı."
+    },
+    {
+        "Ad": "Dune",
+        "Yazar": "Frank Herbert",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Çöl gezegeni Arrakis'te güç ve mistisizm için verilen epik mücadele."
+    },
+    {
+        "Ad": "Yüzüklerin Efendisi",
+        "Yazar": "J.R.R. Tolkien",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Karanlık güçleri yenmek için halkların birleştiği büyülü bir macera."
+    },
+    {
+        "Ad": 1984,
+        "Yazar": "George Orwell",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Mutlak kontrol ve gözetim altında yaşayan bir adamın isyanı."
+    },
+    {
+        "Ad": "Cesur Yeni Dünya",
+        "Yazar": "Aldous Huxley",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "Genetik mühendislikle şekillenen, mutsuz ve yapay bir gelecek."
+    },
+    {
+        "Ad": "Fahrenheit 451",
+        "Yazar": "Ray Bradbury",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Kitapların yasaklandığı ve itfaiyecinin özgürlük arayışı."
+    },
+    {
+        "Ad": "Hayvan Çiftliği",
+        "Yazar": "George Orwell",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "İsyan eden çiftlik hayvanlarının demokrasi yerine diktatörlük kurması."
+    },
+    {
+        "Ad": "Bıçak Sırtı",
+        "Yazar": "Philip K. Dick",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "İnsan mı yoksa android mi olduğu sorgulanan bir dedektifin hikayesi."
+    },
+    {
+        "Ad": "Zaman Makinesi",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilimkurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Geleceğe yolculuk eden bilim insanının, insanlığın kaderini keşfi."
+    },
+    {
+        "Ad": "Neuromancer",
+        "Yazar": "William Gibson",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Siber dünyada hackerlık yapan adamın büyük siber görevleri."
+    },
+    {
+        "Ad": "Ender’in Oyunu",
+        "Yazar": "Orson Scott Card",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Uzayda insanlığı korumak için zeki bir çocuk askeri eğitiliyor."
+    },
+    {
+        "Ad": "Gülün Adı",
+        "Yazar": "Umberto Eco",
+        "Tür": "Polisiye",
+        "Ülke": "İtalya",
+        "Açıklama": "Ortaçağda bir manastırda geçen gizemli cinayet ve semboller."
+    },
+    {
+        "Ad": "Sherlock Holmes Sirleri",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dahi dedektif Sherlock Holmes’un suçluları çözme serüvenleri."
+    },
+    {
+        "Ad": "Kayıp Sembol",
+        "Yazar": "Dan Brown",
+        "Tür": "Polisiye",
+        "Ülke": "ABD",
+        "Açıklama": "Washington’daki kayıp sembolün peşindeki tarih ve gizem dolu macera."
+    },
+    {
+        "Ad": "Game of Thrones",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Krallar, savaşlar ve ejderhalarla dolu epik bir fantastik dünya."
+    },
+    {
+        "Ad": "Harry Potter",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Genç büyücünün sihir ve dostlukla dolu maceraları."
+    },
+    {
+        "Ad": "Metro 2033",
+        "Yazar": "Dmitry Glukhovsky",
+        "Tür": "Distopya",
+        "Ülke": "Rusya",
+        "Açıklama": "Nükleer sonrası Moskova metrosunda hayatta kalma savaşı."
+    },
+    {
+        "Ad": "Yerdeniz",
+        "Yazar": "Ursula K. Le Guin",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Büyü, denizler ve büyücülerle dolu fantastik yolculuklar."
+    },
+    {
+        "Ad": "Frankenstein",
+        "Yazar": "Mary Shelley",
+        "Tür": "Bilimkurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yapay yaşam ve insanlık üzerine gotik bir bilimkurgu klasiği."
+    },
+    {
+        "Ad": "Dracula",
+        "Yazar": "Bram Stoker",
+        "Tür": "Fantastik",
+        "Ülke": "İrlanda",
+        "Açıklama": "Vampir efsanesinin başlangıcı ve Drakula’nın laneti."
+    },
+    {
+        "Ad": "Sineklerin Tanrısı",
+        "Yazar": "William Golding",
+        "Tür": "Distopya",
+        "Ülke": "İngiltere",
+        "Açıklama": "İnsanın karanlık yönlerini ortaya koyan dramatik bir ada hikayesi."
+    },
+    {
+        "Ad": "Kara Kule",
+        "Yazar": "Stephen King",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Esrarengiz kuleye ulaşmaya çalışan adamın kıyamet yolculuğu."
+    },
+    {
+        "Ad": "Zamanın Çocukları",
+        "Yazar": "Octavia Butler",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Zamanda yolculukla ırkçılık ve insanlık meselelerini keşfetme."
+    },
+    {
+        "Ad": "Karanlık Madde",
+        "Yazar": "Philip Pullman",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "İnanç ve bilim arasındaki mücadeleyi anlatan fantastik macera."
+    },
+    {
+        "Ad": "Blade Runner",
+        "Yazar": "Philip K. Dick",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Gelecekte insan ve androidler arasındaki sınırları zorlayan distopya."
+    },
+    {
+        "Ad": "The Left Hand of Darkness",
+        "Yazar": "Ursula K. Le Guin",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Soğuk gezegende cinsiyetin olmadığı bir toplumda dostluk ve politika."
+    },
+    {
+        "Ad": "Sırça Fanus",
+        "Yazar": "Sylvia Plath",
+        "Tür": "Distopya",
+        "Ülke": "Portekiz",
+        "Açıklama": "Genç bir kadının psikolojik mücadele ve acı dolu iç dünyası."
+    },
+    {
+        "Ad": "İnsanlığın Sonu",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilimkurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "İnsanlığın evrimini ve geleceğini sorgulayan geniş çaplı bilimkurgu."
+    },
+    {
+        "Ad": "Ölümsüzlük Kitabı",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilimkurgu",
+        "Ülke": "Fransa",
+        "Açıklama": "Ölümsüzlüğün sırlarını arayan bilimsel ve felsefi bir roman."
+    },
+    {
+        "Ad": "Körlük",
+        "Yazar": "José Saramago",
+        "Tür": "Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "Ani körlük salgını sonrası toplumun kaosa sürüklenişi."
+    },
+    {
+        "Ad": "Karanlık Madde ve Radyasyon",
+        "Yazar": "Philip Pullman",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Evrenin karanlık ve gizemli yönlerini keşfeden epik fantastik yolculuk."
+    },
+    {
+        "Ad": "MaddAdda",
+        "Yazar": "Alastair Reynolds",
+        "Tür": "Bilimkurgu",
+        "Ülke": "İngiltere",
+        "Açıklama": "Uzayın derinliklerinde insanlığın geleceği ve tehlikeleri."
+    },
+    {
+        "Ad": "Yabancı",
+        "Yazar": "Albert Camus",
+        "Tür": "Polisiye/Felsefi",
+        "Ülke": "İngiltere",
+        "Açıklama": "Anlamsızlık ve yabancılaşmanın felsefi sorgulaması."
+    },
+    {
+        "Ad": "Küçük Kadınlar",
+        "Yazar": "Louisa May Alcott",
+        "Tür": "-",
+        "Ülke": "ABD",
+        "Açıklama": "Dört kız kardeşin büyüme, aşk ve hayata dair sıcak hikayesi."
+    },
+    {
+        "Ad": "Sherlock Holmes: Kızıl Dosya",
+        "Yazar": "Arthur Conan Doyle",
+        "Tür": "Polisiye",
+        "Ülke": "ABD",
+        "Açıklama": "Sherlock Holmes’un karmaşık bir cinayet dosyasını çözmesi."
+    },
+    {
+        "Ad": "Körlük",
+        "Yazar": "José Saramago",
+        "Tür": "Distopya",
+        "Ülke": "Portekiz",
+        "Açıklama": "Ani körlük salgını sonrası toplumun kaosa sürüklenişi."
+    },
+    {
+        "Ad": "Kıyamet Gösterisi",
+        "Yazar": "Stephen King",
+        "Tür": "Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dünyanın sonunu getiren kıyamet sonrası hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "V for Vendetta",
+        "Yazar": "Alan Moore",
+        "Tür": "Distopya",
+        "Ülke": "Fransa",
+        "Açıklama": "Baskıcı rejime karşı maske takan gizemli bir kahramanın isyanı."
+    },
+    {
+        "Ad": "Ender’in Oyunu",
+        "Yazar": "Orson Scott Card",
+        "Tür": "Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Genç dahi Ender’in uzay savaşlarında insanlığın kaderini belirlemesi."
+    },
+    {
+        "Ad": "Yol",
+        "Yazar": "David Goodis",
+        "Tür": "Polisiye",
+        "Ülke": "İngiltere",
+        "Açıklama": "Zorlu hayat yolunda yalnız bir adamın mücadele ve kaçışı."
+    },
+    {
+        "Ad": "Gizli Bahçe",
+        "Yazar": "Frances Hodgson Burnett",
+        "Tür": "Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Sihirli gizemler ve iyileştirici güçlerle dolu terkedilmiş bir bahçenin hikayesi."
+    },
+    {
+        "Ad": "İnce Memed",
+        "Yazar": "Yaşar Kemal",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "İnce Memed, Toprağına ve halkına olan bağlılığıyla İnce Memed, zorbalığa karşı direnen bir kahramandır."
+    },
+    {
+        "Ad": "Tutunamayanlar",
+        "Yazar": "Oğuz Atay",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Tutunamayanlar, Toplumdan yabancılaşan Selim Işık, içsel çatışmalarını ve yaşamın anlamını sorgular."
+    },
+    {
+        "Ad": "Saatleri Ayarlama Enstitüsü",
+        "Yazar": "Ahmet Hamdi Tanpınar",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Saatleri Ayarlama Enstitüsü, Zamanın ve toplumun baskısı altında, bir adamın kendi kimliğini bulma çabası."
+    },
+    {
+        "Ad": "Kürk Mantolu Madonna",
+        "Yazar": "Sabahattin Ali",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Kürk Mantolu Madonna, Solgun bir aşk hikayesi, kaybolan bir kadının izinde, hüzünlü bir özlemi anlatır."
+    },
+    {
+        "Ad": "Yaban",
+        "Yazar": "Yakup Kadri Karaosmanoğlu",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Yaban, Doğayla baş başa kalan bir adamın, hayatta kalma mücadelesi ve içsel dönüşümü."
+    },
+    {
+        "Ad": "Çalıkuşu",
+        "Yazar": "Reşat Nuri Güntekin",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Çalıkuşu, Sevgi, sadakat ve özveriyle dolu, bir kadının yaşamındaki zorluklarla mücadelesi."
+    },
+    {
+        "Ad": "Aşk-ı Memnu",
+        "Yazar": "Halid Ziya Uşaklıgil",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aşk-ı Memnu, Yasak aşkın tutkulu ve acı dolu öyküsü, tutkunun ve yasaların çatışması."
+    },
+    {
+        "Ad": "Sinekli Bakkal",
+        "Yazar": "Halide Edip Adıvar",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Sinekli Bakkal, İstanbul'un dar sokaklarında, aşk ve fedakarlıkla yoğrulmuş bir kadının yaşamı."
+    },
+    {
+        "Ad": "Huzur",
+        "Yazar": "Ahmet Hamdi Tanpınar",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Huzur, Bir adamın huzuru arayışı, geçmişin gölgelerinde kaybolan umutlar ve hayaller."
+    },
+    {
+        "Ad": "Memleket Hikayeleri",
+        "Yazar": "Refik Halit Karay",
+        "Tür": "Hikaye",
+        "Ülke": "Türkiye",
+        "Açıklama": "Memleket Hikayeleri, Anadolu köylerinden, insanların yaşam mücadeleleriyle örülü kısa ve dokunaklı hikayeler."
+    },
+    {
+        "Ad": "Sodom ve Gomore",
+        "Yazar": "Yakup Kadri Karaosmanoğlu",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Sodom ve Gomore, Sosyal yozlaşma ve ahlaki çöküş üzerine bir kasabanın çöküşüne tanıklık."
+    },
+    {
+        "Ad": "Sağırdere",
+        "Yazar": "Orhan Kemal",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Sağırdere, Bir kasabada, insanlar arasındaki mesafeyi ve anlamını sorgulayan hüzünlü bir roman."
+    },
+    {
+        "Ad": "Anayurt Oteli",
+        "Yazar": "Yusuf Atılgan",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Anayurt Oteli, Kendi iç yolculuğunda kaybolan, bir otelde yalnız ve derin yalnızlıkla boğuşan bir adam."
+    },
+    {
+        "Ad": "Bir Düğün Gecesi",
+        "Yazar": "Adalet Ağaoğlu",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir Düğün Gecesi, Bir düğün gecesinde, aşk ve çatışmaların kesiştiği anlar arasında kalan bir kadının hayatı."
+    },
+    {
+        "Ad": "Çocukluğun Soğuk Geceleri",
+        "Yazar": "Bilge Karasu",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Çocukluğun Soğuk Geceleri, Anıların ve kayıpların gölgesinde, geçmişin hatıralarıyla dolu bir çocuğun büyüme öyküsü."
+    },
+    {
+        "Ad": "Kuyucaklı Yusuf",
+        "Yazar": "Sabahattin Ali",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Kuyucaklı Yusuf, Bir kasabada geçen, acı ve sevgiyle yoğrulmuş, bir adamın hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "Devlet Ana",
+        "Yazar": "Kemal Tahir",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Devlet Ana, Anadolu'nun siyasi yapısını ve bir hükümdarın halkla olan ilişkilerini derinlemesine işler."
+    },
+    {
+        "Ad": "Fatih-Harbiye",
+        "Yazar": "Peyami Safa",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Fatih-Harbiye, İstanbul’un iki farklı yüzü arasında sıkışan bir kadının, sevda ve toplum arasında yaptığı seçim."
+    },
+    {
+        "Ad": "Yorgun Savaşçı",
+        "Yazar": "Kemal Tahir",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Yorgun Savaşçı, Türk Kurtuluş Savaşı’nın etkilerini ve savaşın insan ruhundaki yıkımını anlatan dokunaklı bir roman."
+    },
+    {
+        "Ad": "Hikâyeler",
+        "Yazar": "Sait Faik Abasıyanık",
+        "Tür": "Hikaye",
+        "Ülke": "Türkiye",
+        "Açıklama": "Hikâyeler, İstanbul'un sokaklarında geçen, insanın yalnızlık, aşk ve hayal kırıklıklarıyla mücadele ettiği kısa öyküler."
+    },
+    {
+        "Ad": "Bir Bilim Adamının Romanı",
+        "Yazar": "Oğuz Atay",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Bir Bilim Adamının Romanı, Modern bilim ve felsefe üzerine bir insanın yaşadığı içsel çatışmalar ve varoluşsal sorgulamalar."
+    },
+    {
+        "Ad": "Parasız Yatılı",
+        "Yazar": "Füruzan",
+        "Tür": "Hikaye",
+        "Ülke": "Türkiye",
+        "Açıklama": "Parasız Yatılı, Küçük bir kızın, Türkiye’nin toplumsal yapısını sorgularken, büyüme ve kimlik bulma yolculuğu."
+    },
+    {
+        "Ad": "Sevda Sözleri",
+        "Yazar": "Cemal Süreya",
+        "Tür": "Şiir",
+        "Ülke": "Türkiye",
+        "Açıklama": "Sevda Sözleri, Aşkın ve tutkunun derinliğine inen, bir şairin duygusal ve entelektüel dünyası."
+    },
+    {
+        "Ad": "Leyla ile Mecnun (Mesnevi)",
+        "Yazar": "Fuzûlî",
+        "Tür": "Epik/Tarihî",
+        "Ülke": "Türkiye",
+        "Açıklama": "Leyla ile Mecnun (Mesnevi), Aşkın, sevdanın ve insan ruhunun derinliklerine inen, klasik bir aşk hikayesi."
+    },
+    {
+        "Ad": "Aylak Adam",
+        "Yazar": " Yusuf Atılgan",
+        "Tür": "Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "Aylak Adam, Bir adamın içsel boşluğu ve toplumdan yabancılaşmasının dramatik hikayesi."
+    },
+    {
+        "Ad": "It Ends With Us",
+        "Yazar": "Colleen Hoover",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "It Ends With Us, Bir kadının, aşkla, acıyla ve bağımlılıkla verdiği zorlu mücadeleyi anlatan dokunaklı bir hikaye."
+    },
+    {
+        "Ad": "The Seven Husbands of Evelyn Hugo",
+        "Yazar": "Taylor Jenkins Reid",
+        "Tür": "Dram / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "The Seven Husbands of Evelyn Hugo, Eski Hollywood'un gizemli bir yıldızının, hayatını ve evliliklerini anlatan etkileyici bir biyografi."
+    },
+    {
+        "Ad": "The Midnight Library",
+        "Yazar": "Matt Haig",
+        "Tür": "Fantastik / Dram",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Midnight Library, Alternatif yaşam seçenekleriyle dolu bir kütüphanede, bir kadının kendi hayatını sorgulaması üzerine bir felsefi yolculuk."
+    },
+    {
+        "Ad": "Verity",
+        "Yazar": "Colleen Hoover",
+        "Tür": "Gerilim / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "Verity, Gerçekleri ve yalanları birbirine karıştıran, ürkütücü bir psikolojik gerilim."
+    },
+    {
+        "Ad": "The Ballad of Songbirds and Snakes",
+        "Yazar": "Suzanne Collins",
+        "Tür": "Distopya / Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "The Ballad of Songbirds and Snakes, \"Açlık Oyunları\" evreninde geçiyor ve bir gençlik hikayesiyle zalim bir diktatörün yükselişini anlatıyor."
+    },
+    {
+        "Ad": "The Song of Achilles",
+        "Yazar": "Madeline Miller",
+        "Tür": "Mitolojik / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "The Song of Achilles, Yunan mitolojisinin en ünlü kahramanlarından Achilles ve Patroclus arasındaki aşkı derin bir şekilde keşfeden bir roman."
+    },
+    {
+        "Ad": "Normal People",
+        "Yazar": "Sally Rooney",
+        "Tür": "Romantik / Dram",
+        "Ülke": "İrlanda",
+        "Açıklama": "Normal People, Genç bir çiftin, sevda, dostluk ve kırılganlıklarını konu alan, çağdaş bir aşk hikayesi."
+    },
+    {
+        "Ad": "The Silent Patient",
+        "Yazar": "Alex Michaelides",
+        "Tür": "Psikolojik Gerilim",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "The Silent Patient, Bir kadının sıradan bir gününde işlediği cinayetin ardından sessizliğe bürünmesiyle başlayan, akıl almaz bir gerilim."
+    },
+    {
+        "Ad": "A Court of Thorns and Roses",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "A Court of Thorns and Roses, Peri dünyasında geçen epik bir aşk ve savaş hikayesi, hem tehlike hem de tutku dolu bir fantastik evren."
+    },
+    {
+        "Ad": "Where the Crawdads Sing",
+        "Yazar": "Delia Owens",
+        "Tür": "Dram / Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "Where the Crawdads Sing, Bataklıkların derinliklerine gizlenmiş bir kızın, yalnızlık, keşif ve suça dair dokunaklı hikayesi."
+    },
+    {
+        "Ad": "The Night Circus",
+        "Yazar": "Erin Morgenstern",
+        "Tür": "Fantastik / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "The Night Circus, İki büyücünün gizemli bir sirkte başlayan rekabetiyle şekillenen fantastik bir aşk ve macera öyküsü."
+    },
+    {
+        "Ad": "Red Queen",
+        "Yazar": "Victoria Aveyard",
+        "Tür": "Fantastik / Bilimkurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Red Queen, Genetik üstünlüğe sahip bir sınıfın hakimiyetindeki bir dünyada, bir kızın güç ve direniş mücadelesi."
+    },
+    {
+        "Ad": "Big Little Lies",
+        "Yazar": "Liane Moriarty",
+        "Tür": "Dram / Gizem",
+        "Ülke": "Avustralya",
+        "Açıklama": "Big Little Lies, Üç kadının hayatlarının, sırların ve yalanların gölgesinde gelişen, dramatik bir gerilim."
+    },
+    {
+        "Ad": "We Were Liars",
+        "Yazar": "E. Lockhart",
+        "Tür": "Dram / Gizem",
+        "Ülke": "ABD",
+        "Açıklama": "We Were Liars, Zengin bir ailenin gizemli yaz tatilinde geçen, acı veren bir aile sırrının ortaya çıkışını anlatan sürükleyici bir hikaye."
+    },
+    {
+        "Ad": "The Hating Game",
+        "Yazar": "Sally Thorne",
+        "Tür": "Romantik / Komedi",
+        "Ülke": "Avustralya",
+        "Açıklama": "The Hating Game, İki ofis çalışanının, aralarındaki rekabetin bir aşk hikayesine dönüşmesini konu alan eğlenceli bir romantik komedi."
+    },
+    {
+        "Ad": "After",
+        "Yazar": "Anna Todd",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "After, Bir üniversite öğrencisinin, sorunlu bir ilişkideki dramı ve kendi kimliğini bulma süreci üzerine genç yetişkin bir hikaye."
+    },
+    {
+        "Ad": "The Kiss Thief",
+        "Yazar": "L.J. Shen",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "The Kiss Thief, Aşk, intikam ve sadakat temalarını işleyen, tutkulu bir romantik hikaye."
+    },
+    {
+        "Ad": "The Cruel Prince",
+        "Yazar": "Holly Black",
+        "Tür": "Fantastik / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "The Cruel Prince, Peri dünyasında geçen, zeki ve acımasız bir prense karşı duyulan karmaşık bir sevdanın hikayesi."
+    },
+    {
+        "Ad": "The Deal",
+        "Yazar": "Elle Kennedy",
+        "Tür": "Romantik / Komedi",
+        "Ülke": "ABD",
+        "Açıklama": "The Deal, Üniversite kampüsünde başlayan, eğlenceli ve çekişmeli bir romantik ilişkiyi konu alan genç yetişkin hikayesi."
+    },
+    {
+        "Ad": "The Bad Boy's Girl",
+        "Yazar": "Blair Holden",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "The Bad Boy's Girl, Asi bir gencin, geçmişi ve hayatındaki mücadeleler arasında bulduğu romantik bir yolculuk."
+    },
+    {
+        "Ad": "The Billionaire's Obsession",
+        "Yazar": "J.S. Scott",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "The Billionaire's Obsession, Zengin bir iş adamının, tutkularını ve aşkını bulduğu duygusal bir hikaye."
+    },
+    {
+        "Ad": "Chasing Red",
+        "Yazar": "Isobelle Carmody",
+        "Tür": "Romantik / Dram",
+        "Ülke": "Avustralya",
+        "Açıklama": "Chasing Red, Hem kalp kırıklığı hem de tutkulu bir aşkı konu alan dramatik bir genç yetişkin hikayesi."
+    },
+    {
+        "Ad": "My Life with the Walter Boys",
+        "Yazar": "Ali Novak",
+        "Tür": "Romantik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "My Life with the Walter Boys, Ailesini kaybeden bir kızın, yeni evinde karşılaştığı komik ve duygusal zorluklar."
+    },
+    {
+        "Ad": "The Cell Phone Swap",
+        "Yazar": "Lindsey Summers",
+        "Tür": "Romantik / Komedi",
+        "Ülke": "ABD",
+        "Açıklama": "The Cell Phone Swap, Telefon değiştirme olayı üzerinden başlayan, tatlı bir romantizm ve yanlış anlaşılmalar."
+    },
+    {
+        "Ad": "The Girl He Never Noticed",
+        "Yazar": "T.L. Swan",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "The Girl He Never Noticed, Dışarıdan fark edilmeyen, içsel güzellikleriyle dikkat çeken bir kadının, büyük bir değişim geçirmesi."
+    },
+    {
+        "Ad": "Beautiful Disaster",
+        "Yazar": "Jamie McGuire",
+        "Tür": "Romantik / Dram",
+        "Ülke": "ABD",
+        "Açıklama": "Beautiful Disaster, Sert ve çekişmeli bir aşkın, iki genç arasında yarattığı kaos ve duygusal mücadeleleri keşfeden bir roman."
+    },
+    {
+        "Ad": "Heartless",
+        "Yazar": "Marissa Meyer",
+        "Tür": "Fantastik / Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "Heartless, Kötü kalpli bir prensesin, zalimliğe giden yolunu anlatan, \"Alice Harikalar Diyarında\" evreninde geçen bir hikaye."
+    },
+    {
+        "Ad": "The Royal Wedding",
+        "Yazar": "Rachel Hauck",
+        "Tür": "Romantik",
+        "Ülke": "ABD",
+        "Açıklama": "The Royal Wedding, Kraliyet ailesine ait olan, büyük bir aşkı ve kraliyet hayatının zorluklarını konu alan romantik bir hikaye."
+    },
+    {
+        "Ad": "Twisted Love",
+        "Yazar": "Ana Huang",
+        "Tür": "Romantik / Gerilim",
+        "Ülke": "ABD",
+        "Açıklama": "Twisted Love, Aşk, ihanet ve gizli sırlarla dolu, karmaşık bir ilişkiyi anlatan tutkulu bir hikaye."
+    },
+    {
+        "Ad": "You",
+        "Yazar": "Caroline Kepnes",
+        "Tür": "Gerilim / Psikolojik",
+        "Ülke": "ABD",
+        "Açıklama": "You, Bir adamın, takıntılı şekilde bir kadına duyduğu sevdanın, korkunç boyutlara ulaşmasını anlatan psikolojik gerilim."
+    },
+    {
+        "Ad": "The Diary of a Young Girl",
+        "Yazar": "Anne Frank",
+        "Tür": "Biyografi",
+        "Ülke": "Hollanda",
+        "Açıklama": "Nazilerden kaçan bir kızın, saklanırken yazdığı içsel dünyasını anlatır."
+    },
+    {
+        "Ad": "Long Walk to Freedom",
+        "Yazar": "Nelson Mandela",
+        "Tür": "Biyografi",
+        "Ülke": "Güney Afrika",
+        "Açıklama": "Apartheid rejimine karşı mücadele eden bir liderin hayatı."
+    },
+    {
+        "Ad": "Steve Jobs",
+        "Yazar": "Walter Isaacson",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "Apple’ın kurucusunun vizyoner hayatı ve devrimci teknolojilere yolculuğu."
+    },
+    {
+        "Ad": "Becoming",
+        "Yazar": "Michelle Obama",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "İlk kadın, Michelle Obama’nın kişisel gelişimi ve toplumsal mücadelesi."
+    },
+    {
+        "Ad": "The Autobiography of Malcolm X",
+        "Yazar": "Malcolm X, Alex Haley",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "Irkçılığa karşı bir siyahinin uyanışı ve direnişinin öyküsü."
+    },
+    {
+        "Ad": "The Story of My Experiments with Truth",
+        "Yazar": "Mahatma Gandhi",
+        "Tür": "Biyografi",
+        "Ülke": "Hindistan",
+        "Açıklama": "Şiddetsiz direnişin öncüsü Gandhi’nin yaşamını ve mücadelelerini anlatır."
+    },
+    {
+        "Ad": "When Breath Becomes Air",
+        "Yazar": "Paul Kalanithi",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "Kanserle mücadele eden bir doktorun yaşam ve ölüm üzerine düşünceleri."
+    },
+    {
+        "Ad": "I Am Malala",
+        "Yazar": "Malala Yousafzai",
+        "Tür": "Biyografi",
+        "Ülke": "Pakistan",
+        "Açıklama": "Eğitim için savaşan genç bir kızın cesur ve ilham verici öyküsü."
+    },
+    {
+        "Ad": "Educated",
+        "Yazar": "Tara Westover",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "Ailesinin köleliğinden kaçan bir kadının özgürlüğe giden yolculuğu."
+    },
+    {
+        "Ad": "Einstein: His Life and Universe",
+        "Yazar": "Walter Isaacson",
+        "Tür": "Biyografi",
+        "Ülke": "ABD",
+        "Açıklama": "Einstein’ın bilimsel devrimi ve karmaşık kişiliği hakkında bir anlatı."
+    },
+    {
+        "Ad": "Sapiens: A Brief History of Humankind",
+        "Yazar": "Yuval Noah Harari",
+        "Tür": "Tarih",
+        "Ülke": "İsrail",
+        "Açıklama": "İnsanlık tarihinin evrimsel sürecine geniş bir bakış açısı sunar."
+    },
+    {
+        "Ad": "The Second World War",
+        "Yazar": "Winston Churchill",
+        "Tür": "Tarih",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "II. Dünya Savaşı'nın tarihi olaylarını ve stratejik kararları açıklar."
+    },
+    {
+        "Ad": "A People's History of the United States",
+        "Yazar": "Howard Zinn",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "Amerika’nın tarihi, sıradan halkın bakış açısından anlatılır."
+    },
+    {
+        "Ad": "The Guns of August",
+        "Yazar": "Barbara Tuchman",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "Birinci Dünya Savaşı’nın patlak vermesinin arkasındaki politik hatalar."
+    },
+    {
+        "Ad": "The History of the Peloponnesian War",
+        "Yazar": "Thucydides",
+        "Tür": "Tarih",
+        "Ülke": "Yunanistan",
+        "Açıklama": "Antik Yunan’da Sparta ve Atina arasındaki savaşın detaylı bir anlatımı."
+    },
+    {
+        "Ad": "The Origins of Political Order",
+        "Yazar": "Francis Fukuyama",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "Siyasi düzenin ve devletin kökenlerine dair derin bir inceleme."
+    },
+    {
+        "Ad": "The Rise and Fall of the Third Reich",
+        "Yazar": "William L. Shirer",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "Nazi Almanyası’nın yükselişi ve çöküşünü anlatan kapsamlı bir çalışma."
+    },
+    {
+        "Ad": "Guns, Germs, and Steel",
+        "Yazar": "Jared Diamond",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "İnsanlık tarihindeki farklılıkları açıklamak için çevresel faktörleri inceler."
+    },
+    {
+        "Ad": "The Silk Roads: A New History of the World",
+        "Yazar": "Peter Frankopan",
+        "Tür": "Tarih",
+        "Ülke": "Birleşik Krallık",
+        "Açıklama": "Eski dünya tarihi, Doğu’nun Batı üzerindeki etkisiyle yeniden şekillenir."
+    },
+    {
+        "Ad": "The History of the Ancient World",
+        "Yazar": "Susan Wise Bauer",
+        "Tür": "Tarih",
+        "Ülke": "ABD",
+        "Açıklama": "Antik medeniyetlerin yükselişi ve çöküşünü özetleyen bir kaynak."
+    },
+    {
+        "Ad": "Araba Sevdası",
+        "Yazar": "Recaizade Mahmud Ekrem",
+        "Tür": "Roman / Realizm",
+        "Ülke": "Türkiye",
+        "Açıklama": "Araba tutkusu yüzünden insanlar arasında duygusal bir çıkmazda kalan, modernleşme çabaları ve bireysel hırslar üzerine bir hikaye."
+    },
+    {
+        "Ad": "Kurtlar Sofrası",
+        "Yazar": "Attilâ İlhan",
+        "Tür": "Roman / Toplumsal",
+        "Ülke": "Türkiye",
+        "Açıklama": "Toplumun çürümüşlüğüyle mücadele eden, politik çatışmalar ve bireysel dönüşümün iç içe geçtiği bir roman."
+    },
+    {
+        "Ad": "İçimizdeki Şeytan",
+        "Yazar": "Sabahattin Ali",
+        "Tür": "Psikolojik Drama / Roman",
+        "Ülke": "Türkiye",
+        "Açıklama": "İnsan ruhunun karanlık yanlarıyla yüzleşen, bir aşk ve içsel çatışmalarla dolu, bireysel çıkmazlar üzerine derinlemesine bir inceleme."
+    },
+    {
+        "Ad": "Ağır Roman",
+        "Yazar": "Metin Kaçan",
+        "Tür": "Roman / Gençlik",
+        "Ülke": "Türkiye",
+        "Açıklama": "İstanbul'un arka sokaklarında, suç ve hayatta kalma mücadelesi veren bir grup gencin dramatik hikayesini anlatan, sokakların ve yaşamın sert yüzünü keşfeden bir roman."
+    },
+    {
+        "Ad": "Gölgesizler",
+        "Yazar": "Hasan Ali Toptaş",
+        "Tür": "Roman / Modern Türk Edebiyatı",
+        "Ülke": "Türkiye",
+        "Açıklama": "Zaman ve mekânın bulanıklaştığı, insanın varoluşunu sorguladığı, kaybolan köyün gizemli dünyasında geçen sürükleyici bir hikaye."
+    }
+]

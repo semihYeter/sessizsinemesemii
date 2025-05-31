@@ -1,0 +1,702 @@
+[
+    {
+        "Ad": "Dune (Dune, #1)",
+        "Yazar": "Frank Herbert",
+        "Tür": "Bilim Kurgu / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Çöl gezegeninde güç ve kaynaklar için verilen epik mücadele."
+    },
+    {
+        "Ad": "Ender’s Game (Ender's Saga, #1)",
+        "Yazar": "Orson Scott Card",
+        "Tür": "Bilim Kurgu / Askeri",
+        "Ülke": "ABD",
+        "Açıklama": "Zeki çocuk, uzaylılarla savaşmak için askeri eğitim alıyor."
+    },
+    {
+        "Ad": "The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "Yazar": "Douglas Adams",
+        "Tür": "Bilim Kurgu / Mizah",
+        "Ülke": "İngiltere",
+        "Açıklama": "Uzayda absürt ve komik bir macera."
+    },
+    {
+        "Ad": "The Martian (Hardcover)",
+        "Yazar": "Andy Weir",
+        "Tür": "Bilim Kurgu / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Mars'ta yalnız kalan astronotun hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "Fahrenheit 451 (Kindle Edition)",
+        "Yazar": "Ray Bradbury",
+        "Tür": "Distopya / Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Kitapların yasaklandığı distopik bir gelecekte isyan."
+    },
+    {
+        "Ad": "Ready Player One (Ready Player One, #1)",
+        "Yazar": "Ernest Cline",
+        "Tür": "Bilim Kurgu / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Sanal gerçeklikte büyük bir hazine avı."
+    },
+    {
+        "Ad": "1984 (Paperback)",
+        "Yazar": "George Orwell",
+        "Tür": "Distopya / Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Totaliter bir rejimde bireyin özgürlük mücadelesi."
+    },
+    {
+        "Ad": "The Hunger Games (The Hunger Games, #1)",
+        "Yazar": "Suzanne Collins",
+        "Tür": "Distopya / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Gençlerin ölümcül bir oyun için seçildiği distopik savaş."
+    },
+    {
+        "Ad": "Brave New World (Paperback)",
+        "Yazar": "Aldous Huxley",
+        "Tür": "Distopya / Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Genetik ve toplumsal kontrolün hüküm sürdüğü geleceğin dünyası."
+    },
+    {
+        "Ad": "Foundation (Foundation, #1)",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Galaksiyi kurtarmak için kurulan bilimsel plan."
+    },
+    {
+        "Ad": "Do Androids Dream of Electric Sheep? (ebook)",
+        "Yazar": "Philip K. Dick",
+        "Tür": "Bilim Kurgu / Distopya",
+        "Ülke": "ABD",
+        "Açıklama": "İnsan mı yoksa robot mu ayırt etmek zorunda kalan bir dedektif."
+    },
+    {
+        "Ad": "Project Hail Mary (Hardcover)",
+        "Yazar": "Andy Weir",
+        "Tür": "Bilim Kurgu / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Uzayda bilinmeyen bir görevi tamamlamaya çalışan bilim insanı."
+    },
+    {
+        "Ad": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+        "Yazar": "Liu Cixin",
+        "Tür": "Bilim Kurgu / Uzay",
+        "Ülke": "Çin",
+        "Açıklama": "Uzaylı medeniyetle ilk temas ve sonuçları."
+    },
+    {
+        "Ad": "Catching Fire (The Hunger Games, #2)",
+        "Yazar": "Suzanne Collins",
+        "Tür": "Distopya / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Ölüm oyunlarının ikinci turu, daha tehlikeli ve karmaşık."
+    },
+    {
+        "Ad": "All Systems Red (The Murderbot Diaries, #1)",
+        "Yazar": "Martha Wells",
+        "Tür": "Bilim Kurgu / Robot",
+        "Ülke": "ABD",
+        "Açıklama": "İnsanlara şüpheyle yaklaşan yarı-robot kahramanın hikayesi."
+    },
+    {
+        "Ad": "Mockingjay (The Hunger Games, #3)",
+        "Yazar": "Suzanne Collins",
+        "Tür": "Distopya / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Baskıya karşı son isyan ve özgürlük savaşı."
+    },
+    {
+        "Ad": "Neuromancer (Sprawl, #1)",
+        "Yazar": "William Gibson",
+        "Tür": "Siberpunk / Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Siber uzayda hacker ve siber suçların dünyası."
+    },
+    {
+        "Ad": "The Time Machine (Paperback)",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Zaman yolculuğu yapan adamın gelecekteki keşifleri."
+    },
+    {
+        "Ad": "Leviathan Wakes (The Expanse, #1)",
+        "Yazar": "James S.A. Corey",
+        "Tür": "Bilim Kurgu / Uzay",
+        "Ülke": "ABD",
+        "Açıklama": "Uzayda kayıp bir kadının gizemi ve galaktik çatışma."
+    },
+    {
+        "Ad": "I, Robot (Robot, #0.1)",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Robotların etik ve insanlarla ilişkisini sorgulayan hikayeler."
+    },
+    {
+        "Ad": "Red Rising (Red Rising Saga, #1)",
+        "Yazar": "Pierce Brown",
+        "Tür": "Distopya / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Toprak altı toplumunda adaletsizliğe karşı genç bir devrimci."
+    },
+    {
+        "Ad": "Dark Matter (Hardcover)",
+        "Yazar": "Blake Crouch",
+        "Tür": "Bilim Kurgu / Gerilim",
+        "Ülke": "ABD",
+        "Açıklama": "Alternatif evrende kaybolan bir adamın gerçeklik arayışı."
+    },
+    {
+        "Ad": "Dune Messiah (Dune #2)",
+        "Yazar": "Frank Herbert",
+        "Tür": "Bilim Kurgu / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Dune evreninde politik entrikalar ve ihanetler."
+    },
+    {
+        "Ad": "Jurassic Park (Jurassic Park, #1)",
+        "Yazar": "Michael Crichton",
+        "Tür": "Bilim Kurgu / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Dinozorların yeniden canlandırıldığı felaket parkı."
+    },
+    {
+        "Ad": "Hyperion (Hyperion Cantos, #1)",
+        "Yazar": "Dan Simmons",
+        "Tür": "Bilim Kurgu / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Zamanda ve mekanda geçen destansı bir yolculuk."
+    },
+    {
+        "Ad": "The Left Hand of Darkness (Paperback)",
+        "Yazar": "Ursula K. Le Guin",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Cinsiyetin değişken olduğu yabancı bir gezegende diplomasi."
+    },
+    {
+        "Ad": "2001: A Space Odyssey (Space Odyssey, #1)",
+        "Yazar": "Arthur C. Clarke",
+        "Tür": "Bilim Kurgu / Uzay",
+        "Ülke": "İngiltere",
+        "Açıklama": "Uzayda insanlığın evrimini etkileyen gizemli monolit."
+    },
+    {
+        "Ad": "The War of the Worlds (Paperback)",
+        "Yazar": "H.G. Wells",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Dünya’ya Marslıların saldırısı."
+    },
+    {
+        "Ad": "The Handmaid's Tale (Hardcover)",
+        "Yazar": "Margaret Atwood",
+        "Tür": "Distopya / Kurgusal",
+        "Ülke": "Kanada",
+        "Açıklama": "Baskıcı bir rejimde kadının özgürlük mücadelesi."
+    },
+    {
+        "Ad": "Divergent (Divergent, #1)",
+        "Yazar": "Veronica Roth",
+        "Tür": "Distopya / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Toplumda farklı kimliklere karşı verilen isyan."
+    },
+    {
+        "Ad": "Frankenstein: The 1818 Text (Paperback)",
+        "Yazar": "Mary Wollstonecraft Shelley",
+        "Tür": "Gotik / Klasik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yapay yaşam formunun trajik yaratılışı."
+    },
+    {
+        "Ad": "The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",
+        "Yazar": "Douglas Adams",
+        "Tür": "Bilim Kurgu / Mizah",
+        "Ülke": "İngiltere",
+        "Açıklama": "Galaksinin sonundaki komik ve absürt macera."
+    },
+    {
+        "Ad": "Stranger in a Strange Land (Paperback)",
+        "Yazar": "Robert A. Heinlein",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Dünyaya yabancı gelen ve alışmaya çalışan adam."
+    },
+    {
+        "Ad": "The Martian Chronicles (Mass Market Paperback)",
+        "Yazar": "Ray Bradbury",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "Mars kolonilerinde insanlık tarihinin geleceği."
+    },
+    {
+        "Ad": "Slaughterhouse-Five (Paperback)",
+        "Yazar": "Kurt Vonnegut Jr.",
+        "Tür": "Anti Savaş / Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Zaman ve savaşın iç içe geçtiği absürt hikaye."
+    },
+    {
+        "Ad": "Cinder (The Lunar Chronicles, #1)",
+        "Yazar": "Marissa Meyer",
+        "Tür": "Genç Yetişkin / Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Külkedisi masalının bilim kurgu uyarlaması."
+    },
+    {
+        "Ad": "The Long Way to a Small, Angry Planet (Wayfarers, #1)",
+        "Yazar": "Becky Chambers",
+        "Tür": "Bilim Kurgu / Uzay",
+        "Ülke": "ABD",
+        "Açıklama": "Uzayın derinliklerinde bir gemide geçen dostluk ve macera."
+    },
+    {
+        "Ad": "Snow Crash (Hardcover)",
+        "Yazar": "Neal Stephenson",
+        "Tür": "Siberpunk / Bilim Kurgu",
+        "Ülke": "ABD",
+        "Açıklama": "Sanal dünyada siber saldırılar ve kaos."
+    },
+    {
+        "Ad": "Old Man's War (Old Man's War, #1)",
+        "Yazar": "John Scalzi",
+        "Tür": "Bilim Kurgu / Askeri",
+        "Ülke": "ABD",
+        "Açıklama": "Yaşlı askerlerin uzayda yeni hayat mücadelesi."
+    },
+    {
+        "Ad": "Foundation and Empire (Foundation, #2)",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "İmparatorluğun çöküşü ve direniş hikayesi."
+    },
+    {
+        "Ad": "The Giver (The Giver, #1)",
+        "Yazar": "Lois Lowry",
+        "Tür": "Distopya / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Kontrollü toplumda özgürlük arayan genç bir çocuk."
+    },
+    {
+        "Ad": "Speaker for the Dead (Ender's Saga, #2)",
+        "Yazar": "Orson Scott Card",
+        "Tür": "Bilim Kurgu / Askeri",
+        "Ülke": "ABD",
+        "Açıklama": "Ölenlerin hayatını anlamaya çalışan bir kahraman."
+    },
+    {
+        "Ad": "Annihilation (Southern Reach, #1)",
+        "Yazar": "Jeff VanderMeer",
+        "Tür": "Bilim Kurgu / Ekoloji",
+        "Ülke": "ABD",
+        "Açıklama": "Gizemli, tehlikeli doğa bölgesine yapılan keşif."
+    },
+    {
+        "Ad": "This Is How You Lose the Time War (ebook)",
+        "Yazar": "Amal El-Mohtar",
+        "Tür": "Bilim Kurgu / Zamanda Yolculuk",
+        "Ülke": "Kanada / Lübnan",
+        "Açıklama": "Zaman savaşlarında iki düşman ajanın hikayesi."
+    },
+    {
+        "Ad": "Artemis (Hardcover)",
+        "Yazar": "Andy Weir",
+        "Tür": "Bilim Kurgu / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Ay kolonisi Artemis'te hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "A Wrinkle in Time (Time Quintet, #1)",
+        "Yazar": "Madeleine L'Engle",
+        "Tür": "Genç Yetişkin / Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "Zamanda yolculuk ve aile bağlarının ötesinde macera."
+    },
+    {
+        "Ad": "Second Foundation (Foundation, #3)",
+        "Yazar": "Isaac Asimov",
+        "Tür": "Bilim Kurgu / Klasik",
+        "Ülke": "ABD",
+        "Açıklama": "İmparatorluğun geleceğini şekillendiren gizli güçler."
+    },
+    {
+        "Ad": "Children of Dune (Dune #3)",
+        "Yazar": "Frank Herbert",
+        "Tür": "Bilim Kurgu / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Dune'da güç ve kader savaşı."
+    },
+    {
+        "Ad": "Artificial Condition (The Murderbot Diaries, #2)",
+        "Yazar": "Martha Wells",
+        "Tür": "Bilim Kurgu / Robot / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "Yarı insan, yarı makine robotun kimlik arayışı."
+    },
+    {
+        "Ad": "Starship Troopers (Mass Market Paperback)",
+        "Yazar": "Robert A. Heinlein",
+        "Tür": "Bilim Kurgu / Askeri",
+        "Ülke": "ABD",
+        "Açıklama": "Genç askerlerin uzaylılara karşı savaşı."
+    },
+    {
+        "Ad": "Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "Büyücülük dünyasında genç bir çocuğun macerası."
+    },
+    {
+        "Ad": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "Sırlar ve tehlikelerle dolu büyücü okulunda ikinci yıl."
+    },
+    {
+        "Ad": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "Karanlık sırların ortaya çıktığı büyücü okulunun üçüncü yılı."
+    },
+    {
+        "Ad": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "Tehlikeli büyücü turnuvası ve dostluk sınavı."
+    },
+    {
+        "Ad": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "İsyan ve savaşın büyücü dünyasındaki yükselişi."
+    },
+    {
+        "Ad": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+        "Yazar": "J.K. Rowling",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "İngiltere",
+        "Açıklama": "Karanlık güçlerle yüzleşen genç büyücünün hikayesi."
+    },
+    {
+        "Ad": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Taht için entrikalar ve kanlı savaşların başladığı diyar."
+    },
+    {
+        "Ad": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "Yazar": "J.R.R. Tolkien",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Yüzüklerin yolculuğu: bir halkı kurtarma görevi."
+    },
+    {
+        "Ad": "A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Büyü, aşk ve ihanetle örülü tehlikeli bir peri masalı."
+    },
+    {
+        "Ad": "Six of Crows (Six of Crows, #1)",
+        "Yazar": "Leigh Bardugo",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Çalınan hazineyi geri almak için toplanan tehlikeli ekip."
+    },
+    {
+        "Ad": "Mistborn: The Final Empire (Mistborn, #1)",
+        "Yazar": "Brandon Sanderson",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Mistborn: Küllerle kaplı dünyada metal güçleriyle isyan başlar."
+    },
+    {
+        "Ad": "The Two Towers (The Lord of the Rings, #2)",
+        "Yazar": "J.R.R. Tolkien",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Two Towers: Kardeşlik dağılır, karanlık güçler saldırıya geçer."
+    },
+    {
+        "Ad": "A Court of Mist and Fury (A Court of Thorns and Roses, #2)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "A Court of Mist and Fury: Güç ve büyüyle yüzleşen genç kadın kaderini keşfeder."
+    },
+    {
+        "Ad": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+        "Yazar": "Patrick Rothfuss",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "The Name of the Wind: Efsanevi büyücünün kendi hayatını anlatışı."
+    },
+    {
+        "Ad": "A Clash of Kings (A Song of Ice and Fire, #2)",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "A Clash of Kings: Taht için çıkan kanlı savaşlar."
+    },
+    {
+        "Ad": "The Return of the King (The Lord of the Rings, #3)",
+        "Yazar": "J.R.R. Tolkien",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Return of the King: Son büyük savaşta iyilik ve kötülük çatışır."
+    },
+    {
+        "Ad": "The Cruel Prince (The Folk of the Air, #1)",
+        "Yazar": "Holly Black",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "The Cruel Prince: Peri sarayında güç ve entrika dolu hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+        "Yazar": "Rick Riordan",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "The Lightning Thief: Tanrılar ve canavarlarla dolu modern macera."
+    },
+    {
+        "Ad": "Shadow and Bone (Shadow and Bone, #1)",
+        "Yazar": "Leigh Bardugo",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Shadow and Bone: Gizemli yetenekleriyle kaderi şekillenen genç kadın."
+    },
+    {
+        "Ad": "A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "A Court of Wings and Ruin: Savaş, aşk ve ihanetle dolu büyük final."
+    },
+    {
+        "Ad": "A Storm of Swords (A Song of Ice and Fire, #3)",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "A Storm of Swords: Kanlı ihanet ve güç mücadelesi."
+    },
+    {
+        "Ad": "A Feast for Crows (A Song of Ice and Fire, #4)",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "A Feast for Crows: Güç oyunları ve hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "Eragon (The Inheritance Cycle #1)",
+        "Yazar": "Christopher Paolini",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Eragon: Ejderhasıyla genç kahramanın yükselişi."
+    },
+    {
+        "Ad": "The Golden Compass (His Dark Materials, #1)",
+        "Yazar": "Philip Pullman",
+        "Tür": "Fantastik / Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Golden Compass: Paralel evrenlerde cesur bir kızın yolculuğu."
+    },
+    {
+        "Ad": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+        "Yazar": "George R.R. Martin",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "A Dance with Dragons: Savaşta gizli planlar ve ihanetler."
+    },
+    {
+        "Ad": "The Night Circus",
+        "Yazar": "Erin Morgenstern",
+        "Tür": "Fantastik / Fantastik Gerilim",
+        "Ülke": "ABD",
+        "Açıklama": "The Night Circus: Büyülü sirkte rekabet ve aşk."
+    },
+    {
+        "Ad": "Crown of Midnight (Throne of Glass, #2)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Crown of Midnight: Suikastçı prensesin saray entrikalarıyla savaşı."
+    },
+    {
+        "Ad": "The Way of Kings (The Stormlight Archive, #1)",
+        "Yazar": "Brandon Sanderson",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "The Way of Kings: Kutsal savaşlarda doğan kahramanlar."
+    },
+    {
+        "Ad": "City of Bones (The Mortal Instruments, #1)",
+        "Yazar": "Cassandra Clare",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "City of Bones: İnsanlar ve gölgeler arasındaki gizemli savaş."
+    },
+    {
+        "Ad": "American Gods",
+        "Yazar": "Neil Gaiman",
+        "Tür": "Fantastik / Mitoloji / Fantastik",
+        "Ülke": "İngiltere/ABD",
+        "Açıklama": "American Gods: Eski ve yeni tanrılar arasındaki çatışma."
+    },
+    {
+        "Ad": "The Eye of the World (The Wheel of Time, #1)",
+        "Yazar": "Robert Jordan",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "The Eye of the World: Kader tarafından seçilen genç kahramanın büyük macerası."
+    },
+    {
+        "Ad": "Twilight (The Twilight Saga, #1)",
+        "Yazar": "Stephenie Meyer",
+        "Tür": "Genç Yetişkin / Vampir",
+        "Ülke": "ABD",
+        "Açıklama": "Twilight: İnsan ile vampirin imkansız aşkı."
+    },
+    {
+        "Ad": "Crooked Kingdom (Six of Crows, #2)",
+        "Yazar": "Leigh Bardugo",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Crooked Kingdom: Suç dünyasında ihanete karşı dostluk savaşı."
+    },
+    {
+        "Ad": "A Darker Shade of Magic (Shades of Magic, #1)",
+        "Yazar": "V.E. Schwab",
+        "Tür": "Fantastik / Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "A Darker Shade of Magic: Farklı dünyalar arasında geçen büyülü macera."
+    },
+    {
+        "Ad": "A Court of Frost and Starlight (A Court of Thorns and Roses, #3.5)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "A Court of Frost and Starlight: Aşk ve iyileşme dolu ara hikaye."
+    },
+    {
+        "Ad": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "Yazar": "Terry Pratchett",
+        "Tür": "Fantastik / Mizahi Fantastik",
+        "Ülke": "İngiltere",
+        "Açıklama": "Good Omens: Kıyamet öncesi beklenmedik dostluk ve kaos."
+    },
+    {
+        "Ad": "The Well of Ascension (Mistborn, #2)",
+        "Yazar": "Brandon Sanderson",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "The Well of Ascension: İsyanın ardından gelen tehlikeler ve güç mücadeleleri."
+    },
+    {
+        "Ad": "A Court of Silver Flames (A Court of Thorns and Roses, #4)",
+        "Yazar": "Sarah J. Maas",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "A Court of Silver Flames: Güç ve iyileşme yolundaki savaşçı kadının hikayesi."
+    },
+    {
+        "Ad": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+        "Yazar": "Rick Riordan",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "The Sea of Monsters: Kahraman Percy’nin deniz canavarlarıyla mücadelesi."
+    },
+    {
+        "Ad": "Assassin's Apprentice (Farseer Trilogy, #1)",
+        "Yazar": "Robin Hobb",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "Assassin's Apprentice: Genç suikastçının zorlu eğitim ve ihanet dolu yolu."
+    },
+    {
+        "Ad": "The Wicked King (The Folk of the Air, #2)",
+        "Yazar": "Holly Black",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "The Wicked King: Peri dünyasında taht mücadelesi ve ihanet."
+    },
+    {
+        "Ad": "The Invisible Life of Addie LaRue",
+        "Yazar": "V.E. Schwab",
+        "Tür": "Fantastik / Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "The Invisible Life of Addie LaRue: Zamana meydan okuyan unutulmuş hayat."
+    },
+    {
+        "Ad": "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+        "Yazar": "Leigh Bardugo",
+        "Tür": "Fantastik / Genç Yetişkin",
+        "Ülke": "ABD",
+        "Açıklama": "Siege and Storm: Savaşın ortasında aşk ve sadakat sınavı."
+    },
+    {
+        "Ad": "The Poppy War (The Poppy War, #1)",
+        "Yazar": "R.F. Kuang",
+        "Tür": "Fantastik / Tarihi Fantastik / Savaş",
+        "Ülke": "Çin",
+        "Açıklama": "The Poppy War: Savaş ve büyünün acımasız dünyasında hayatta kalma."
+    },
+    {
+        "Ad": "Stardust",
+        "Yazar": "Neil Gaiman",
+        "Tür": "Fantastik / Modern Fantastik",
+        "Ülke": "İngiltere/ABD",
+        "Açıklama": "Stardust: Büyülü diyarda aşk ve macera dolu yolculuk."
+    },
+    {
+        "Ad": "Neverwhere (London Below, #1)",
+        "Yazar": "Neil Gaiman",
+        "Tür": "Fantastik / Kentsel Fantastik",
+        "Ülke": "İngiltere/ABD",
+        "Açıklama": "Neverwhere: Londra’nın gizli yeraltı dünyasında hayatta kalma mücadelesi."
+    },
+    {
+        "Ad": "The Lies of Locke Lamora (Gentleman Bastard, #1)",
+        "Yazar": "Scott Lynch",
+        "Tür": "Fantastik / Epik Fantastik",
+        "Ülke": "ABD",
+        "Açıklama": "The Lies of Locke Lamora: Usta hırsızın zekice planlarla dolu macerası."
+    },
+    {
+        "Ad": "The Lord of the Rings",
+        "Yazar": "J.R.R. Tolkien",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "İngiltere",
+        "Açıklama": "The Lord of the Rings: Kaderle bağlı yüzüğün yok edilme yolculuğu."
+    },
+    {
+        "Ad": "The Hero of Ages (Mistborn, #3)",
+        "Yazar": "Brandon Sanderson",
+        "Tür": "Fantastik / Epik",
+        "Ülke": "ABD",
+        "Açıklama": "The Hero of Ages: Karanlık güçlere karşı son savaş."
+    },
+    {
+        "Ad": "The Titan’s Curse (Percy Jackson and the Olympians, #3)",
+        "Yazar": "Rick Riordan",
+        "Tür": "Fantastik / Genç Yetişkin / Macera",
+        "Ülke": "ABD",
+        "Açıklama": "The Titan’s Curse: Genç kahramanların canavarlarla ölüm kalım mücadelesi."
+    }
+]

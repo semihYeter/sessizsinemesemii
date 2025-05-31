@@ -1,0 +1,702 @@
+[
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Shawshank Redemption",
+    "YIL": 1994,
+    "AÇIKLAMA": "Bir bankacı, haksız yere mahkum edildikten sonra uzun yıllar süren dostluk ve umut arayışına girer."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Godfather",
+    "YIL": 1972,
+    "AÇIKLAMA": "Yaşlanan bir suç ailesi lideri, gizli imparatorluğunu istemeyen oğluna devreder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Dark Knight",
+    "YIL": 2008,
+    "AÇIKLAMA": "Joker'in Gotham'da yarattığı kaosa karşı Batman ve müttefikleri mücadele eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Schindler's List",
+    "YIL": 1993,
+    "AÇIKLAMA": "Nazi işgali altındaki Polonya'da, bir sanayici Yahudi işçilerini korumaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "12 Angry Men",
+    "YIL": 1957,
+    "AÇIKLAMA": "Bir cinayet davasındaki jüri, şüpheci bir üyenin dikkatli değerlendirmesiyle karar verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Lord of the Rings: The Return of the King",
+    "YIL": 2003,
+    "AÇIKLAMA": "Gandalf ve Aragorn, Orta Dünya'yı Sauron'un ordusuna karşı savunur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Godfather Part II",
+    "YIL": 1974,
+    "AÇIKLAMA": "Vito Corleone'nin hayatı ve oğlu Michael'ın aile suç örgütünü büyütmesi anlatılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Pulp Fiction",
+    "YIL": 1994,
+    "AÇIKLAMA": "Dört hikâyede mafya tetikçileri, boksörler ve suçluların hayatları kesişir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Lord of the Rings: The Fellowship of the Ring",
+    "YIL": 2001,
+    "AÇIKLAMA": "Bir Hobbit ve dostları, Güç Yüzüğü'nü yok etmek için tehlikeli bir yolculuğa çıkar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Inception",
+    "YIL": 2010,
+    "AÇIKLAMA": "Rüya paylaşımıyla sırlar çalan bir hırsız, bir fikri zihinlere yerleştirmeye çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Fight Club",
+    "YIL": 1999,
+    "AÇIKLAMA": "Uykusuz bir çalışan ve sabun üreticisi yeraltı dövüş kulübü kurar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Forrest Gump",
+    "YIL": 1994,
+    "AÇIKLAMA": "IQ'su düşük bir adamın ABD tarihindeki sıra dışı yaşamı anlatılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Good, the Bad and the Ugly",
+    "YIL": 1966,
+    "AÇIKLAMA": "Üç adam, gömülü altını bulmak için zoraki bir ittifak kurar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Lord of the Rings: The Two Towers",
+    "YIL": 2002,
+    "AÇIKLAMA": "Orta Dünya'da dostlar dağılırken yeni tehditlere karşı savaşılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Interstellar",
+    "YIL": 2014,
+    "AÇIKLAMA": "Gelecekte dünya yaşanmaz hale gelirken, yeni gezegen arayışı başlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Goodfellas",
+    "YIL": 1990,
+    "AÇIKLAMA": "Bir mafya mensubunun hayatı, ilişkileri ve suç ortaklıkları gözler önüne serilir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Matrix",
+    "YIL": 1999,
+    "AÇIKLAMA": "Hacker Neo, gerçekliğin siber bir yalan olduğunu keşfeder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Star Wars: Episode V - The Empire Strikes Back",
+    "YIL": 1980,
+    "AÇIKLAMA": "Luke Skywalker, Jedi eğitimi alırken galaksi çapında savaş devam eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "One Flew Over the Cuckoo's Nest",
+    "YIL": 1975,
+    "AÇIKLAMA": "Akıl hastanesindeki yeni hasta, baskıcı hemşireye karşı mücadele verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "12th Fail",
+    "YIL": 2023,
+    "AÇIKLAMA": "Gerçek bir hikâyede, iki devlet memurunun yaşam mücadelesi anlatılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Chaos Class Failed the Class",
+    "YIL": 1975,
+    "AÇIKLAMA": "Genç ve güzel bir kadın öğretmen, tamamı erkek öğrencilerden oluşan bir lisede çalışmaya başlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Star Wars: Episode IV - A New Hope",
+    "YIL": 1977,
+    "AÇIKLAMA": "Luke Skywalker, İmparatorluk’un yıkıcı savaş istasyonuna karşı savaşmak için bir grup müttefikle güç birliği yapar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Silence of the Lambs",
+    "YIL": 1991,
+    "AÇIKLAMA": "Genç bir FBI stajyeri, başka bir seri katili yakalamak için hapislerdeki kurnaz bir katilin yardımını alır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Se7en",
+    "YIL": 1995,
+    "AÇIKLAMA": "İki dedektif, yedi ölümcül günahı kullanan bir seri katilin peşindedir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Green Mile",
+    "YIL": 1999,
+    "AÇIKLAMA": "Ölüm cezası bekleyen bir gardiyan, koruduğu nazik devin gizemli bir yeteneğe sahip olduğunu öğrenir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "City of God",
+    "YIL": 2002,
+    "AÇIKLAMA": "Rio’nun gecekondu mahallelerinde iki çocuk, biri fotoğrafçı olmaya çalışırken diğeri suç dünyasına karışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Saving Private Ryan",
+    "YIL": 1998,
+    "AÇIKLAMA": "Normandiya çıkarmasının ardından, ABD askerlerinden oluşan bir grup, savaşta kaybedilen paraşütçüyü kurtarmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Spirited Away",
+    "YIL": 2001,
+    "AÇIKLAMA": "On yaşındaki bir kız, tanrılar ve ruhların yönettiği gizemli bir dünyaya adım atar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Terminator 2: Judgment Day",
+    "YIL": 1991,
+    "AÇIKLAMA": "Sarah Connor’ı öldürmekte başarısız olan bir siber savaşçı, şimdi onun oğlunu korumak zorundadır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Life Is Beautiful",
+    "YIL": 1997,
+    "AÇIKLAMA": "Yahudi bir garson ve oğlu, Holokost sırasında hayatta kalmak için hayal gücü ve mizahı kullanır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Seven Samurai",
+    "YIL": 1954,
+    "AÇIKLAMA": "Köylüler, haydutların saldırısına karşı kendilerini korumak için yedi samurayı işe alır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "It's a Wonderful Life",
+    "YIL": 1946,
+    "AÇIKLAMA": "Cennetten gönderilen bir melek, hayal kırıklığına uğramış bir adamın hayatını farklı açıdan görmesini sağlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Harakiri",
+    "YIL": 1962,
+    "AÇIKLAMA": "Bir ronin, başka bir roninin trajik intiharını anlatırken feodal lordların yozlaşmasını ortaya çıkarır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Gladiator",
+    "YIL": 2000,
+    "AÇIKLAMA": "Eski bir Roma generali, ailesini öldüren zalim imparatora karşı intikam peşine düşer."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Dune: Part Two",
+    "YIL": 2024,
+    "AÇIKLAMA": "Paul Atreides, ailesini yok eden komploculara karşı savaşırken evrenin kaderiyle karşı karşıya kalır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Parasite",
+    "YIL": 2019,
+    "AÇIKLAMA": "Zengin Park ailesi ile yoksul Kim ailesi arasında sınıf ayrımı ve açgözlülük, karmaşık bir ilişkiyi tehdit eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Prestige",
+    "YIL": 2006,
+    "AÇIKLAMA": "İki 19. yüzyıl sihirbazı, gizli sırlar için acımasız bir rekabete girer."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Departed",
+    "YIL": 2006,
+    "AÇIKLAMA": "Polis içinde gizli görevli bir dedektif ile çetenin bir muhbirinin birbirini bulma mücadelesi."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Django Unchained",
+    "YIL": 2012,
+    "AÇIKLAMA": "Alman bir ödül avcısının yardımıyla özgür kalan bir köle, karısını kurtarmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Whiplash",
+    "YIL": 2014,
+    "AÇIKLAMA": "Hırslı genç bir davulcu, müzik okulunda büyük başarı için acımasız bir öğretmenle mücadele eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Back to the Future",
+    "YIL": 1985,
+    "AÇIKLAMA": "Marty McFly, zamanda yolculuk yapan bir arabayla 30 yıl geriye gider."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Spider-Man: Across the Spider-Verse",
+    "YIL": 2023,
+    "AÇIKLAMA": "Miles Morales, çoklu evrende yeni bir Örümcek-Adam takımıyla tanışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Léon: The Professional",
+    "YIL": 1994,
+    "AÇIKLAMA": "İtalyan bir tetikçi, New York’lu bir yetim kız çocuğunu korur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Usual Suspects",
+    "YIL": 1995,
+    "AÇIKLAMA": "Bir polis sorgusundaki beş suçlu, karmaşık bir suçu anlatır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Alien",
+    "YIL": 1979,
+    "AÇIKLAMA": "Ticari bir uzay gemisi mürettebatı ölümcül bir yaşam formuyla karşılaşır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "American History X",
+    "YIL": 1998,
+    "AÇIKLAMA": "Neo-Nazi Derek, hapisten çıktıktan sonra hayatını değiştirmeye karar verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Once Upon a Time in the West",
+    "YIL": 1968,
+    "AÇIKLAMA": "Gizemli bir adam, bir dul kadını acımasız bir suikastçıdan korur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Grave of the Fireflies",
+    "YIL": 1988,
+    "AÇIKLAMA": "İkinci Dünya Savaşı sırasında genç bir çocuk ve kardeşi hayatta kalmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Lion King",
+    "YIL": 1994,
+    "AÇIKLAMA": "Aslan prensi Simba, tahtı ele geçirmek isteyen amcasına karşı mücadele eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Pianist",
+    "YIL": 2002,
+    "AÇIKLAMA": "II. Dünya Savaşı’nda bir Polonyalı müzisyen hayatta kalma mücadelesi verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Intouchables",
+    "YIL": 2011,
+    "AÇIKLAMA": "Kaza sonucu felç kalan aristokrat, genç bir bakıcı tutar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Psycho",
+    "YIL": 1960,
+    "AÇIKLAMA": "Bir sekreter, kaçarken yalnız bir motelde saklanır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Casablanca",
+    "YIL": 1942,
+    "AÇIKLAMA": "Nazi işgali altındaki Fas’ta bir Amerikan kafe sahibi zorlu bir karar verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Cinema Paradiso",
+    "YIL": 1988,
+    "AÇIKLAMA": "Bir yönetmen, çocukluğunda sinemaya olan aşkını hatırlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Rear Window",
+    "YIL": 1954,
+    "AÇIKLAMA": "Kırık bacağıyla komşularını izleyen bir fotoğrafçı, cinayet şüphesi duyar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Modern Times",
+    "YIL": 1936,
+    "AÇIKLAMA": "Çökmekte olan endüstri toplumunda bir serseri hayatta kalmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "City Lights",
+    "YIL": 1931,
+    "AÇIKLAMA": "Aşık olduğu kör kız için para biriktiren bir serseri."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Inglourious Basterds",
+    "YIL": 2009,
+    "AÇIKLAMA": "II. Dünya Savaşı’nda Yahudi askerlerin Nazi liderlerini öldürme planı."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Avengers: Endgame",
+    "YIL": 2019,
+    "AÇIKLAMA": "Avengers ekibi, Thanos’un evrene verdiği zararı düzeltmeye çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Dark Knight Rises",
+    "YIL": 2012,
+    "AÇIKLAMA": "Terörist Bane Gotham’ı işgal eder, Batman geri döner."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Avengers: Infinity War",
+    "YIL": 2018,
+    "AÇIKLAMA": "Avengers ve müttefikleri, evreni yok etmeye çalışan Thanos'a karşı her şeyi feda etmek zorundadır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Shining",
+    "YIL": 1980,
+    "AÇIKLAMA": "İzole bir otelde geçen ailenin babası, kötü ruhun etkisiyle şiddete yönelir; oğlu ise geleceği görmektedir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Apocalypse Now",
+    "YIL": 1979,
+    "AÇIKLAMA": "Vietnam’da görev yapan bir asker, kendini tanrı olarak gören isyancı bir albayı öldürmekle görevlendirilir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Memento",
+    "YIL": 2000,
+    "AÇIKLAMA": "Amnezi hastası eski sigorta araştırmacısı, karısının katilini notlar ve dövmelerle bulmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Raiders of the Lost Ark",
+    "YIL": 1981,
+    "AÇIKLAMA": "Arkeolog Indiana Jones, Kutsal Sandık’ı Nazi’lerden önce bulmak için görevlendirilir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Aliens",
+    "YIL": 1986,
+    "AÇIKLAMA": "Nostromo olaylarından sonra Ripley, uzaylılarla tekrar savaşmak zorunda kalır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Spider-Man: Into the Spider-Verse",
+    "YIL": 2018,
+    "AÇIKLAMA": "Genç Miles Morales, diğer evrenlerden gelen örümcek kahramanlarla birleşerek büyük bir tehdide karşı mücadele eder."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Your Name.",
+    "YIL": 2016,
+    "AÇIKLAMA": "İki genç, beden değiştirme yaşar ve gizemli bağlarını keşfederler; buluşmaya karar verirler."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Amadeus",
+    "YIL": 1984,
+    "AÇIKLAMA": "Mozart’ın hayatı, rakibi Antonio Salieri’nin gözünden anlatılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Lives of Others",
+    "YIL": 2006,
+    "AÇIKLAMA": "1984 Doğu Berlin’inde gizli polis, izlediği çiftin hayatına giderek bağlanır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Coco",
+    "YIL": 2017,
+    "AÇIKLAMA": "Ailesinin müziğe karşı yasağına rağmen, genç Miguel Ölüler Diyarı’na gider ve büyükbabasını arar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "3 Idiots",
+    "YIL": 2009,
+    "AÇIKLAMA": "İki arkadaş, üniversite yıllarındaki ilham veren arkadaşlarını aramaya koyulur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "WALL·E",
+    "YIL": 2008,
+    "AÇIKLAMA": "Dünya çöplerle kaplanmışken bir temizlik robotu, aşık olur ve insanlığın kaderini değiştirecek yolculuğa çıkar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Capernaum",
+    "YIL": 2018,
+    "AÇIKLAMA": "12 yaşındaki çocuk, ailesini ihmalle suçlar ve cezaevindeyken yaşadığı zorlukları anlatır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Sunset Boulevard",
+    "YIL": 1950,
+    "AÇIKLAMA": "Bir senarist, eski bir film yıldızıyla tehlikeli bir ilişki kurar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Das Boot",
+    "YIL": 1981,
+    "AÇIKLAMA": "Alman denizaltısı, II. Dünya Savaşı’nda Kuzey Atlantik’te hayatta kalma mücadelesi verir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "High and Low",
+    "YIL": 1963,
+    "AÇIKLAMA": "Bir şirket yöneticisi, şoförünün oğlunun kaçırılmasıyla şantaja uğrar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Paths of Glory",
+    "YIL": 1957,
+    "AÇIKLAMA": "Bir albay, intihar saldırısını gerçekleştirmeyen askerlerini mahkemede savunur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Witness for the Prosecution",
+    "YIL": 1957,
+    "AÇIKLAMA": "Bir avukat, cinayet davasında müvekkilini savunur ve beklenmedik olaylarla karşılaşır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Great Dictator",
+    "YIL": 1940,
+    "AÇIKLAMA": "Bir diktatör imparatorluğunu genişletmeye çalışırken, fakir bir berber zulümden kaçmaya çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Requiem for a Dream",
+    "YIL": 2000,
+    "AÇIKLAMA": "Dört Coney Island sakininin uyuşturucu bağımlılıkları hayatlarını yıkıyor."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Star Wars: Episode VI - Return of the Jedi",
+    "YIL": 1983,
+    "AÇIKLAMA": "Asi İttifakı, ikinci Ölüm Yıldızı'nı yok etmeye çalışırken Luke, Darth Vader'ı karanlıktan kurtarmaya uğraşır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Good Will Hunting",
+    "YIL": 1997,
+    "AÇIKLAMA": "Matematikte dahi olan Will Hunting, psikolog yardımıyla hayatını yönlendirmeye çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Oldboy",
+    "YIL": 2003,
+    "AÇIKLAMA": "On beş yıl hapsedildikten sonra serbest kalan Oh Dae-Su, kaçıranını bulmak zorundadır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Eternal Sunshine of the Spotless Mind",
+    "YIL": 2004,
+    "AÇIKLAMA": "Bozulan ilişkileri sonrası çift, birbirlerini hafızalarından sildirmek için medikal prosedür uygular."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Incendies",
+    "YIL": 2010,
+    "AÇIKLAMA": "İkizler, aile geçmişini keşfetmek ve annelerinin son dileklerini yerine getirmek için Orta Doğu'ya gider."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "American Beauty",
+    "YIL": 1999,
+    "AÇIKLAMA": "Orta yaş krizi yaşayan bir baba, kızının en iyi arkadaşına takıntılı hale gelir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Come and See",
+    "YIL": 1985,
+    "AÇIKLAMA": "Genç bir çocuk, Sovyet direnişine katılıp II. Dünya Savaşı'nın dehşetini yaşar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Once Upon a Time in America",
+    "YIL": 1984,
+    "AÇIKLAMA": "Eski bir gangster, 35 yıl sonra Manhattan'a dönüp geçmişiyle yüzleşir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Braveheart",
+    "YIL": 1995,
+    "AÇIKLAMA": "William Wallace, İngiltere Kralı Edward I'in zulmüne karşı İskoçları ayaklandırır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Reservoir Dogs",
+    "YIL": 1992,
+    "AÇIKLAMA": "Basit bir mücevher soygunu ters gider ve hayatta kalanlar arasında muhbir şüphesi başlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "The Hunt",
+    "YIL": 2012,
+    "AÇIKLAMA": "Bir öğretmenin yalnız hayatı, oğlunun velayeti için verdiği mücadeleyle sarsılır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Joker",
+    "YIL": 2019,
+    "AÇIKLAMA": "Toplum tarafından dışlanan Arthur Fleck, Gotham'da kaosun yolunu seçer."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "2001: A Space Odyssey",
+    "YIL": 1968,
+    "AÇIKLAMA": "Ay'da bulunan gizemli bir eser, Jüpiter'e yapılan keşif yolculuğunu başlatır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Toy Story",
+    "YIL": 1995,
+    "AÇIKLAMA": "Kovboy oyuncağı, yeni uzay figürü karşısında kıskançlık yaşar; sonunda birlikte eve dönmeye çalışırlar."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Princess Mononoke",
+    "YIL": 1997,
+    "AÇIKLAMA": "Laneti iyileştirmeye çalışan genç savaşçı Ashitaka, demir kasaba halkı ile kurtlar tarafından yetiştirilen Mononoke Prenses arasındaki çatışmaya karışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "YIL": 1964,
+    "AÇIKLAMA": "Akli dengesi bozuk bir general, Sovyetler'e hidrojen bombası saldırısı emri verir; dünya nükleer felaketin eşiğindedir."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Toy Story 3",
+    "YIL": 2010,
+    "AÇIKLAMA": "Oyuncaklar, yanlışlıkla çocuk bakım merkezine gönderilir ve Woody onları eve döndürmek için ikna etmeye çalışır."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Singin' in the Rain",
+    "YIL": 1952,
+    "AÇIKLAMA": "Sessiz film yıldızı, 1920'lerin Hollywood'unda sesli filmlere geçişte zorluk yaşar ve aşık olur."
+  },
+  {
+    "TÜR": "IMDb Top 100",
+    "TİP": "Film",
+    "AD": "Ikiru",
+    "YIL": 1952,
+    "AÇIKLAMA": "Terminal kanser teşhisi konan bir bürokrat, hayatına anlam katmaya çalışır."
+  }
+]
